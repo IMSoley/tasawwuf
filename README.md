@@ -6,9 +6,9 @@
 
 ### Abu Hamid Muhammad ibn Muhammad al-Ghazali
 
-* The Foundations of the Articles of Faith
-* A Return to Purity in Creed
-* O My Beloved Son
+* The Foundations of the Articles of Faith [[Amazon](https://amzn.to/3s3zEP4), [Online](https://www.ghazali.org/works/gz-itiqad.htm)]
+* A Return to Purity in Creed [[Amazon](https://amzn.to/3s9ICtZ), [PDF](https://archive.org/details/ReturnToPurityInCreedByGhazali)]
+* O My Beloved Son [[Amazon](https://amzn.to/3ucRAsk), [PDF](https://archive.org/details/MyDearBelovedSonOrDaughterByImamGhazali/)]
 * The Marvels of the Heart
 * Mysteries of the Human Soul
 * Disciplining the Soul and Breaking the Two Desires
