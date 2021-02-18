@@ -1,6 +1,6 @@
 <span align="center">
 <h2>My Study Resources</h2>
-  <p>Seeking for the Truth</p><br/>
+  <p>Seeking Truth</p><br/>
 </span>
 
 
