@@ -1,4 +1,8 @@
-<h2 align="center"> Sufi <i>[My]</i> Study Resources </h2>
+<span align="center">
+<h2>My Study Resources</h2>
+  <p>Seeking for the Truth</p><br/>
+</span>
+
 
 ### Abu Hamid Muhammad ibn Muhammad al-Ghazali
 
