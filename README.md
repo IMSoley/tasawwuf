@@ -52,6 +52,9 @@
 * Fihi Ma Fihi (It Is What It Is)
 * Qur’anic Narrative and Sufi Hermeneutics: Rumi's Interpretations of Pharaoh’s Character
 * The Sufi Doctrine of Rumi (Spiritual Masters)
+* Lectures
+  - [The Spiritual Practice of Rumi by Mahmoud Mostafa](https://www.youtube.com/watch?v=I1_r034y2lM)
+  - [Sufism: Whats Love Got To Do With It? by Mahmoud Mostafa](https://www.youtube.com/watch?v=pB24AcGzC_s)
 
 ### Al-Suhrawardi
 
