@@ -133,6 +133,10 @@
 
 * The Ilahi-Nama (Book of God)
 
+### Abu Bakr Al-Kalabadhi
+
+* The Doctrine of the Sufis: (Kitab Al-Taʻarruf Li-madhhab Ahl Al-tasawwuf) [[Amazon](https://amzn.to/3ax4ZUd), [PDF](https://archive.org/details/in.ernet.dli.2015.108515)]
+
 ### Omar Khayyam
 
 * The Sufistic Quatrains of Omar Khayyam
