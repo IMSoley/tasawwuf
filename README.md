@@ -45,10 +45,13 @@
 * The Seven Days of the Heart
 * What the Seeker Needs
 * Fusus al-hikam: The bezels of wisdom
+* Tarjuman al-ashwaq (A collection of mystical odes) [[Amazon](https://amzn.to/3avVUez), [PDF](http://www.sufi.ir/books/download/english/ibn-arabi-en/tarjoman-alashvagh.pdf)]
 
 ### Jalaluddin Muhammad Rumi
 
 * The Masnavi
+* Masnavi i Ma'navi. Teachings of Rumi [[PDF](https://www.thesufi.com/rumi_masnavi.pdf)]
+* The Heart of Hearts of Rumi's Mathnawi [[PDF](https://www.thesufi.com/The-Heart-of-Hearts-of-Rumi%27s-Mathnawi---Wazir-Dayers.pdf)]
 * Fihi Ma Fihi (It Is What It Is)
 * Qur’anic Narrative and Sufi Hermeneutics: Rumi's Interpretations of Pharaoh’s Character
 * The Sufi Doctrine of Rumi (Spiritual Masters)
@@ -131,7 +134,8 @@
 
 ### Attar of Nishapur
 
-* The Ilahi-Nama (Book of God)
+* The Ilahi-Nama (Book of God) [[Amazon](https://amzn.to/3qBKrQ3), [PDF](https://sufipathoflove.files.wordpress.com/2019/10/ilahi-nama.pdf)]
+* Muslim Saints and Mystics: Episodes from the Tadhkirat al-Auliya' (Memorial of the Saints) [[Amazon](https://amzn.to/2M4pLBj), [PDF](https://www.oozebap.org/biblio/pdf/sufi-saints.pdf)]
 
 ### Abu Bakr Al-Kalabadhi
 
@@ -139,7 +143,12 @@
 
 ### Omar Khayyam
 
-* The Sufistic Quatrains of Omar Khayyam
+* The Rubaiyat of Omar Khayyam [[Amazon](https://amzn.to/2M3wYl5), [PDF](https://archive.org/details/rubaiyatfitzgera00omar)]
+* The Sufistic Quatrains of Omar Khayyam [[Amazon](https://amzn.to/3uaQZaF), [PDF](http://www.tasavof.ir/books/download/english/khayam-en/sufisticquatrain-en.pdf)]
+
+### Mansur al-Hallaj
+
+* The Tawasin: (Book of the Purity of the Glory of God) [[Amazon](https://amzn.to/2Zt4Ivt), [PDF](http://traditionalhikma.com/wp-content/uploads/2015/03/The-Tawasin-of-Mansur-al-Hallaj.pdf), [Additional](https://physlab.lums.edu.pk/images/b/b8/Tawasin-summary.pdf)]
 
 ### Ibn Hajar al-Asqalani
 
@@ -172,3 +181,12 @@
 ### Ahmed Hulusi
 
 * “READ!” (The Reality Behind Muhammad’s First Revelation)
+
+### Others
+* The History of Hayy Ibn Yaqzan [[PDF](http://www.muslimphilosophy.com/books/hayy.pdf)]
+* Inner Secrets of the Path by Sayyid Haydar Amuli [[Amazon](https://amzn.to/3bmUMcb), [PDF](http://www.tasavof.ir/books/download/english/seyed-heydar-amoli-en/inner-secrets-of-the-path.pdf)]
+* The Reconstruction of Religious Thought in Islam by Sir Muhammad Iqbal [[Amazon](https://amzn.to/37vkwSJ), [PDF](http://www.archipress.org/docs/pdf/iqbalreconstruction.pdf)]
+* Joseph and Zuleika by Jami [[Amazon](https://amzn.to/3pwH63v), [PDF](http://www.sufism.ir/books/download/english/jami-en/joseph-and-zuleika-en.pdf)]
+* The Bustan Or Orchard Of Sa'di [[Amazon](https://amzn.to/3s5Q4GG), [PDF](http://www.sufism.ir/books/download/english/saadi-en/orchard-saadi-en.pdf)]
+* The Gulistan Or Rose Garden Of Sa'di [[Amazon](https://amzn.to/3awMBec), [PDF](http://www.sufi.ir/books/download/english/saadi-en/rosegarden-saadi-tr1-en.pdf)]
+* The Secret Rose Garden [[Amazon](https://amzn.to/37pKGpN), [PDF](http://www.sufism.ir/books/download/english/shabestari-en/secretrosegarden-shabestari_color-en.pdf)]
