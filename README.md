@@ -3,7 +3,6 @@
   <p>Seeking Truth</p><br/>
 </span>
 
-
 ### Abu Hamid Muhammad ibn Muhammad al-Ghazali
 
 * The Foundations of the Articles of Faith [[Amazon](https://amzn.to/3s3zEP4), [Online](https://www.ghazali.org/works/gz-itiqad.htm)]
@@ -46,18 +45,30 @@
 * What the Seeker Needs
 * Fusus al-hikam: The bezels of wisdom
 * Tarjuman al-ashwaq (A collection of mystical odes) [[Amazon](https://amzn.to/3avVUez), [PDF](http://www.sufi.ir/books/download/english/ibn-arabi-en/tarjoman-alashvagh.pdf)]
+* The Self And The Other In Ibn Arabi And Rumi [[PDF](https://docs.google.com/file/d/0B2GU1ZyPbqVlNy0wUE90dGd0Rlk/edit)]
 
 ### Jalaluddin Muhammad Rumi
 
-* The Masnavi
-* Masnavi i Ma'navi. Teachings of Rumi [[PDF](https://www.thesufi.com/rumi_masnavi.pdf)]
+* The Masnavi by Nicholson [[Amazon](https://amzn.to/3uedYlf), [PDF](https://drive.google.com/file/d/0B2GU1ZyPbqVlU3prMUMzM0s4b1k/edit), [Additional](https://sufism.org/library/rumi-resources)]
+* The Masnavi by E.H.-Whinfield [[PDF](https://www.thesufi.com/wp-content/uploads/Masnavi-Maanvi-E.H.-Whinfield-Complete-Book-1-6.pdf)]
+* The Sufi Path of Love: The Spiritual Teachings of Rumi [[Amazon](https://amzn.to/3axt6Cf), [PDF](https://archive.org/details/TheSufiPathOfLoveWilliamC.Chittick/)]
+* Rumi: bridge to the soul : journeys into the music and silence of the heart [[Amazon](https://amzn.to/3k8drMX), [PDF](http://libgen.rs/book/index.php?md5=A77F8E78298FFA4A2D55ED7A2E66339D)]
+* The Essential Rumi [[Amazon](https://amzn.to/3s9QHPo), [PDF](https://littlethingsaboutmeeh.files.wordpress.com/2016/05/coleman-barks-the-essential-rumi.pdf)]
+* Masnavi i Ma'navi. Teachings of Rumi [[Amazon](https://amzn.to/3be8SfW), [PDF](https://www.thesufi.com/rumi_masnavi.pdf)]
 * The Heart of Hearts of Rumi's Mathnawi [[PDF](https://www.thesufi.com/The-Heart-of-Hearts-of-Rumi%27s-Mathnawi---Wazir-Dayers.pdf)]
-* Fihi Ma Fihi (It Is What It Is)
-* Qur’anic Narrative and Sufi Hermeneutics: Rumi's Interpretations of Pharaoh’s Character
-* The Sufi Doctrine of Rumi (Spiritual Masters)
+* Fihi Ma Fihi (It Is What It Is) [[Amazon](https://amzn.to/3s8ATfN), [PDF](http://rumisite.com/Books/FiheMaFih.pdf)]
+* Islamic Mystical Poetry: Sufi Verse from the Early Mystics to Rumi [[Amazon](https://amzn.to/2NEuTfV), [PDF](https://archive.org/details/islamicmysticalpoetry)]
+* Qur’anic Narrative and Sufi Hermeneutics: Rumi's Interpretations of Pharaoh’s Character [[Amazon](https://amzn.to/3bpx7Ic), [PDF](https://ir.stonybrook.edu/xmlui/bitstream/handle/11401/71899/000000597.sbu.pdf)]
+* A Treasury of Rumi: Guidance on the Path of Wisdom and Unity [[Amazon](https://amzn.to/3bjs1gE), [PDF](http://libgen.rs/book/index.php?md5=A08D73453F83E09A249AB43F870CC8C1)]
+* Mystical Poems of Rumi [[Amazon](https://amzn.to/2NLrRXu), [PDF](https://archive.org/details/MysticalPoemsOfRumiArberry)]
+* The Rumi Daybook: 365 Poems and Teachings from the Beloved Sufi Master [[Amazon](https://amzn.to/3udFBe2), [PDF](https://archive.org/details/rumicamilleadamshelminski)]
+* The Sufi Doctrine of Rumi (Spiritual Masters) [[Amazon](https://amzn.to/3azWRCI), [PDF](http://traditionalhikma.com/wp-content/uploads/2015/07/The-Sufi-Doctrine-of-Rumi-by-William-Chittick.pdf)]
+* Rumi: Poet And Mystic [[Amazon](https://amzn.to/3umMSbR), [PDF](https://archive.org/details/rumipoetandmystic)]
 * Lectures
-  - [The Spiritual Practice of Rumi by Mahmoud Mostafa](https://www.youtube.com/watch?v=I1_r034y2lM)
-  - [Sufism: Whats Love Got To Do With It? by Mahmoud Mostafa](https://www.youtube.com/watch?v=pB24AcGzC_s)
+  * [The Spiritual Practice of Rumi by Mahmoud Mostafa](https://www.youtube.com/watch?v=I1_r034y2lM)
+  * [Sufism: Whats Love Got To Do With It? by Mahmoud Mostafa](https://www.youtube.com/watch?v=pB24AcGzC_s)
+* Rumi's Use of the Qur’an and Hadith [[PDF](https://drive.google.com/file/d/0B2GU1ZyPbqVlOVVvUEFpcDczUXM/view)]
+* Rumi Hafiz - Spiritual Quotations for Lovers of God [[PDF](http://kirpalsingh.org/Booklets/Rumi_Hafiz.pdf)]
 
 ### Al-Suhrawardi
 
@@ -131,6 +142,9 @@
 ### Shams-i Tabrizi
 
 * Shour-e Shams: A Rumi Anthology Of Diwan-e Kabir
+* Divan-e Shams [[PDF](http://www.bahaistudies.net/asma/divaneshams.pdf)]
+* Divan kabir or Kulliyat e Shams [[PDF](https://archive.org/details/DivanEShamsDivanKabir/)]
+* Me and Rumi: The Autobiography of Shams-I Tabrizi [[Amazon](https://amzn.to/3k2EQzQ), [PDF](http://libgen.rs/book/index.php?md5=AE7478F480ED3E63F7205EDAA41BFBDD)]
 
 ### Attar of Nishapur
 
@@ -183,6 +197,7 @@
 * “READ!” (The Reality Behind Muhammad’s First Revelation)
 
 ### Others
+
 * The History of Hayy Ibn Yaqzan [[PDF](http://www.muslimphilosophy.com/books/hayy.pdf)]
 * Inner Secrets of the Path by Sayyid Haydar Amuli [[Amazon](https://amzn.to/3bmUMcb), [PDF](http://www.tasavof.ir/books/download/english/seyed-heydar-amoli-en/inner-secrets-of-the-path.pdf)]
 * The Reconstruction of Religious Thought in Islam by Sir Muhammad Iqbal [[Amazon](https://amzn.to/37vkwSJ), [PDF](http://www.archipress.org/docs/pdf/iqbalreconstruction.pdf)]
