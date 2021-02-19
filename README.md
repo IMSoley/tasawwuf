@@ -26,6 +26,8 @@
 * The Remembrance of Death and the Afterlife
 * Inner Dimensions of Islamic Worship
 * Al-Risalah Al-Ladunniyyah
+* Deliverance from Error
+* The Incoherence of the Philosophers
 
 ### Abdul Qadir Gilani
 
@@ -33,7 +35,6 @@
 * Purification of the Mind
 * Sufficient Provision for Seekers of the Path of Truth
 * Revelations of the Unseen
-* Deliverance from Error
 
 ### Ibn Arabi
 
