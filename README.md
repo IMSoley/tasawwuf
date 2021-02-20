@@ -46,6 +46,8 @@
 * Fusus al-hikam: The bezels of wisdom
 * Tarjuman al-ashwaq (A collection of mystical odes) [[Amazon](https://amzn.to/3avVUez), [PDF](http://www.sufi.ir/books/download/english/ibn-arabi-en/tarjoman-alashvagh.pdf)]
 * The Self And The Other In Ibn Arabi And Rumi [[PDF](https://docs.google.com/file/d/0B2GU1ZyPbqVlNy0wUE90dGd0Rlk/edit)]
+* Lectures
+  * [Insights from (Muhyiddin) Ibn Arabi](https://www.youtube.com/playlist?list=PLMDZGtTNGHpENB2Ylrf3n84I-NQmAt_Xd)
 
 ### Jalaluddin Muhammad Rumi
 
