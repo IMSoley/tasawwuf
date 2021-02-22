@@ -66,10 +66,19 @@
 * The Rumi Daybook: 365 Poems and Teachings from the Beloved Sufi Master [[Amazon](https://amzn.to/3udFBe2), [PDF](https://archive.org/details/rumicamilleadamshelminski)]
 * The Sufi Doctrine of Rumi (Spiritual Masters) [[Amazon](https://amzn.to/3azWRCI), [PDF](http://traditionalhikma.com/wp-content/uploads/2015/07/The-Sufi-Doctrine-of-Rumi-by-William-Chittick.pdf)]
 * Rumi: Poet And Mystic [[Amazon](https://amzn.to/3umMSbR), [PDF](https://archive.org/details/rumipoetandmystic)]
+* Rumi: Swallowing the Sun
+* Love: The Joy That Wounds: The Love Poems of Rumi
+* In the Arms of the Beloved
 * Lectures
   * [The Spiritual Practice of Rumi by Mahmoud Mostafa](https://www.youtube.com/watch?v=I1_r034y2lM)
   * [Sufism: Whats Love Got To Do With It? by Mahmoud Mostafa](https://www.youtube.com/watch?v=pB24AcGzC_s)
 * Rumi's Use of the Qur’an and Hadith [[PDF](https://drive.google.com/file/d/0B2GU1ZyPbqVlOVVvUEFpcDczUXM/view)]
+* The Secret Meaning: Rumi's Spiritual Lessons on Sufism [[PDF](https://drive.google.com/file/d/1Ue6L51932LNqBArG3p0lS3is8-E6LlPe/view)]
+* The Life and Work of Jalaluddin Rumi by Afzal Iqbal
+* Tears Of The Heart Rumi Selections
+* Rumi’s Metaphysics of the Heart [[PDF](http://traditionalhikma.com/wp-content/uploads/2015/03/Rumis-Metaphysics-of-the-Heart-by-Muhammed-Rustom.pdf)]
+* Rumi Shabbat [[PDF](https://velveteenrabbi.blogs.com/files/rumi-service-2.pdf)]
+* Rumi’s path of realization [[Online](http://www.allamaiqbal.com/publications/journals/review/oct01/05.htm)]
 * Rumi Hafiz - Spiritual Quotations for Lovers of God [[PDF](http://kirpalsingh.org/Booklets/Rumi_Hafiz.pdf)]
 
 ### Al-Suhrawardi
