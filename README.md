@@ -8,44 +8,50 @@
 * The Foundations of the Articles of Faith [[Amazon](https://amzn.to/3s3zEP4), [Online](https://www.ghazali.org/works/gz-itiqad.htm)]
 * A Return to Purity in Creed [[Amazon](https://amzn.to/3s9ICtZ), [PDF](https://archive.org/details/ReturnToPurityInCreedByGhazali)]
 * O My Beloved Son [[Amazon](https://amzn.to/3ucRAsk), [PDF](https://archive.org/details/MyDearBelovedSonOrDaughterByImamGhazali/)]
-* The Marvels of the Heart
-* Mysteries of the Human Soul
-* Disciplining the Soul and Breaking the Two Desires
-* The Jewels of the Quran
-* Vigilance & Self-Examination
-* The Mysteries of Purity
-* The Best Way For The Worshippers
-* Divine Predicates and Their Properties
-* The Secrets of Pilgrimage
-* Beginning of Guidance
-* Music and Ecstasy
-* Repentance
-* Book of Knowledge
-* Book of Fear and Hope
-* The Remembrance of Death and the Afterlife
-* Inner Dimensions of Islamic Worship
-* Al-Risalah Al-Ladunniyyah
-* Deliverance from Error
-* The Incoherence of the Philosophers
+* The Marvels of the Heart [[Amazon](https://amzn.to/2OZVVyV), [PDF](https://archive.org/download/GhazaliTheMarvelsOfTheHeartSkellie_201512/TheMarvelsOfTheHeart.pdf), [Thesis](http://www.ghazali.org/books/skillie.pdf)]
+* Mysteries of the Human Soul [[Amazon](https://amzn.to/37XFBWn), [Online](https://www.ghazali.org/works/soul.htm)]
+* Disciplining the Soul and Breaking the Two Desires [[Amazon](https://amzn.to/37GeleG), [PDF](https://archive.org/download/learnislampdfenglishbookalghazaliondiscipliningthesoulandbreakingthetwodesires/learn%20islam%20pdf%20english%20book%20__%20Al-ghazaliOnDiscipliningTheSoulAndBreakingTheTwoDesires.pdf)]
+* The Jewels of the Quran [[Amazon](https://amzn.to/3pOGSVD), [PDF](https://archive.org/download/JewelsOfTheQuran/Jewels%20Of%20The%20Quran.pdf)]
+* Vigilance & Self-Examination [[Amazon](https://amzn.to/3uqbtwg), [PDF](https://archive.org/download/GhazaliONVIGILANCESELFEXAMINATION/Ghazali%20ON%20VIGILANCE%20%26%20SELF-%20EXAMINATION.pdf)]
+* The Mysteries of Purity [[Amazon](https://amzn.to/37CBrmf), [PDF](https://www.ghazali.org/books/purity.pdf)]
+* The Best Way For The Worshippers [[Amazon](https://amzn.to/3dGaB0n), [PDF](https://www.ghazali.org/books/minhaj-eng-98.pdf)]
+* Divine Predicates and Their Properties [[Amazon](https://amzn.to/2MgCi4H), [PDF](https://www.ghazali.org/books/abu-zayd.pdf)]
+* The Secrets of Pilgrimage [[Amazon](https://amzn.to/3qR0j1e), [PDF](https://archive.org/download/GhazaliBookOnTheSecretsOfHajj/Ghazali%20-%20Book%20on%20the%20Secrets%20of%20Hajj.pdf), [Online](http://ghazali.org/books/hajj-text.htm)]
+* The Beginning of Guidance: The Imam and proof of Islam [[Amazon](https://amzn.to/3kg66uU), [PDF](https://archive.org/download/BeginningOfGuidance/Beginning%20of%20Guidance%20by%20Imam%20Ghazali.pdf)]
+* Al-Ghazali on Responses Proper to Listening to Music and the Experience of Ecstasy [[Amazon](https://amzn.to/2Nouoaf), [PDF](http://ghazali.org/articles/gz-music.pdf)]
+* Al-Ghazzali On Repentance [[Amazon](https://amzn.to/2NXBxhG), [PDF](https://www.ghazali.org/books/gz-repent.pdf)]
+* Book of Knowledge [[Amazon](https://amzn.to/3urnpO7), [PDF](http://ghazali.org/books/knowledge.pdf)]
+* Book of Fear and Hope [[Amazon](https://amzn.to/3kezEcp), [PDF](https://www.ghazali.org/books/ih-33.pdf)]
+* The Remembrance of Death and the Afterlife [[Amazon](https://amzn.to/3qOlVLU), [PDF](https://archive.org/download/learnislampdfenglishbookalghazaliontheremembranceofdeaththeafterlife/learn%20islam%20pdf%20english%20book%20__%20Al-ghazaliOnTheRemembranceOfDeathTheAfterlife.pdf)]
+* Inner Dimensions of Islamic Worship [[Amazon](https://amzn.to/3aJKT9C), [PDF](http://library.lol/main/990F7F9B3428EA3F1F9F4F655FB15013)]
+* Deliverance from Error [[Amazon](https://amzn.to/2ZOSkWx), [PDF](http://www.crvp.org/publications/Series-IIA/IIA-2-Contents.pdf), [Online](https://www.ghazali.org/books/md/IIA-02main.htm)]
+* The Incoherence of the Philosophers [[Amazon](https://amzn.to/2NQWWcj), [PDF](https://academiaanalitica.files.wordpress.com/2019/07/abu-hamid-muhammad-al-ghazali-the-incoherence-of-the-philosophers.pdf)]
+* Book on the Etiquette of Marriage [[Amazon](https://amzn.to/3unKHEF), [PDF](http://ghazali.org/books/marriage.pdf), [Online](https://www.ghazali.org/works/marriage.htm)]
 
 ### Abdul Qadir Gilani
 
-* The Secret of Secrets
-* Purification of the Mind
-* Sufficient Provision for Seekers of the Path of Truth
-* Revelations of the Unseen
+* The Secret of Secrets [[Amazon](https://amzn.to/3dGEGNw), [PDF](http://alameer.org/old/pvt/books/The-Secret-of-Secrets.pdf), [Additional](http://www.al-baz.com/shaikhabdalqadir/Books_and_Text_of_Wisdom/Sirr_al-Asrar/sirr_al-asrar.html)]
+* Purification of the Mind [[Amazon](https://amzn.to/2ZIfjCP), [PDF](https://archive.org/download/PurificationOfTheMindjilaAlKhatirByQadirAlJilani/Purification%20of%20the%20mind%20%28jila%20al-khatir%29%20by%20Qadir%20al-Jilani.pdf)]
+* Sufficient Provision for Seekers of the Path of Truth [[Amazon](https://amzn.to/2Nx0dxu), [PDF](https://archive.org/download/QADIRJILANIAlGhunyaLiTalibiTariqAlHaqqSufficientProvisionForSeekersOfThePathOfTruth/QADIR%20JILANI%20-%20Al-Ghunya%20liTalibi%20Tariq%20al-Haqq%20-%20Sufficient%20Provision%20for%20Seekers%20of%20the%20Path%20of%20Truth.pdf)]
+* Revelations of the Unseen [[Amazon](https://amzn.to/3aLvQw4), [PDF](https://aaiil.org/text/books/others/aftabdin/futuhalghaib/futuhalghaib.pdf)]
 
 ### Ibn Arabi
 
-* Alone With the Alone
-* A Prayer for Spiritual Elevation and Protection
-* Journey to the Lord of Power: A Sufi Manual on Retreat
-* Know yourself an explanation of the oneness of being
-* The Seven Days of the Heart
-* What the Seeker Needs
-* Fusus al-hikam: The bezels of wisdom
+* Alone With the Alone [[Amazon](https://amzn.to/2P55xsp), [PDF](https://archive.org/download/byhenrycorbin/Henry%20Corbin%20-%20Alone%20with%20the%20Alone.pdf)]
+* A Prayer for Spiritual Elevation and Protection [[Amazon](https://amzn.to/3bBx1gG), [PDF](https://ia600304.us.archive.org/24/items/APrayerForSpiritualElevationAndProtectionIBNARABI/A%20Prayer%20for%20Spiritual%20Elevation%20and%20Protection%20IBN%20ARABI.pdf)]
+* Journey to the Lord of Power: A Sufi Manual on Retreat [[Amazon](https://amzn.to/37IZ7FU), [PDF](https://archive.org/download/JourneyToTheLordOfPowerRisalatAlAnwarFimaYunahSahibAlKhalwaMinAlAsrarByIbnArabi/Journey%20to%20the%20Lord%20of%20Power%20%28Risalat%20al-anwar%20fima%20yunah%20sahib%20al-khalwa%20min%20al-asrar%29%20by%20Ibn%20Arabi.pdf)]
+* Know yourself an explanation of the oneness of being [[Amazon](https://amzn.to/3spCSg7), [PDF](https://b-ok.asia/book/4996314/ddc76d?regionChanged=&redirect=184930719)]
+* The Seven Days of the Heart [[Amazon](https://amzn.to/3aM3wtz), [PDF](https://archive.org/download/AboutIslamInEnglish_20151119/SevenDaysOfTheHeart_Ibn_Al_Arabi_Prayers.pdf)]
+* What the Seeker Needs: Essays on Spiritual Practice, Oneness, Majesty and Beauty [[Amazon](https://amzn.to/3ut7PSb), [Additional](http://www.sufi.ir/books/download/english/ibn-arabi-en/what-the-seekers-need-en.pdf), [Additional](https://www.ibnarabisociety.org/wp-content/uploads/PDFs/Morris_Book-of-quintessence.pdf)]
+* Fusus al-hikam: The bezels of wisdom [[Amazon](https://amzn.to/3ujKbHM), [PDF](https://ia801007.us.archive.org/23/items/TheBezelsOfWisdom_201806/The%20Bezels%20Of%20Wisdom.pdf), [Commentary](https://archive.org/download/TheBezelsOfWisdom_201806/Nabalusi%20Commentary%20on%20Fusus%20al%20hikam.pdf)]
 * Tarjuman al-ashwaq (A collection of mystical odes) [[Amazon](https://amzn.to/3avVUez), [PDF](http://www.sufi.ir/books/download/english/ibn-arabi-en/tarjoman-alashvagh.pdf)]
 * The Self And The Other In Ibn Arabi And Rumi [[PDF](https://docs.google.com/file/d/0B2GU1ZyPbqVlNy0wUE90dGd0Rlk/edit)]
+* The Sufi Path of Knowledge: Ibn Al-Arabi's Metaphysics of Imagination [[Amazon](https://amzn.to/37HsE2v), [PDF](https://archive.org/download/TheSufiPathOfKnowledgeWilliamC.Chittick/The%20Sufi%20Path%20Of%20Knowledge%20-%20William%20C.%20Chittick.pdf)]
+* The Universal Tree and the Four Birds [[Amazon](https://amzn.to/2NOyfx0), [PDF](https://freeyourmindtx.net/wp-content/uploads/2018/12/IbnArabiTheUniversalTreeAndTheFourBirds-1.pdf)]
+* Ibn Arabi Unveiling the Secret of the Most Beautiful Names [[Amazon](https://amzn.to/3bvXZGK)]
+* The Self-Disclosure of God: Principles of Ibn Al-'Arabi's Cosmology [[Amazon](https://amzn.to/37BvG8D), [PDF](http://traditionalhikma.com/wp-content/uploads/2015/07/The-Self-Disclosure-of-God-Principles-of-Ibn-Al-Arabis-Cosmology-by-William-C.-Chittick.pdf)]
+* The Tree of Being: An Ode to the Perfect Man [[Amazon](https://amzn.to/2ZP1OB7), [PDF](https://archive.org/download/ibnarabithetreeofbeingshajaratalkawnanodetotheperfectmaninterpretedbyshaykhtosun/IBN%20%27ARABI%20The%20Tree%20of%20Being%2C%20Shajarat%20al-kawn%2C%20An%20Ode%20to%20the%20Perfect%20Man%2C%20Interpreted%20by%20Shaykh%20Tosun%20Bayrak%20al-Jerrahi%20al-Halveti.pdf)]
+* The Seal of the Saints: Prophethood and Sainthood in the Doctrine of Ibn Arabi [[Amazon](https://amzn.to/37BuQJ1), [PDF](https://archive.org/download/ChodkiewiczSealOfTheSaints/Chodkiewicz%20-%20Seal%20of%20the%20Saints.pdf)]
 * Lectures
   * [Insights from (Muhyiddin) Ibn Arabi](https://www.youtube.com/playlist?list=PLMDZGtTNGHpENB2Ylrf3n84I-NQmAt_Xd)
 
@@ -66,16 +72,16 @@
 * The Rumi Daybook: 365 Poems and Teachings from the Beloved Sufi Master [[Amazon](https://amzn.to/3udFBe2), [PDF](https://archive.org/details/rumicamilleadamshelminski)]
 * The Sufi Doctrine of Rumi (Spiritual Masters) [[Amazon](https://amzn.to/3azWRCI), [PDF](http://traditionalhikma.com/wp-content/uploads/2015/07/The-Sufi-Doctrine-of-Rumi-by-William-Chittick.pdf)]
 * Rumi: Poet And Mystic [[Amazon](https://amzn.to/3umMSbR), [PDF](https://archive.org/details/rumipoetandmystic)]
-* Rumi: Swallowing the Sun
-* Love: The Joy That Wounds: The Love Poems of Rumi
-* In the Arms of the Beloved
+* Rumi: Swallowing the Sun [[Amazon](https://amzn.to/3skD9kq), [PDF](http://library.lol/main/C8F7C1B10C7181843D04B3A2092DE43E)]
+* Love: The Joy That Wounds: The Love Poems of Rumi [[Amazon](https://amzn.to/3bwuTaa), [PDF](http://library.lol/main/18156F0CB4A67A84524EC3AA6D64B49B)]
+* In the Arms of the Beloved [[Amazon](https://amzn.to/3sk8vYf), [PDF](http://library.lol/main/832184BC4762E880A79AEBA8421FF2BF)]
 * Lectures
   * [The Spiritual Practice of Rumi by Mahmoud Mostafa](https://www.youtube.com/watch?v=I1_r034y2lM)
   * [Sufism: Whats Love Got To Do With It? by Mahmoud Mostafa](https://www.youtube.com/watch?v=pB24AcGzC_s)
 * Rumi's Use of the Qur’an and Hadith [[PDF](https://drive.google.com/file/d/0B2GU1ZyPbqVlOVVvUEFpcDczUXM/view)]
 * The Secret Meaning: Rumi's Spiritual Lessons on Sufism [[PDF](https://drive.google.com/file/d/1Ue6L51932LNqBArG3p0lS3is8-E6LlPe/view)]
-* The Life and Work of Jalaluddin Rumi by Afzal Iqbal
-* Tears Of The Heart Rumi Selections
+* The Life and Work of Jalaluddin Rumi by Afzal Iqbal [[Amazon](https://amzn.to/3kgrOyN), [PDF](https://archive.org/details/TheLifeAndWorkOfJalalUdDinRumibyAfzalIqbal_201902)]
+* Tears Of The Heart Rumi Selections [[Amazon](https://amzn.to/2ZGIZ3l), [PDF](https://archive.org/details/tearsoftheheartrumiselectionsosmannuritopbas)]
 * Rumi’s Metaphysics of the Heart [[PDF](http://traditionalhikma.com/wp-content/uploads/2015/03/Rumis-Metaphysics-of-the-Heart-by-Muhammed-Rustom.pdf)]
 * Rumi Shabbat [[PDF](https://velveteenrabbi.blogs.com/files/rumi-service-2.pdf)]
 * Rumi’s path of realization [[Online](http://www.allamaiqbal.com/publications/journals/review/oct01/05.htm)]
@@ -100,11 +106,6 @@
 ### Imam Hasan al-Basri
 
 * Virtues of The Prayers for Forgiveness
-
-### Ibn Taymiyyah
-
-* Diseases of the Hearts & Their Cures
-* The Essential Pearls & Gems
 
 ### Imam Al-Nawawi
 
@@ -145,6 +146,7 @@
 * Men & The Universe
 * The Path to Guidance
 * Ar-Ruh-The Soul’s Journey After Death
+* Inner Dimensions of the Prayer [[Amazon](https://amzn.to/2P8Tqux), [PDF](https://archive.org/download/InnerDimensionsOfThePrayerr.-Alhamdulillah-library.blogspot.in.pdf/InnerDimensionsOfThePrayerr.-Alhamdulillah-library.blogspot.in.pdf)]
 
 ### Ahmad Mashhur Al-Haddad
 
@@ -216,3 +218,4 @@
 * The Bustan Or Orchard Of Sa'di [[Amazon](https://amzn.to/3s5Q4GG), [PDF](http://www.sufism.ir/books/download/english/saadi-en/orchard-saadi-en.pdf)]
 * The Gulistan Or Rose Garden Of Sa'di [[Amazon](https://amzn.to/3awMBec), [PDF](http://www.sufi.ir/books/download/english/saadi-en/rosegarden-saadi-tr1-en.pdf)]
 * The Secret Rose Garden [[Amazon](https://amzn.to/37pKGpN), [PDF](http://www.sufism.ir/books/download/english/shabestari-en/secretrosegarden-shabestari_color-en.pdf)]
+* Freedom from the Self: Sufism, Meditation, Psychotherapy by Mohammad Shafii [[Amazon](https://amzn.to/37Hqdgn)]
