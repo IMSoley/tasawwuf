@@ -54,6 +54,12 @@
 * The Seal of the Saints: Prophethood and Sainthood in the Doctrine of Ibn Arabi [[Amazon](https://amzn.to/37BuQJ1), [PDF](https://archive.org/download/ChodkiewiczSealOfTheSaints/Chodkiewicz%20-%20Seal%20of%20the%20Saints.pdf)]
 * Lectures
   * [Insights from (Muhyiddin) Ibn Arabi](https://www.youtube.com/playlist?list=PLMDZGtTNGHpENB2Ylrf3n84I-NQmAt_Xd)
+* Mystical Astrology According to Ibn 'Arabi [[Amazon](https://amzn.to/3aLdQSq), [PDF](http://traditionalhikma.com/wp-content/uploads/2015/02/Mystical-Astrology-According-to-Ibn-Arabi-by-Titus-Burckhardt.pdf)]
+* Contemplation of the Holy Mysteries and the Rising of the Divine Lights [[Amazon](https://amzn.to/3sk8aF0), [PDF](https://archive.org/download/ContemplationOfTheHolyMysteriesAndTheRisingOfTheDivineLights/contemplation%20of%20the%20holy%20mysteries%20and%20the%20rising%20of%20the%20divine%20lights.pdf)]
+* Divine Sayings: 101 Hadith Qudsi: The Mishkat al-Anwar of Ibn 'Arabi [[Amazon](https://amzn.to/3pUM2Q8), [PDF](https://www.ussakiorder.com/uploads/5/8/1/7/58178045/mishkat_al_anwar__101_hadith_qudsi__imam_ibn_arabi.pdf)]
+* The Four Pillars of Spiritual Transformation [[Amazon](https://amzn.to/37Gfcfx), [PDF](http://library.lol/main/DD4FA483532DABD00752286576C21D62)]
+* Testament on the Mantle of Initiation [[PDF](https://ibnarabisociety.org/wp-content/uploads/PDFs/Elomre_Ibn-Arabis-testament.pdf)]
+* Spiritual Practice and Other Translations [[PDF](https://ibnarabisociety.org/wp-content/uploads/PDFs/Morris_Spiritual-Practice.pdf)]
 
 ### Jalaluddin Muhammad Rumi
 
