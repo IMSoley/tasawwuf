@@ -95,39 +95,26 @@
 
 ### Al-Suhrawardi
 
-* The Shape of Light
-* The Awarif Ul Ma’arif
-* The School of Illumination
-* The Philosophy of Illumination
+* The Shape of Light [[Amazon](https://amzn.to/37GSoMK), [PDF](https://sufipathoflove.files.wordpress.com/2020/01/shihabuddin-yahaya-al-suhrawardi-the-shape-of-light_interpreted-by-tosun-bayrak11-1.pdf)]
+* The Awarif Ul Ma’arif [[Amazon](https://amzn.to/3aPPGGF), [PDF](https://archive.org/download/UmarSuhrawardiAwarifAlMaarif/Umar%20Suhrawardi_Awarif%20al-Maarif.pdf)]
+* The School of Illumination [[Amazon](https://amzn.to/3pQpBLL), [PDF](https://freeyourmindtx.net/wp-content/uploads/2019/01/Suhrawardi-and-the-School-of-Illumination-by-Mehdi-Amin-Razavi.pdf)]
+* The Philosophy of Illumination [[Amazon](https://amzn.to/3pUNAtq)]
 
 ### Abdallah ibn Alawi al-Haddad
 
-* The “Exhortation”
-* Discipline in the Path of the Seeker
-* The Book of Assistance
-* The Lives of Man: A Guide to the Human States: Before Life, In the World, and After Death
-* Gifts for the Seeker
-* Three Treatises : Mutual Reminding, Good Manners & The Aphorisms
-
-### Imam Hasan al-Basri
-
-* Virtues of The Prayers for Forgiveness
-
-### Imam Al-Nawawi
-
-* The Book Of Remembrances [Kitab Al-Adhkar]
-
-### Ahmad Farid
-
-* The Purification of the Soul
-
-### al-Junayd
-
-* The Life, Personality, and Writings of al-Junayd
+* Discipline in the Path of the Seeker [[PDF](https://archive.org/download/DisciplineInThePathOfTheSeekerAdabSulukAlMuridByImamAbdullahAlHaddad/Discipline%20in%20the%20path%20of%20the%20seeker%20%28Adab%20suluk%20al-murid%29%20by%20Imam%20Abdullah%20al-Haddad.pdf)]
+* The Book of Assistance [[Amazon](https://amzn.to/3kfS64r), [PDF](https://zulkiflihasan.files.wordpress.com/2008/06/the-book-of-assistance-imam-al-haddad.pdf), [Modern](https://www.fussilatbd.com/Islamic%20Books/The%20Book%20Of%20Assistance.pdf)]
+* The Lives of Man: A Guide to the Human States: Before Life, In the World, and After Death [[Amazon](https://amzn.to/3kk0DDa), [PDF](http://library.lol/main/2F0CE6D2048E2D55D8ACC2235FA61CF2)]
+* Gifts for the Seeker [[Amazon](https://amzn.to/3aLy3HJ), [PDF](http://library.lol/main/5027A51CA8318291DEF44D821614EE60)]
+* Three Treatises : Mutual Reminding, Good Manners & The Aphorisms [[Amazon](https://amzn.to/3qObxDH), [PDF](https://archive.org/download/MutualRemindingAndGoodMannersByImamAlHaddad/Mutual%20Reminding%20and%20good%20manners%20by%20Imam%20al%20Haddad%20.pdf)]
+* The “Exhortation” [[PDF](https://static1.squarespace.com/static/5d5c9ccd82cb3e0001da8600/t/5dde3f4e0c91bc6c3b780861/1574846287479/The-%E2%80%9CExhortation%E2%80%9D-of-Imam-al-Haddad.pdf)]
 
 ### Ibn Ata Allah
 
-* The Key to Salvation: A Sufi Manual of Invocation
+* The Key to Salvation: A Sufi Manual of Invocation [[Amazon](https://amzn.to/3smnwJ3), [PDF](https://sufipathoflove.files.wordpress.com/2019/10/the-key-to-salvation.-a-sufi-manual-of-invocation-by-ibn-ata-iskandari.pdf)]
+* al-Hikam al-Ata'iyyah [[Amazon](https://amzn.to/3by4bho), [PDF](https://www.themathesontrust.org/papers/islam/ibnataallah-hikam.pdf), [Commentary](http://data.nur.nu/Kutub/English/Ibn-3Ajiba_Sharh-al-Hikam-al-3Ataiyya_transl-Aisha-Bewley.pdf)]
+* Book of Illumination [[Amazon](https://amzn.to/3dCQaSd)]
+* The Pure Intention: On Knowledge of the Unique Name [[Amazon](https://amzn.to/3pLToFd), [PDF]()]
 
 ### Ibn Al-Husayn Al-Sulami
 
@@ -217,6 +204,10 @@
 
 ### Others
 
+* The Book Of Remembrances [Kitab Al-Adhkar] by Imam Al-Nawawi [[Amazon](https://amzn.to/3by3C7g), [PDF](https://archive.org/download/the-book-of-remembrances-kitab-al-adhkar/The%20Book%20Of%20Remembrances%20%5BKitab%20Al-Adhkar%5D.pdf)]
+* Virtues of The Prayers for Forgiveness by Imam Hasan al-Basri [[Amazon](https://amzn.to/2ZXHlKR), [PDF](http://www.zawiyah.org/zawiyah/PDFs/Prayers%20For%20Forgiveness.pdf)]
+* The Life, Personality and Writings of al-Junayd [[Amazon](https://amzn.to/3bEBJKW), [PDF](https://archive.org/download/TheLifePersonalityAndWritingsOfAlJunaydDrHAbdelKader/The-Life-Personality-and-Writings-of-Al-Junayd-Dr-H-Abdel-Kader.pdf)]
+* The Purification of the Soul by Ahmad Farid [[Amazon](https://amzn.to/2ZHffmV), [PDF](https://www.missionislam.com/knowledge/books/PurificationOfTheSoul.pdf)]
 * The History of Hayy Ibn Yaqzan [[PDF](http://www.muslimphilosophy.com/books/hayy.pdf)]
 * Inner Secrets of the Path by Sayyid Haydar Amuli [[Amazon](https://amzn.to/3bmUMcb), [PDF](http://www.tasavof.ir/books/download/english/seyed-heydar-amoli-en/inner-secrets-of-the-path.pdf)]
 * The Reconstruction of Religious Thought in Islam by Sir Muhammad Iqbal [[Amazon](https://amzn.to/37vkwSJ), [PDF](http://www.archipress.org/docs/pdf/iqbalreconstruction.pdf)]
