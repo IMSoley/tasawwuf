@@ -116,21 +116,11 @@
 * Book of Illumination [[Amazon](https://amzn.to/3dCQaSd)]
 * The Pure Intention: On Knowledge of the Unique Name [[Amazon](https://amzn.to/3pLToFd), [PDF]()]
 
-### Ibn Al-Husayn Al-Sulami
-
-* The Way of Sufi Chivalry
-
-### Jalal-Al-Din Al-Suyuti
-
-* The Remembrance of God
-
-### Ali Hujwiri
-
-* Revelation of the Veiled (Kashf al-Mahjub)
-
 ### Hazrat Khwaja Moinuddin Hassan Chishty
 
 * Companions of the Souls (Anees-ul-Arwah)
+* The Meditations of Khawaja Muinuddin Hasan Chishti
+* 'Be Present in Every Moment': Life Lessons from Moinuddin Chishti
 
 ### Imam Ibn Qayyim Al-Jawziyyah
 
@@ -140,10 +130,6 @@
 * The Path to Guidance
 * Ar-Ruh-The Soul’s Journey After Death
 * Inner Dimensions of the Prayer [[Amazon](https://amzn.to/2P8Tqux), [PDF](https://archive.org/download/InnerDimensionsOfThePrayerr.-Alhamdulillah-library.blogspot.in.pdf/InnerDimensionsOfThePrayerr.-Alhamdulillah-library.blogspot.in.pdf)]
-
-### Ahmad Mashhur Al-Haddad
-
-* Keys to the Garden
 
 ### Shams-i Tabrizi
 
@@ -157,10 +143,6 @@
 * The Ilahi-Nama (Book of God) [[Amazon](https://amzn.to/3qBKrQ3), [PDF](https://sufipathoflove.files.wordpress.com/2019/10/ilahi-nama.pdf)]
 * Muslim Saints and Mystics: Episodes from the Tadhkirat al-Auliya' (Memorial of the Saints) [[Amazon](https://amzn.to/2M4pLBj), [PDF](https://www.oozebap.org/biblio/pdf/sufi-saints.pdf)]
 
-### Abu Bakr Al-Kalabadhi
-
-* The Doctrine of the Sufis: (Kitab Al-Taʻarruf Li-madhhab Ahl Al-tasawwuf) [[Amazon](https://amzn.to/3ax4ZUd), [PDF](https://archive.org/details/in.ernet.dli.2015.108515)]
-
 ### Omar Khayyam
 
 * The Rubaiyat of Omar Khayyam [[Amazon](https://amzn.to/2M3wYl5), [PDF](https://archive.org/details/rubaiyatfitzgera00omar)]
@@ -169,38 +151,17 @@
 ### Mansur al-Hallaj
 
 * The Tawasin: (Book of the Purity of the Glory of God) [[Amazon](https://amzn.to/2Zt4Ivt), [PDF](http://traditionalhikma.com/wp-content/uploads/2015/03/The-Tawasin-of-Mansur-al-Hallaj.pdf), [Additional](https://physlab.lums.edu.pk/images/b/b8/Tawasin-summary.pdf)]
+* 'I am the Truth' (Anal-Haq) Diwan of Mansur al-Hallaj
 
 ### Ibn Hajar al-Asqalani
 
 * Preparation for Returning to Allah
-
-### Shaykh ad-Darqawi
-
-* Letters of a Sufi Master
-
-### Shaykh Abd al-Khaliq al-Shabrawi
-
-* The Degrees of the Soul
-
-### Seyed Mostafa Azmayesh
-
-* The Teachings of a Sufi Master
+* The Onlooker's Delight: Ghibta al-Nazir Fi Tarjuma Al-Shaykh Abd al-Qadir (the Biography of Al-Shaykh Abd al-Qadir)
 
 ### Shaykh Ahmad Hendricks
 
 * Sainthood (Wilayah) and Nearness (Qurb)
-
-### Qadi Iyad
-
-* The Obligation Of Nasiha for the Prophet(SAW)
-
-### Idries Shah
-
-* Learning How to Learn: Psychology and Spirituality in the Sufi Way
-
-### Ahmed Hulusi
-
-* “READ!” (The Reality Behind Muhammad’s First Revelation)
+* A Sublime Way: The Sufi Path of the Sages of Makka
 
 ### Others
 
@@ -216,3 +177,14 @@
 * The Gulistan Or Rose Garden Of Sa'di [[Amazon](https://amzn.to/3awMBec), [PDF](http://www.sufi.ir/books/download/english/saadi-en/rosegarden-saadi-tr1-en.pdf)]
 * The Secret Rose Garden [[Amazon](https://amzn.to/37pKGpN), [PDF](http://www.sufism.ir/books/download/english/shabestari-en/secretrosegarden-shabestari_color-en.pdf)]
 * Freedom from the Self: Sufism, Meditation, Psychotherapy by Mohammad Shafii [[Amazon](https://amzn.to/37Hqdgn)]
+* The Way of Sufi Chivalry by Ibn al-Husayn al-Sulami
+* The Remembrance of God by Jalal-Al-Din Al-Suyuti
+* Revelation of the Veiled (Kashf al-Mahjub) by Ali Hujwiri
+* Letters of a Sufi Master by Shaykh ad-Darqawi
+* Key to the Garden by Habib Ahmad Mashhur al-Haddad
+The Doctrine of the Sufis: (Kitab Al-Taʻarruf Li-madhhab Ahl Al-tasawwuf) [[Amazon](https://amzn.to/3ax4ZUd), [PDF](https://archive.org/details/in.ernet.dli.2015.108515)]
+* Degrees of the Soul: Spiritual Stations on the Sufi Path
+* The Teachings of a Sufi Master by Seyed Mostafa Azmayesh
+* The Obligation Of Nasiha for the Prophet(SAW) by Qadi Iyad
+* Learning How to Learn: Psychology and Spirituality in the Sufi Way by Idries Shah
+* “READ!” (The Reality Behind Muhammad’s First Revelation)
