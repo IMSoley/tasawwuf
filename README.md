@@ -27,6 +27,7 @@
 * Deliverance from Error [[Amazon](https://amzn.to/2ZOSkWx), [PDF](http://www.crvp.org/publications/Series-IIA/IIA-2-Contents.pdf), [Online](https://www.ghazali.org/books/md/IIA-02main.htm)]
 * The Incoherence of the Philosophers [[Amazon](https://amzn.to/2NQWWcj), [PDF](https://academiaanalitica.files.wordpress.com/2019/07/abu-hamid-muhammad-al-ghazali-the-incoherence-of-the-philosophers.pdf)]
 * Book on the Etiquette of Marriage [[Amazon](https://amzn.to/3unKHEF), [PDF](http://ghazali.org/books/marriage.pdf), [Online](https://www.ghazali.org/works/marriage.htm)]
+* Purification of the Soul
 
 ### Abdul Qadir Gilani
 
@@ -182,9 +183,29 @@
 * Revelation of the Veiled (Kashf al-Mahjub) by Ali Hujwiri
 * Letters of a Sufi Master by Shaykh ad-Darqawi
 * Key to the Garden by Habib Ahmad Mashhur al-Haddad
+* The Principles of Sufism
 The Doctrine of the Sufis: (Kitab Al-Taʻarruf Li-madhhab Ahl Al-tasawwuf) [[Amazon](https://amzn.to/3ax4ZUd), [PDF](https://archive.org/details/in.ernet.dli.2015.108515)]
 * Degrees of the Soul: Spiritual Stations on the Sufi Path
 * The Teachings of a Sufi Master by Seyed Mostafa Azmayesh
 * The Obligation Of Nasiha for the Prophet(SAW) by Qadi Iyad
 * Learning How to Learn: Psychology and Spirituality in the Sufi Way by Idries Shah
 * “READ!” (The Reality Behind Muhammad’s First Revelation)
+* Ash Shifa (Muhammad: Messenger of Allah) Qadi Iyad
+* The Secrets of the Self: Asrar-I-Khudi
+* Spiritual Body and Celestial Earth
+* The Sufis by Idries Shah
+* An Ocean Without Shore: Ibn Arabi, The Book, And The Law by Michel Chodkiewicz [[PDF](https://archive.org/download/AnOceanWithoutShoreIbnArabisViewsOnTheBookAndTheLawByMichelChodkiewcz/An%20Ocean%20Without%20Shore%20-%20Ibn%20Arabi%27s%20Views%20on%20The%20Book%20and%20the%20Law%20by%20Michel%20Chodkiewcz.pdf)]
+* In Search of the Lost Heart
+* Science of the Cosmos, Science of the Soul
+* Al-Qusharyri's Epistle on Sufism [[PDF](http://data.nur.nu/Kutub/English/Qushayri_Risala.pdf)]
+* Shari'ah and Tariqat - Inseperable and Indivisible [[PDF](https://attahawi.files.wordpress.com/2011/02/shariah-and-tariqah-inseparable-and-indivisible.pdf)]
+* The Wisdom of the Throne: An Introduction to the Philosophy of Mulla Sadra
+* Metaphysical Penetrations: A Parallel English-Arabic Text
+
+### Commentary of the Holy Quran
+
+* Spiritual Gems: The Mystical Qur'an Commentary Ascribed by the Sufis to Imam Ja'far al-Sadiq [[PDF](https://archive.org/download/farhanamayerspiritualgemsmysticalcommentaryascribedtojafaralsadiq/Farhana%20Mayer%20-%20Spiritual%20Gems%20-%20Mystical%20Commentary%20ascribed%20to%20Jafar%20al-Sadiq.pdf)]
+* Kashf al-Asrar The Unveiling of the Mysteries [[PDF](https://www.altafsir.com/Books/kashf.pdf)]
+* Abu'l Qasim Al Qushayri's Lata'if Al Isharat: Great Commentaries on the Holy Quran [[PDF](https://www.greattafsirs.com/Books/lataif.pdf)]
+* Tafsir Al-Tustari (Great Commentaries of the Holy Qur'an) [[PDF](https://www.altafsir.com/Books/Tustari.pdf)]
+* On the Hermeneutics of the Light Verse of the Quran (Tafsir Ayat al-Nur) [[PDF](http://library.lol/main/62DC666C5B8EEE6C80A018149BF55470)]
