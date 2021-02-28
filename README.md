@@ -119,22 +119,22 @@
 
 ### Hazrat Khwaja Moinuddin Hassan Chishty
 
-* Companions of the Souls (Anees-ul-Arwah)
-* The Meditations of Khawaja Muinuddin Hasan Chishti
-* 'Be Present in Every Moment': Life Lessons from Moinuddin Chishti
+* Biography Of Hazrat Khwaja Moinuddin Hassan Chishty [[PDF](https://archive.org/download/in.ernet.dli.2015.101331/2015.101331.Oly-Biography-Of-Hazrath-Khwaja-Muinuddin-Hasan-Chishti.pdf)]
+* Companions of the Souls (Anees-ul-Arwah) [[PDF](https://drive.google.com/file/d/0B-xoJhPw_5PNYURlaXpRZWplYWc/view)]
+* The Meditations of Khawaja Muinuddin Hasan Chishti [[Amazon](https://amzn.to/3q3l7kQ)]
+* 'Be Present in Every Moment': Life Lessons from Moinuddin Chishti [[Amazon](https://amzn.to/2PjR9wy)]
 
 ### Imam Ibn Qayyim Al-Jawziyyah
 
-* Provisions For the Hereafter
-* Spiritual Disease and Its Cure
-* Men & The Universe
-* The Path to Guidance
-* Ar-Ruh-The Soul’s Journey After Death
+* Provisions For the Hereafter [[Amazon](https://amzn.to/301p8Ml), [PDF](http://islamicblessings.com/upload/Provisions-for-the-Hereafter-Mukhtasar-Zaad-Al-Ma-ad.pdf)]
+* Spiritual Disease and Its Cure [[Amazon](https://amzn.to/3r2v0AF), [PDF](https://adviceforparadise.com/media/books/Spiritual_Disease_and_Its_Cure.pdf)]
+* Men & The Universe [[Amazon](https://amzn.to/2NKNJCo), [PDF](https://www.muslim-library.com/dl/books/english_Men_and_The_Universe_Reflections_of_Ibn_AlQayyem.pdf)]
+* The Path to Guidance [[Amazon](https://amzn.to/3q4S28R), [PDF](https://d1.islamhouse.com/data/en/ih_books/single2/en_The_Path_to_Guidance.pdf)]
+* Ar-Ruh-The Soul’s Journey After Death [[Amazon](https://amzn.to/3b1YUiX), [PDF](https://www.kalamullah.com/Books/the_soul_journey.pdf), [Additional](http://www.data.nur.nu/Kutub/English/Layla-Mabruk_The-Souls-Journey-After-Death.pdf)]
 * Inner Dimensions of the Prayer [[Amazon](https://amzn.to/2P8Tqux), [PDF](https://archive.org/download/InnerDimensionsOfThePrayerr.-Alhamdulillah-library.blogspot.in.pdf/InnerDimensionsOfThePrayerr.-Alhamdulillah-library.blogspot.in.pdf)]
 
 ### Shams-i Tabrizi
 
-* Shour-e Shams: A Rumi Anthology Of Diwan-e Kabir
 * Divan-e Shams [[PDF](http://www.bahaistudies.net/asma/divaneshams.pdf)]
 * Divan kabir or Kulliyat e Shams [[PDF](https://archive.org/details/DivanEShamsDivanKabir/)]
 * Me and Rumi: The Autobiography of Shams-I Tabrizi [[Amazon](https://amzn.to/3k2EQzQ), [PDF](http://libgen.rs/book/index.php?md5=AE7478F480ED3E63F7205EDAA41BFBDD)]
@@ -152,7 +152,7 @@
 ### Mansur al-Hallaj
 
 * The Tawasin: (Book of the Purity of the Glory of God) [[Amazon](https://amzn.to/2Zt4Ivt), [PDF](http://traditionalhikma.com/wp-content/uploads/2015/03/The-Tawasin-of-Mansur-al-Hallaj.pdf), [Additional](https://physlab.lums.edu.pk/images/b/b8/Tawasin-summary.pdf)]
-* 'I am the Truth' (Anal-Haq) Diwan of Mansur al-Hallaj
+* 'I am the Truth' (Anal-Haq) Diwan of Mansur al-Hallaj [[Amazon](https://amzn.to/3b1r25S)]
 
 ### Ibn Hajar al-Asqalani
 
