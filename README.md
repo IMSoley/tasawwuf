@@ -3,7 +3,7 @@
   <p>Seeking Truth</p><br/>
 </span>
 
-### Abu Hamid Muhammad ibn Muhammad al-Ghazali
+### Imam al-Ghazali
 
 * The Foundations of the Articles of Faith [[Amazon](https://amzn.to/3s3zEP4), [Online](https://www.ghazali.org/works/gz-itiqad.htm)]
 * A Return to Purity in Creed [[Amazon](https://amzn.to/3s9ICtZ), [PDF](https://archive.org/details/ReturnToPurityInCreedByGhazali)]
