@@ -169,22 +169,23 @@
 
 ### Inayat Khan
 
-* The Mysticism of Sound and Music
-* The Art of Being and Becoming
-* The Inner Life
-* Mastery Through Accomplishment
-* Spiritual Dimensions of Psychology
-* Awakening of the Human Spirit
-* The Soul's Journey
-* Complete Works of Pir-O-Murshid Hazrat Inayat Khan
+* The Heart of Sufism: Essential Writings of Hazrat Inayat Khan [[Amazon](https://amzn.to/3r7Xg59), [PDF](http://library.lol/main/6255DB5B049197B0CFB034B786F88832)]
+* The Mysticism of Sound and Music [[Amazon](https://amzn.to/2Of7j9H)]
+* The Art of Being and Becoming [[Amazon](https://amzn.to/3uDb75D), [PDF](http://library.lol/main/E2051D098B49A8EE4ED5A3A7B3AEDE91)]
+* The Inner Life [[Amazon](https://amzn.to/3bIKS4Q), [Online](https://ruhaniat.org/index.php/major-papers/inner-life/2180-the-inner-life-of-pir-o-murshid-hazrat-inayat-khan-with-commentary)]
+* Mastery Through Accomplishment [[Amazon](https://amzn.to/3sBFK9E), [PDF](http://library.lol/main/254929EC1C6C038E1A355027F3177839)]
+* Spiritual Dimensions of Psychology [[Amazon](https://amzn.to/3raEyKe), [PDF](http://library.lol/main/847A6AF9344C9D35545276BC4246D0F6)]
+* Awakening of the Human Spirit [[Amazon](https://amzn.to/3b2KQ91)]
+* The Soul's Journey [[Amazon](https://amzn.to/3bKvyF2)]
+* Complete Works of Pir-O-Murshid Hazrat Inayat Khan [[Amazon](https://amzn.to/3r62o9H), [PDF](http://www.nekbakhtfoundation.org/wp/files/Works/Copy%20of%2024IIComplete%20Works%20of%20Pir-O-Murshid%20Hazrat%20Inayat%20Khan,%201924%20Vol%20II.pdf)]
 * The Gathas with Commentary - Part 1 [[PDF](http://www.ruhaniat.org/pdf/SAMArchive/Writing/Commentary/Gatha_Tasawwuf_1_Commentary.pdf)]
 * The Gathas with Commentary - Part 2 [[PDF](http://www.ruhaniat.org/pdf/SAMArchive/Writing/Commentary/Gatha_Tasawwuf_2_Commentary.pdf)]
 * Ten Sufi Thoughts [[PDF](https://inayatiorder.org/wp-content/uploads/2016/10/Ten-Sufi-Thoughts-Hazrat-Inayat-Khan-upd10.09.2016.pdf)]
 
 ### Ibn Hajar al-Asqalani
 
-* Preparation for Returning to Allah
-* The Onlooker's Delight: Ghibta al-Nazir Fi Tarjuma Al-Shaykh Abd al-Qadir (the Biography of Al-Shaykh Abd al-Qadir)
+* Preparation for Returning to Allah [[Amazon](https://amzn.to/2ZYEiBU), [PDF](https://archive.org/download/PreparingForTheDayOfJudgementAlHafizIbnHajarAlAsqalani/Preparing%20for%20the%20Day%20of%20Judgement%20-%20Al-Hafiz%20Ibn%20Hajar%20Al-Asqalani%20.pdf)]
+* The Onlooker's Delight: Ghibta al-Nazir Fi Tarjuma Al-Shaykh Abd al-Qadir (the Biography of Al-Shaykh Abd al-Qadir) [[Amazon](https://amzn.to/3q6KJxw)]
 
 ### Shaykh Ahmad Hendricks
 
@@ -233,7 +234,8 @@
 
 ### Others
 
-* Realities of Sufism by Shaykh Abd al-Qadir Isa
+* Realities of Sufism by Shaykh Abd al-Qadir Isa [[Amazon](https://amzn.to/2NU08UC)]
+* Pure Gold from the Words of Sayyidi Abd al-Aziz al-Dabbagh [[Amazon](https://amzn.to/3b5jUp1), [PDF](http://data.nur.nu/Kutub/English/Ibriz_transl-O-Kane-J-and-Bernd-Radtke-2007-Pure-Gold-From-the-Words-of-Sayyidi-Abd-Al-Aziz-Al-Dabbagh.pdf)]
 * The Book Of Remembrances [Kitab Al-Adhkar] by Imam Al-Nawawi [[Amazon](https://amzn.to/3by3C7g), [PDF](https://archive.org/download/the-book-of-remembrances-kitab-al-adhkar/The%20Book%20Of%20Remembrances%20%5BKitab%20Al-Adhkar%5D.pdf)]
 * Virtues of The Prayers for Forgiveness by Imam Hasan al-Basri [[Amazon](https://amzn.to/2ZXHlKR), [PDF](http://www.zawiyah.org/zawiyah/PDFs/Prayers%20For%20Forgiveness.pdf)]
 * The Life, Personality and Writings of al-Junayd [[Amazon](https://amzn.to/3bEBJKW), [PDF](https://archive.org/download/TheLifePersonalityAndWritingsOfAlJunaydDrHAbdelKader/The-Life-Personality-and-Writings-of-Al-Junayd-Dr-H-Abdel-Kader.pdf)]
@@ -280,6 +282,12 @@ The Doctrine of the Sufis: (Kitab Al-Taʻarruf Li-madhhab Ahl Al-tasawwuf) [[Ama
 * Abu'l Qasim Al Qushayri's Lata'if Al Isharat: Great Commentaries on the Holy Quran [[PDF](https://www.greattafsirs.com/Books/lataif.pdf)]
 * Tafsir Al-Tustari (Great Commentaries of the Holy Qur'an) [[PDF](https://www.altafsir.com/Books/Tustari.pdf)]
 * On the Hermeneutics of the Light Verse of the Quran (Tafsir Ayat al-Nur) [[PDF](http://library.lol/main/62DC666C5B8EEE6C80A018149BF55470)]
+
+### Lectures
+
+* [Understanding Islam - Abdal Hakim Murad](https://www.youtube.com/playlist?list=PL85C4200AAB2EDAFB) | [in one video](https://www.youtube.com/watch?v=3SPiFbSUU8Q)
+* Commentary on the Rumi's Mathnavi by Shaykh Abdal Hakim Murad [Part 1](https://www.youtube.com/watch?v=DnBXrwyLUCs), [Part 2](https://www.youtube.com/watch?v=igdlBxmbG98), [Part 3](https://www.youtube.com/watch?v=IyG4qYlprC0)
+* Commentary on the Divan-i Shams-i Tabriz by Shaykh Abdal Hakim Murad [Part 1](https://www.youtube.com/watch?v=J_ghjdUBx8E), [Part 2](https://www.youtube.com/watch?v=NoC8XANZtgk), [Part 3](https://www.youtube.com/watch?v=Wgg4zVV3n38)
 
 ### Blog & Website
 
