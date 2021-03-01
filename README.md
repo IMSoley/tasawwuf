@@ -209,3 +209,13 @@ The Doctrine of the Sufis: (Kitab Al-Taʻarruf Li-madhhab Ahl Al-tasawwuf) [[Ama
 * Abu'l Qasim Al Qushayri's Lata'if Al Isharat: Great Commentaries on the Holy Quran [[PDF](https://www.greattafsirs.com/Books/lataif.pdf)]
 * Tafsir Al-Tustari (Great Commentaries of the Holy Qur'an) [[PDF](https://www.altafsir.com/Books/Tustari.pdf)]
 * On the Hermeneutics of the Light Verse of the Quran (Tafsir Ayat al-Nur) [[PDF](http://library.lol/main/62DC666C5B8EEE6C80A018149BF55470)]
+
+### Blog & Website
+
+* <https://www.hazrat-inayat-khan.org/php/views.php>
+* <https://gardenofthebeloved.com/>
+* <http://fundamentalbelief.blogspot.com/>
+* <http://suffisum.blogspot.com/>
+* <https://khawajamoinuddin.wordpress.com/>
+* <http://zoya-thewayofasufi.blogspot.com/>
+* <https://www.nurmuhammad.com/free-sufi-e-books-online/>
