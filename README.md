@@ -82,6 +82,8 @@
 * Rumi: Swallowing the Sun [[Amazon](https://amzn.to/3skD9kq), [PDF](http://library.lol/main/C8F7C1B10C7181843D04B3A2092DE43E)]
 * Love: The Joy That Wounds: The Love Poems of Rumi [[Amazon](https://amzn.to/3bwuTaa), [PDF](http://library.lol/main/18156F0CB4A67A84524EC3AA6D64B49B)]
 * In the Arms of the Beloved [[Amazon](https://amzn.to/3sk8vYf), [PDF](http://library.lol/main/832184BC4762E880A79AEBA8421FF2BF)]
+* Spiritual Verses [[Amazon](https://amzn.to/3kHl6SU)]
+* The Purity of Desire: 100 Poems of Rumi [[Amazon](https://amzn.to/3bNnVh7)]
 * Lectures
   * [The Spiritual Practice of Rumi by Mahmoud Mostafa](https://www.youtube.com/watch?v=I1_r034y2lM)
   * [Sufism: Whats Love Got To Do With It? by Mahmoud Mostafa](https://www.youtube.com/watch?v=pB24AcGzC_s)
@@ -139,10 +141,21 @@
 * Divan kabir or Kulliyat e Shams [[PDF](https://archive.org/details/DivanEShamsDivanKabir/)]
 * Me and Rumi: The Autobiography of Shams-I Tabrizi [[Amazon](https://amzn.to/3k2EQzQ), [PDF](http://libgen.rs/book/index.php?md5=AE7478F480ED3E63F7205EDAA41BFBDD)]
 
+### Hafiz
+
+* The Complete Divan of Hafez [[Amazon](https://amzn.to/3b4fBuc), [PDF](http://traditionalhikma.com/wp-content/uploads/2015/03/The-Divan-of-Hafiz-English-Persian.pdf), [Additional](http://www.dankalia.com/islam/isl415-.pdf)]
+* I Heard God Laughing: Poems of Hope and Joy [[Amazon](https://amzn.to/3q4TjNf), [PDF](http://library.lol/main/536363CA0368E2B910DA645E5B3B5F3F)]
+* The Garden of Heaven: Poems of Hafiz [[Amazon](https://amzn.to/3uIK0pK), [PDF](http://mystery-school.net/pdf/hafiz.pdf)]
+* The Subject Tonight Is Love: 60 Wild and Sweet Poems of Hafiz [[Amazon](https://amzn.to/3sxiKIO)]
+* The Illuminated Hafiz: Love Poems for the Journey to Light [[Amazon](https://amzn.to/3uHWL3U)]
+
 ### Attar of Nishapur
 
 * The Ilahi-Nama (Book of God) [[Amazon](https://amzn.to/3qBKrQ3), [PDF](https://sufipathoflove.files.wordpress.com/2019/10/ilahi-nama.pdf)]
 * Muslim Saints and Mystics: Episodes from the Tadhkirat al-Auliya' (Memorial of the Saints) [[Amazon](https://amzn.to/2M4pLBj), [PDF](https://www.oozebap.org/biblio/pdf/sufi-saints.pdf)]
+* The Conference of the Birds [[Amazon](https://amzn.to/3dXF6PJ), [PDF](https://sufipathoflove.files.wordpress.com/2019/10/the-conference-of-the-birds.pdf)]
+* Fifty Poems of Attar [[Amazon](https://amzn.to/3bRf7a4), [PDF](https://archive.org/download/FiftyPoemsOfAttar/Fifty_Poems_of_Attar.pdf)]
+* The Ocean of the Soul: Men, the World and God in the Stories of Farid Al-Din Attar [[Amazon](https://amzn.to/37XGgHk), [PDF](https://archive.org/download/HellmutRitterTheOceanOfTheSoul.ManTheWorldAndGodInTheStoriesOfFaridAlDinAttar/Hellmut%20Ritter%20-%20The%20Ocean%20of%20the%20Soul.%20Man%2C%20the%20World%20and%20God%20in%20the%20Stories%20of%20Farid%20al-Din%20Attar.pdf)]
 
 ### Omar Khayyam
 
@@ -154,6 +167,20 @@
 * The Tawasin: (Book of the Purity of the Glory of God) [[Amazon](https://amzn.to/2Zt4Ivt), [PDF](http://traditionalhikma.com/wp-content/uploads/2015/03/The-Tawasin-of-Mansur-al-Hallaj.pdf), [Additional](https://physlab.lums.edu.pk/images/b/b8/Tawasin-summary.pdf)]
 * 'I am the Truth' (Anal-Haq) Diwan of Mansur al-Hallaj [[Amazon](https://amzn.to/3b1r25S)]
 
+### Inayat Khan
+
+* The Mysticism of Sound and Music
+* The Art of Being and Becoming
+* The Inner Life
+* Mastery Through Accomplishment
+* Spiritual Dimensions of Psychology
+* Awakening of the Human Spirit
+* The Soul's Journey
+* Complete Works of Pir-O-Murshid Hazrat Inayat Khan
+* The Gathas with Commentary - Part 1 [[PDF](http://www.ruhaniat.org/pdf/SAMArchive/Writing/Commentary/Gatha_Tasawwuf_1_Commentary.pdf)]
+* The Gathas with Commentary - Part 2 [[PDF](http://www.ruhaniat.org/pdf/SAMArchive/Writing/Commentary/Gatha_Tasawwuf_2_Commentary.pdf)]
+* Ten Sufi Thoughts [[PDF](https://inayatiorder.org/wp-content/uploads/2016/10/Ten-Sufi-Thoughts-Hazrat-Inayat-Khan-upd10.09.2016.pdf)]
+
 ### Ibn Hajar al-Asqalani
 
 * Preparation for Returning to Allah
@@ -164,8 +191,49 @@
 * Sainthood (Wilayah) and Nearness (Qurb)
 * A Sublime Way: The Sufi Path of the Sages of Makka
 
+### Seyyed Hossein Nasr
+
+* The Garden of Truth: The Vision and Promise of Sufism, Islam's Mystical Tradition [[Amazon](https://amzn.to/3r6mil6), [PDF](http://traditionalhikma.com/wp-content/uploads/2015/02/The-Garden-of-Truth-The-Vision-and-Promise-of-Sufism-Islams-Mystical-Tradition-by-Seyyed-Hossein-Nasr.pdf)]
+
+### Annemarie Schimmel
+
+* Mystical Dimensions of Islam [[Amazon](https://amzn.to/3kAdOjI), [PDF](https://archive.org/download/137665622MysticalDimensionsOfIslamAnnemarieSchimmel/137665622-Mystical-Dimensions-of-Islam-Annemarie-Schimmel.pdf)]
+* The Mystery of Numbers [[Amazon](https://amzn.to/3bMZzUJ), [PDF](http://www.cedarcitylodge.org/books/The-Mystery-of-Numbers.pdf)]
+
+### Idries Shah
+
+* The Way of the Sufi [[Amazon](https://amzn.to/3sv8yka), [PDF](https://idriesshahfoundation.org/storage/product_pdf/THE-WAY-OF-THE-SUFI_15-May-2015.pdf)]
+* Learning How to Learn: Psychology and Spirituality in the Sufi Way [[Amazon](https://amzn.to/3pYVXnG), [PDF](https://idriesshahfoundation.org/storage/product_pdf/5.LHTL_.pdf)]
+* The Sufis by Idries Shah [[Amazon](https://amzn.to/37YeA52), [PDF](https://idriesshahfoundation.org/storage/product_pdf/TS_UK_06-March-2015.pdf)]
+
+### Llewellyn Vaughan-Lee PhD
+
+* Sufism: The Transformation of the Heart
+* Love Is a Fire: The Sufi's Mystical Journey Home
+* The Bond with the Beloved: The Inner Relationship of the Lover and the Beloved
+* Spiritual Ecology: The Cry of the Earth
+
+### Kabir Helminski
+
+* The Knowing Heart: A Sufi Path of Transformation
+* In the House of Remembering: The Living Tradition of Sufi Teaching
+* Living Presence (Revised): The Sufi Path to Mindfulness and the Essential Self
+* The Drop That Became the Sea: Lyric Poems
+
+### Khaja Khan
+
+* Studies in Tasawwuf
+* The Secret of Ana'l - Haqq/Secret of I am the Truth
+
+### Nuh Ha MIM Keller
+
+* Sea Without Shore: A Manual of the Sufi Path
+* Reliance of the Traveller: A Classic Manual of Islamic Sacred Law
+* Etiquette With the Quran
+
 ### Others
 
+* Realities of Sufism by Shaykh Abd al-Qadir Isa
 * The Book Of Remembrances [Kitab Al-Adhkar] by Imam Al-Nawawi [[Amazon](https://amzn.to/3by3C7g), [PDF](https://archive.org/download/the-book-of-remembrances-kitab-al-adhkar/The%20Book%20Of%20Remembrances%20%5BKitab%20Al-Adhkar%5D.pdf)]
 * Virtues of The Prayers for Forgiveness by Imam Hasan al-Basri [[Amazon](https://amzn.to/2ZXHlKR), [PDF](http://www.zawiyah.org/zawiyah/PDFs/Prayers%20For%20Forgiveness.pdf)]
 * The Life, Personality and Writings of al-Junayd [[Amazon](https://amzn.to/3bEBJKW), [PDF](https://archive.org/download/TheLifePersonalityAndWritingsOfAlJunaydDrHAbdelKader/The-Life-Personality-and-Writings-of-Al-Junayd-Dr-H-Abdel-Kader.pdf)]
@@ -185,15 +253,15 @@
 * Key to the Garden by Habib Ahmad Mashhur al-Haddad
 * The Principles of Sufism
 The Doctrine of the Sufis: (Kitab Al-Taʻarruf Li-madhhab Ahl Al-tasawwuf) [[Amazon](https://amzn.to/3ax4ZUd), [PDF](https://archive.org/details/in.ernet.dli.2015.108515)]
+* Ibn Juzay's Sufic Exegesis: Selections from Kitab al-Tashil li-Ulum al-Tanzil
+* The Words (Risale-I Nur Collection) by Bediuzzaman Said Nursi
 * Degrees of the Soul: Spiritual Stations on the Sufi Path
 * The Teachings of a Sufi Master by Seyed Mostafa Azmayesh
 * The Obligation Of Nasiha for the Prophet(SAW) by Qadi Iyad
-* Learning How to Learn: Psychology and Spirituality in the Sufi Way by Idries Shah
 * “READ!” (The Reality Behind Muhammad’s First Revelation)
 * Ash Shifa (Muhammad: Messenger of Allah) Qadi Iyad
 * The Secrets of the Self: Asrar-I-Khudi
 * Spiritual Body and Celestial Earth
-* The Sufis by Idries Shah
 * An Ocean Without Shore: Ibn Arabi, The Book, And The Law by Michel Chodkiewicz [[PDF](https://archive.org/download/AnOceanWithoutShoreIbnArabisViewsOnTheBookAndTheLawByMichelChodkiewcz/An%20Ocean%20Without%20Shore%20-%20Ibn%20Arabi%27s%20Views%20on%20The%20Book%20and%20the%20Law%20by%20Michel%20Chodkiewcz.pdf)]
 * In Search of the Lost Heart
 * Science of the Cosmos, Science of the Soul
@@ -201,6 +269,9 @@ The Doctrine of the Sufis: (Kitab Al-Taʻarruf Li-madhhab Ahl Al-tasawwuf) [[Ama
 * Shari'ah and Tariqat - Inseperable and Indivisible [[PDF](https://attahawi.files.wordpress.com/2011/02/shariah-and-tariqah-inseparable-and-indivisible.pdf)]
 * The Wisdom of the Throne: An Introduction to the Philosophy of Mulla Sadra
 * Metaphysical Penetrations: A Parallel English-Arabic Text
+* Forty Lessons on Breath by Murshid Samuel L. Lewis [[PDF](https://dancesofuniversalpeace.org/ResourceDir/SAM/Forty_Lessons_on_Breath.pdf)]
+* Women of Sufism: A Hidden Treasure by Camille Adams Helminski
+* Journey Through Ten Thousand Veils: The Alchemy of Transformation on the Sufi Path by Maryam Kabeer Faye
 
 ### Commentary of the Holy Quran
 
