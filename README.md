@@ -84,13 +84,13 @@
 * In the Arms of the Beloved [[Amazon](https://amzn.to/3sk8vYf), [PDF](http://library.lol/main/832184BC4762E880A79AEBA8421FF2BF)]
 * Spiritual Verses [[Amazon](https://amzn.to/3kHl6SU)]
 * The Purity of Desire: 100 Poems of Rumi [[Amazon](https://amzn.to/3bNnVh7)]
-* Signs of the Unseen: The Discourses of Jalaluddin Rumi
-* Love's Ripening: Rumi on the Heart's Journey
-* Love Is a Stranger: Selected Lyric Poetry
-* Feeling the Shoulder of the Lion: Poetry and Teaching Stories of Rumi
-* Unseen Rain: Quatrains of Rumi
-* Open Secret: Versions of Rumi
-* This Longing: Poetry, Teaching Stories, and Letters of Rumi
+* Signs of the Unseen: The Discourses of Jalaluddin Rumi [[Amazon](https://amzn.to/3qa2I5W), [PDF](http://library.lol/main/496D5706330200BE72C4ACD46728B970)]
+* Love's Ripening: Rumi on the Heart's Journey [[Amazon](https://amzn.to/2NNmK9A)]
+* Love Is a Stranger: Selected Lyric Poetry [[Amazon](https://amzn.to/3q9XxmT), [PDF](https://archive.org/details/loveisstrangerse0000jala)]
+* Feeling the Shoulder of the Lion: Poetry and Teaching Stories of Rumi [[Amazon](https://amzn.to/3sLg3TZ)]
+* Unseen Rain: Quatrains of Rumi [[Amazon](https://amzn.to/3rmEcQR), [PDF](http://library.lol/main/F63F8DE94396B496C993E7CB6A74448B)]
+* Open Secret: Versions of Rumi [[Amazon](https://amzn.to/3qfJQms), [PDF](https://archive.org/details/opensecret00john)]
+* This Longing: Poetry, Teaching Stories, and Letters of Rumi [[Amazon](https://amzn.to/3e52k6u)]
 * Lectures
   * [The Spiritual Practice of Rumi by Mahmoud Mostafa](https://www.youtube.com/watch?v=I1_r034y2lM)
   * [Sufism: Whats Love Got To Do With It? by Mahmoud Mostafa](https://www.youtube.com/watch?v=pB24AcGzC_s)
@@ -196,13 +196,13 @@
 
 ### Nurjan Mirahmadi
 
-* Levels of the Heart - Lataif al Qalb
-* Rising Sun of the West: Kitab al Irshad - The Book of Spiritual Guidance
-* The Healing Power of Sufi Meditation
-* YASEEN: Prophet (PBUH) is the Walking Quran
-* In Pursuit of Angelic Power: A Path Towards Divine Healing Energy
-* Insan al Kamil - The Universal Perfect Being
-* Secret Realities of Hajj
+* Levels of the Heart - Lataif al Qalb [[Amazon](https://amzn.to/3bSG9xH)]
+* Rising Sun of the West: Kitab al Irshad - The Book of Spiritual Guidance [[Amazon](https://amzn.to/3sGS5t9)]
+* The Healing Power of Sufi Meditation [[Amazon](https://amzn.to/384AvYd)]
+* YASEEN: Prophet (PBUH) is the Walking Quran [[Amazon](https://amzn.to/3rbC3XM)]
+* In Pursuit of Angelic Power: A Path Towards Divine Healing Energy [[Amazon](https://amzn.to/2NWWmtR)]
+* Insan al Kamil - The Universal Perfect Being [[Amazon](https://amzn.to/3bT7906)]
+* Secret Realities of Hajj [[Amazon](https://amzn.to/383GJrd)]
 
 ### Hisham Kabbani
 
