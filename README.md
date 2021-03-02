@@ -84,6 +84,13 @@
 * In the Arms of the Beloved [[Amazon](https://amzn.to/3sk8vYf), [PDF](http://library.lol/main/832184BC4762E880A79AEBA8421FF2BF)]
 * Spiritual Verses [[Amazon](https://amzn.to/3kHl6SU)]
 * The Purity of Desire: 100 Poems of Rumi [[Amazon](https://amzn.to/3bNnVh7)]
+* Signs of the Unseen: The Discourses of Jalaluddin Rumi
+* Love's Ripening: Rumi on the Heart's Journey
+* Love Is a Stranger: Selected Lyric Poetry
+* Feeling the Shoulder of the Lion: Poetry and Teaching Stories of Rumi
+* Unseen Rain: Quatrains of Rumi
+* Open Secret: Versions of Rumi
+* This Longing: Poetry, Teaching Stories, and Letters of Rumi
 * Lectures
   * [The Spiritual Practice of Rumi by Mahmoud Mostafa](https://www.youtube.com/watch?v=I1_r034y2lM)
   * [Sufism: Whats Love Got To Do With It? by Mahmoud Mostafa](https://www.youtube.com/watch?v=pB24AcGzC_s)
@@ -187,6 +194,37 @@
 * Preparation for Returning to Allah [[Amazon](https://amzn.to/2ZYEiBU), [PDF](https://archive.org/download/PreparingForTheDayOfJudgementAlHafizIbnHajarAlAsqalani/Preparing%20for%20the%20Day%20of%20Judgement%20-%20Al-Hafiz%20Ibn%20Hajar%20Al-Asqalani%20.pdf)]
 * The Onlooker's Delight: Ghibta al-Nazir Fi Tarjuma Al-Shaykh Abd al-Qadir (the Biography of Al-Shaykh Abd al-Qadir) [[Amazon](https://amzn.to/3q6KJxw)]
 
+### Nurjan Mirahmadi
+
+* Levels of the Heart - Lataif al Qalb
+* Rising Sun of the West: Kitab al Irshad - The Book of Spiritual Guidance
+* The Healing Power of Sufi Meditation
+* YASEEN: Prophet (PBUH) is the Walking Quran
+* In Pursuit of Angelic Power: A Path Towards Divine Healing Energy
+* Insan al Kamil - The Universal Perfect Being
+* Secret Realities of Hajj
+
+### Hisham Kabbani
+
+* Mawlid Ad-Dayba'i
+* Liberating the Soul: A Guide for Spiritual Growth (Total Seven Volumes)
+* Healing Verses of Holy Quran & Hadith
+* The Benefits of Bismillahi 'r-Rahmani 'r-Raheem & Surat Al-Fatihah
+* Angels Unveiled, A Sufi Perspective
+* Call on Me: Powerful Supplications for Healing, Protection & Fulfillment of Needs
+* Salawat of Tremendous Blessings
+* Muhammad: The Messenger of Islam
+
+### Vilayat Inayat Khan
+
+* That Which Transpires Behind That Which Appears: The Experience of Sufism
+* Life is a Pilgrimage
+* The Ecstasy Beyond Knowing: A Manual of Meditation
+* Call of the Dervish
+* In Search of the Hidden Treasure
+* Toward The One
+* Awakening: A Sufi Experience
+
 ### Shaykh Ahmad Hendricks
 
 * Sainthood (Wilayah) and Nearness (Qurb)
@@ -241,12 +279,25 @@
 * Reliance of the Traveller: A Classic Manual of Islamic Sacred Law
 * Etiquette With the Quran
 
+### Shaykh Azad Rasool
+
+* Turning Toward the Heart: Awakening to the Sufi Way: Forty Questions and Answers
+* The Search for Truth: The Life &Teaching Methods of the Indian Sufi Shaykh Maulvi Muhammad Saeed Khan
+
+### Camille Adams Helminski
+
+* Words from the East
+* Happiness Without Death: Desert Hymns
+* The Light of Dawn: Daily Readings from the Holy Qur'an
+* Women of Sufism: A Hidden Treasure
+
 ### Others
 
 * Realities of Sufism by Shaykh Abd al-Qadir Isa [[Amazon](https://amzn.to/2NU08UC)]
 * Pure Gold from the Words of Sayyidi Abd al-Aziz al-Dabbagh [[Amazon](https://amzn.to/3b5jUp1), [PDF](http://data.nur.nu/Kutub/English/Ibriz_transl-O-Kane-J-and-Bernd-Radtke-2007-Pure-Gold-From-the-Words-of-Sayyidi-Abd-Al-Aziz-Al-Dabbagh.pdf)]
 * The Book Of Remembrances [Kitab Al-Adhkar] by Imam Al-Nawawi [[Amazon](https://amzn.to/3by3C7g), [PDF](https://archive.org/download/the-book-of-remembrances-kitab-al-adhkar/The%20Book%20Of%20Remembrances%20%5BKitab%20Al-Adhkar%5D.pdf)]
 * Virtues of The Prayers for Forgiveness by Imam Hasan al-Basri [[Amazon](https://amzn.to/2ZXHlKR), [PDF](http://www.zawiyah.org/zawiyah/PDFs/Prayers%20For%20Forgiveness.pdf)]
+* A Map of the Divine Subtle Faculty: The Concept of Qalb (Heart) in Classical and Contemporary Islamic Scholarship [[Amazon](https://amzn.to/3uUGkBx), [PDF](https://acuresearchbank.acu.edu.au/download/fb9270b6adabc8cc07288367cc1fdb0e6c823a11d7c814a3c86da693eb02e200/1808508/65080_downloaded_stream_305.pdf)]
 * The Life, Personality and Writings of al-Junayd [[Amazon](https://amzn.to/3bEBJKW), [PDF](https://archive.org/download/TheLifePersonalityAndWritingsOfAlJunaydDrHAbdelKader/The-Life-Personality-and-Writings-of-Al-Junayd-Dr-H-Abdel-Kader.pdf)]
 * The Purification of the Soul by Ahmad Farid [[Amazon](https://amzn.to/2ZHffmV), [PDF](https://www.missionislam.com/knowledge/books/PurificationOfTheSoul.pdf)]
 * The History of Hayy Ibn Yaqzan [[PDF](http://www.muslimphilosophy.com/books/hayy.pdf)]
@@ -263,7 +314,7 @@
 * Letters of a Sufi Master by Shaykh ad-Darqawi
 * Key to the Garden by Habib Ahmad Mashhur al-Haddad
 * The Principles of Sufism
-The Doctrine of the Sufis: (Kitab Al-Taʻarruf Li-madhhab Ahl Al-tasawwuf) [[Amazon](https://amzn.to/3ax4ZUd), [PDF](https://archive.org/details/in.ernet.dli.2015.108515)]
+* The Doctrine of the Sufis: (Kitab Al-Taʻarruf Li-madhhab Ahl Al-tasawwuf) [[Amazon](https://amzn.to/3ax4ZUd), [PDF](https://archive.org/details/in.ernet.dli.2015.108515)]
 * Ibn Juzay's Sufic Exegesis: Selections from Kitab al-Tashil li-Ulum al-Tanzil
 * The Words (Risale-I Nur Collection) by Bediuzzaman Said Nursi
 * Degrees of the Soul: Spiritual Stations on the Sufi Path
@@ -272,8 +323,11 @@ The Doctrine of the Sufis: (Kitab Al-Taʻarruf Li-madhhab Ahl Al-tasawwuf) [[Ama
 * “READ!” (The Reality Behind Muhammad’s First Revelation)
 * Ash Shifa (Muhammad: Messenger of Allah) Qadi Iyad
 * The Secrets of the Self: Asrar-I-Khudi
+* Inspirations: On the Path of Blame by Ibn Qadi Simawnah
 * An Ocean Without Shore: Ibn Arabi, The Book, And The Law by Michel Chodkiewicz [[PDF](https://archive.org/download/AnOceanWithoutShoreIbnArabisViewsOnTheBookAndTheLawByMichelChodkiewcz/An%20Ocean%20Without%20Shore%20-%20Ibn%20Arabi%27s%20Views%20on%20The%20Book%20and%20the%20Law%20by%20Michel%20Chodkiewcz.pdf)]
 * In Search of the Lost Heart
+* Awakened Dreams: Raji's Journeys with the Mirror Dede by Ahmet Hilmi
+* The Mevlevi wird: The prayers recited daily by Mevlevi dervishes
 * Science of the Cosmos, Science of the Soul
 * Al-Qusharyri's Epistle on Sufism [[PDF](http://data.nur.nu/Kutub/English/Qushayri_Risala.pdf)]
 * Shari'ah and Tariqat - Inseperable and Indivisible [[PDF](https://attahawi.files.wordpress.com/2011/02/shariah-and-tariqah-inseparable-and-indivisible.pdf)]
@@ -281,7 +335,7 @@ The Doctrine of the Sufis: (Kitab Al-Taʻarruf Li-madhhab Ahl Al-tasawwuf) [[Ama
 * The Wisdom of the Throne: An Introduction to the Philosophy of Mulla Sadra
 * Metaphysical Penetrations: A Parallel English-Arabic Text
 * Forty Lessons on Breath by Murshid Samuel L. Lewis [[PDF](https://dancesofuniversalpeace.org/ResourceDir/SAM/Forty_Lessons_on_Breath.pdf)]
-* Women of Sufism: A Hidden Treasure by Camille Adams Helminski
+* Forty Days by Michaela M Ozelsel
 * Journey Through Ten Thousand Veils: The Alchemy of Transformation on the Sufi Path by Maryam Kabeer Faye
 
 ### Commentary of the Holy Quran
@@ -291,6 +345,7 @@ The Doctrine of the Sufis: (Kitab Al-Taʻarruf Li-madhhab Ahl Al-tasawwuf) [[Ama
 * Abu'l Qasim Al Qushayri's Lata'if Al Isharat: Great Commentaries on the Holy Quran [[PDF](https://www.greattafsirs.com/Books/lataif.pdf)]
 * Tafsir Al-Tustari (Great Commentaries of the Holy Qur'an) [[PDF](https://www.altafsir.com/Books/Tustari.pdf)]
 * On the Hermeneutics of the Light Verse of the Quran (Tafsir Ayat al-Nur) [[PDF](http://library.lol/main/62DC666C5B8EEE6C80A018149BF55470)]
+* The Message of the Qur'an by Muhammad Asad [[Amazon](https://amzn.to/2NT2Eus), [PDF](http://www.muhammad-asad.com/Message-of-Quran.pdf)]
 
 ### Lectures
 
@@ -305,10 +360,13 @@ The Doctrine of the Sufis: (Kitab Al-Taʻarruf Li-madhhab Ahl Al-tasawwuf) [[Ama
 * Heart’s Life with God [[PDF](https://www.lancaster.ac.uk/jais/volume/docs/vol13/v13_05_qudsi_076-098.pdf)]
 * Al-Ghazali and Descartes From Doubt to certainty [[PDF](http://www.scielo.org.co/pdf/difil/v18n31/0124-6127-difil-18-31-00015.pdf)]
 * Early Sufi Approaches to Tawba: From the Quran to Abu Talib al-Makki [[PDF](https://www.collectionscanada.gc.ca/obj/thesescanada/vol2/002/NR60993.PDF)]
+* Shah Wali Allahs Arrangement of the Subtle Spiritual Centers [[PDF](https://ecommons.luc.edu/cgi/viewcontent.cgi?article=1053&context=theology_facpubs)]
+* The Soul (Heart) and Its Attributes: An Islamic Perspective With Reference To Self in Western Psychology [[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.901.8399&rep=rep1&type=pdf)]
 
 ### Blog & Website
 
 * <https://www.hazrat-inayat-khan.org/php/views.php>
+* <https://sufism.org/sufism/writings-on-sufism/levels-of-the-self-2>
 * <https://gardenofthebeloved.com/>
 * <http://fundamentalbelief.blogspot.com/>
 * <http://suffisum.blogspot.com/>
