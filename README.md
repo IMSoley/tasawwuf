@@ -192,9 +192,18 @@
 * Sainthood (Wilayah) and Nearness (Qurb)
 * A Sublime Way: The Sufi Path of the Sages of Makka
 
+### Henry Corbin
+
+* Spiritual Body and Celestial Earth
+* The Man of Light in Iranian Sufism
+* Swedenborg and esoteric Islam
+* The Voyage and the Messenger: Iran and Philosophy
+
 ### Seyyed Hossein Nasr
 
 * The Garden of Truth: The Vision and Promise of Sufism, Islam's Mystical Tradition [[Amazon](https://amzn.to/3r6mil6), [PDF](http://traditionalhikma.com/wp-content/uploads/2015/02/The-Garden-of-Truth-The-Vision-and-Promise-of-Sufism-Islams-Mystical-Tradition-by-Seyyed-Hossein-Nasr.pdf)]
+* The Conference of the Birds
+* Quantum Enigma: Finding the Hidden Key
 
 ### Annemarie Schimmel
 
@@ -263,12 +272,12 @@ The Doctrine of the Sufis: (Kitab Al-Taʻarruf Li-madhhab Ahl Al-tasawwuf) [[Ama
 * “READ!” (The Reality Behind Muhammad’s First Revelation)
 * Ash Shifa (Muhammad: Messenger of Allah) Qadi Iyad
 * The Secrets of the Self: Asrar-I-Khudi
-* Spiritual Body and Celestial Earth
 * An Ocean Without Shore: Ibn Arabi, The Book, And The Law by Michel Chodkiewicz [[PDF](https://archive.org/download/AnOceanWithoutShoreIbnArabisViewsOnTheBookAndTheLawByMichelChodkiewcz/An%20Ocean%20Without%20Shore%20-%20Ibn%20Arabi%27s%20Views%20on%20The%20Book%20and%20the%20Law%20by%20Michel%20Chodkiewcz.pdf)]
 * In Search of the Lost Heart
 * Science of the Cosmos, Science of the Soul
 * Al-Qusharyri's Epistle on Sufism [[PDF](http://data.nur.nu/Kutub/English/Qushayri_Risala.pdf)]
 * Shari'ah and Tariqat - Inseperable and Indivisible [[PDF](https://attahawi.files.wordpress.com/2011/02/shariah-and-tariqah-inseparable-and-indivisible.pdf)]
+* The Qur'an and the Prophet in the Writings of Shaykh Ahmad al-Alawi
 * The Wisdom of the Throne: An Introduction to the Philosophy of Mulla Sadra
 * Metaphysical Penetrations: A Parallel English-Arabic Text
 * Forty Lessons on Breath by Murshid Samuel L. Lewis [[PDF](https://dancesofuniversalpeace.org/ResourceDir/SAM/Forty_Lessons_on_Breath.pdf)]
@@ -285,9 +294,17 @@ The Doctrine of the Sufis: (Kitab Al-Taʻarruf Li-madhhab Ahl Al-tasawwuf) [[Ama
 
 ### Lectures
 
-* [Understanding Islam - Abdal Hakim Murad](https://www.youtube.com/playlist?list=PL85C4200AAB2EDAFB) | [in one video](https://www.youtube.com/watch?v=3SPiFbSUU8Q)
+* Understanding Islam - Abdal Hakim Murad [Playlist](https://www.youtube.com/playlist?list=PL85C4200AAB2EDAFB), [In one video](https://www.youtube.com/watch?v=3SPiFbSUU8Q)
 * Commentary on the Rumi's Mathnavi by Shaykh Abdal Hakim Murad [Part 1](https://www.youtube.com/watch?v=DnBXrwyLUCs), [Part 2](https://www.youtube.com/watch?v=igdlBxmbG98), [Part 3](https://www.youtube.com/watch?v=IyG4qYlprC0)
 * Commentary on the Divan-i Shams-i Tabriz by Shaykh Abdal Hakim Murad [Part 1](https://www.youtube.com/watch?v=J_ghjdUBx8E), [Part 2](https://www.youtube.com/watch?v=NoC8XANZtgk), [Part 3](https://www.youtube.com/watch?v=Wgg4zVV3n38)
+
+### Papers
+
+* Know yourself, According to Qur'an and Sunnah: Ibn Arabi's View [[PDF](https://www.sid.ir/FileServer/JE/105220073301.pdf)]
+* A Sufi Work on the Stations of the Heart [[PDF](http://faculty.washington.edu/heer/stations.pdf)]
+* Heart’s Life with God [[PDF](https://www.lancaster.ac.uk/jais/volume/docs/vol13/v13_05_qudsi_076-098.pdf)]
+* Al-Ghazali and Descartes From Doubt to certainty [[PDF](http://www.scielo.org.co/pdf/difil/v18n31/0124-6127-difil-18-31-00015.pdf)]
+* Early Sufi Approaches to Tawba: From the Quran to Abu Talib al-Makki [[PDF](https://www.collectionscanada.gc.ca/obj/thesescanada/vol2/002/NR60993.PDF)]
 
 ### Blog & Website
 
