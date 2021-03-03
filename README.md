@@ -206,11 +206,7 @@
 
 ### Nazim Al-Haqqani
 
-* Mercy Oceans Book One [[PDF](https://naqshbandi.org/wp-content/uploads/2018/11/ShaykhNazimHaqqani-MercyOceansBookOne.pdf)]
-* Mercy Oceans Book Two [[PDF](https://naqshbandi.org/wp-content/uploads/2018/11/ShaykhNazimHaqqani-MercyOceansBookTwo.pdf)]
-* Mercy Oceans Divine Oceans [[PDF](https://naqshbandi.org/wp-content/uploads/2018/11/ShaykhNazimHaqqani-MercyOceansDivineOceans.pdf)]
-* Mercy Oceans Rising Sun [[PDF](https://naqshbandi.org/wp-content/uploads/2018/11/ShaykhNazimHaqqani-MercyOceansRisingSun.pdf)]
-* Mercy Oceans Emeralds of Eden [[PDF](https://naqshbandi.org/wp-content/uploads/2018/11/ShaykhNazimHaqqani-MercyOceansEmeraldsOfEden.pdf)]
+* Mercy Oceans - [[Book One](https://naqshbandi.org/wp-content/uploads/2018/11/ShaykhNazimHaqqani-MercyOceansBookOne.pdf), [Book Two](https://naqshbandi.org/wp-content/uploads/2018/11/ShaykhNazimHaqqani-MercyOceansBookTwo.pdf), [Divine Oceans](https://naqshbandi.org/wp-content/uploads/2018/11/ShaykhNazimHaqqani-MercyOceansDivineOceans.pdf), [Rising Sun](https://naqshbandi.org/wp-content/uploads/2018/11/ShaykhNazimHaqqani-MercyOceansRisingSun.pdf), [Emeralds of Eden](https://naqshbandi.org/wp-content/uploads/2018/11/ShaykhNazimHaqqani-MercyOceansEmeraldsOfEden.pdf)]
 * Mercy Oceans Rubies of Resplendence [[PDF](https://naqshbandi.org/wp-content/uploads/2018/11/ShaykhNazimHaqqani-MercyOceansRubiesOfResplendence.pdf)]
 * Heavenly Wisdom [[PDF](https://naqshbandi.org/wp-content/uploads/2018/11/ShaykhNazimHaqqani-HeavenlyWisdom.pdf)]
 * Defending Truth [[PDF](https://naqshbandi.org/wp-content/uploads/2018/11/ShaykhNazimHaqqani-DefendingTruth.pdf)]
