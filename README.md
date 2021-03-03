@@ -185,8 +185,7 @@
 * Awakening of the Human Spirit [[Amazon](https://amzn.to/3b2KQ91)]
 * The Soul's Journey [[Amazon](https://amzn.to/3bKvyF2)]
 * Complete Works of Pir-O-Murshid Hazrat Inayat Khan [[Amazon](https://amzn.to/3r62o9H), [PDF](http://www.nekbakhtfoundation.org/wp/files/Works/Copy%20of%2024IIComplete%20Works%20of%20Pir-O-Murshid%20Hazrat%20Inayat%20Khan,%201924%20Vol%20II.pdf)]
-* The Gathas with Commentary - Part 1 [[PDF](http://www.ruhaniat.org/pdf/SAMArchive/Writing/Commentary/Gatha_Tasawwuf_1_Commentary.pdf)]
-* The Gathas with Commentary - Part 2 [[PDF](http://www.ruhaniat.org/pdf/SAMArchive/Writing/Commentary/Gatha_Tasawwuf_2_Commentary.pdf)]
+* The Gathas with Commentary - [[Part 1](http://www.ruhaniat.org/pdf/SAMArchive/Writing/Commentary/Gatha_Tasawwuf_1_Commentary.pdf), [Part 2](http://www.ruhaniat.org/pdf/SAMArchive/Writing/Commentary/Gatha_Tasawwuf_2_Commentary.pdf)]
 * Ten Sufi Thoughts [[PDF](https://inayatiorder.org/wp-content/uploads/2016/10/Ten-Sufi-Thoughts-Hazrat-Inayat-Khan-upd10.09.2016.pdf)]
 
 ### Ibn Hajar al-Asqalani
@@ -370,9 +369,9 @@
 
 ### Lectures
 
-* Understanding Islam - Abdal Hakim Murad [Playlist](https://www.youtube.com/playlist?list=PL85C4200AAB2EDAFB), [In one video](https://www.youtube.com/watch?v=3SPiFbSUU8Q)
-* Commentary on the Rumi's Mathnavi by Shaykh Abdal Hakim Murad [Part 1](https://www.youtube.com/watch?v=DnBXrwyLUCs), [Part 2](https://www.youtube.com/watch?v=igdlBxmbG98), [Part 3](https://www.youtube.com/watch?v=IyG4qYlprC0)
-* Commentary on the Divan-i Shams-i Tabriz by Shaykh Abdal Hakim Murad [Part 1](https://www.youtube.com/watch?v=J_ghjdUBx8E), [Part 2](https://www.youtube.com/watch?v=NoC8XANZtgk), [Part 3](https://www.youtube.com/watch?v=Wgg4zVV3n38)
+* Understanding Islam - Abdal Hakim Murad [[Playlist](https://www.youtube.com/playlist?list=PL85C4200AAB2EDAFB), [In one video](https://www.youtube.com/watch?v=3SPiFbSUU8Q)]
+* Commentary on the Rumi's Mathnavi by Shaykh Abdal Hakim Murad [[Part 1](https://www.youtube.com/watch?v=DnBXrwyLUCs), [Part 2](https://www.youtube.com/watch?v=igdlBxmbG98), [Part 3](https://www.youtube.com/watch?v=IyG4qYlprC0)]
+* Commentary on the Divan-i Shams-i Tabriz by Shaykh Abdal Hakim Murad [[Part 1](https://www.youtube.com/watch?v=J_ghjdUBx8E), [Part 2](https://www.youtube.com/watch?v=NoC8XANZtgk), [Part 3](https://www.youtube.com/watch?v=Wgg4zVV3n38)]
 
 ### Papers
 
