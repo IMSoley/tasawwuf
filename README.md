@@ -265,22 +265,22 @@
 
 ### Llewellyn Vaughan-Lee PhD
 
-* Sufism: The Transformation of the Heart
-* Love Is a Fire: The Sufi's Mystical Journey Home
-* The Bond with the Beloved: The Inner Relationship of the Lover and the Beloved
-* Spiritual Ecology: The Cry of the Earth
+* Sufism: The Transformation of the Heart [[Amazon](https://amzn.to/3kKWI2z), [PDF](https://archive.org/details/sufismtransforma00vaug_0)]
+* Love Is a Fire: The Sufi's Mystical Journey Home [[Amazon](https://amzn.to/386YN3K), [PDF](http://bennyobon.weebly.com/uploads/1/2/1/8/12186418/love_is_a_fire-sufi.pdf)]
+* The Bond with the Beloved: The Inner Relationship of the Lover and the Beloved [[Amazon](https://amzn.to/3899umm), [PDF](http://library.lol/main/1E0F7DD06B5FB2AFC470099903CF4891)]
+* Spiritual Ecology: The Cry of the Earth [[Amazon](https://amzn.to/3kIMIqt), [PDF](http://library.lol/main/73E50C9A75DD94C67AF8B844F08C5735)]
 
 ### Kabir Helminski
 
-* The Knowing Heart: A Sufi Path of Transformation
-* In the House of Remembering: The Living Tradition of Sufi Teaching
-* Living Presence (Revised): The Sufi Path to Mindfulness and the Essential Self
-* The Drop That Became the Sea: Lyric Poems
+* The Knowing Heart: A Sufi Path of Transformation [[Amazon](https://amzn.to/30bd8rv)]
+* In the House of Remembering: The Living Tradition of Sufi Teaching [[Amazon](https://amzn.to/2OhjuD5)]
+* Living Presence (Revised): The Sufi Path to Mindfulness and the Essential Self [[Amazon](https://amzn.to/3bclaGS), [PDF](http://library.lol/main/C4BED5951CB5FDA4F6901E128D51BC73)]
+* The Drop That Became the Sea: Lyric Poems [[Amazon](https://amzn.to/3baqCdl), [PDF](https://archive.org/download/TheDropThatBecameTheSeaYunusEmre/The%20drop%20that%20became%20the%20sea%20_%20Yunus%20Emre.pdf)]
 
 ### Khaja Khan
 
-* Studies in Tasawwuf
-* The Secret of Ana'l - Haqq/Secret of I am the Truth
+* Studies in Tasawwuf [[Amazon](https://amzn.to/308rjh1), [PDF](https://archive.org/download/in.ernet.dli.2015.234407/2015.234407.Studies-In.pdf)]
+* The Secret of Ana'l - Haqq/Secret of I am the Truth [[Amazon](https://amzn.to/2MJohwP)]
 
 ### Nuh Ha MIM Keller
 
