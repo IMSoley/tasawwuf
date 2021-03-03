@@ -198,32 +198,52 @@
 
 * Levels of the Heart - Lataif al Qalb [[Amazon](https://amzn.to/3bSG9xH)]
 * Rising Sun of the West: Kitab al Irshad - The Book of Spiritual Guidance [[Amazon](https://amzn.to/3sGS5t9)]
-* The Healing Power of Sufi Meditation [[Amazon](https://amzn.to/384AvYd)]
+* The Healing Power of Sufi Meditation [[Amazon](https://amzn.to/384AvYd), [PDF](https://archive.org/download/NaqshbandiAliyyaBooks/NurjanMirahmadi-SufiMeditation.pdf)]
 * YASEEN: Prophet (PBUH) is the Walking Quran [[Amazon](https://amzn.to/3rbC3XM)]
 * In Pursuit of Angelic Power: A Path Towards Divine Healing Energy [[Amazon](https://amzn.to/2NWWmtR)]
 * Insan al Kamil - The Universal Perfect Being [[Amazon](https://amzn.to/3bT7906)]
 * Secret Realities of Hajj [[Amazon](https://amzn.to/383GJrd)]
 
+### Nazim Al-Haqqani
+
+* Mercy Oceans Book One [[PDF](https://naqshbandi.org/wp-content/uploads/2018/11/ShaykhNazimHaqqani-MercyOceansBookOne.pdf)]
+* Mercy Oceans Book Two [[PDF](https://naqshbandi.org/wp-content/uploads/2018/11/ShaykhNazimHaqqani-MercyOceansBookTwo.pdf)]
+* Mercy Oceans Divine Oceans [[PDF](https://naqshbandi.org/wp-content/uploads/2018/11/ShaykhNazimHaqqani-MercyOceansDivineOceans.pdf)]
+* Mercy Oceans Rising Sun [[PDF](https://naqshbandi.org/wp-content/uploads/2018/11/ShaykhNazimHaqqani-MercyOceansRisingSun.pdf)]
+* Mercy Oceans Emeralds of Eden [[PDF](https://naqshbandi.org/wp-content/uploads/2018/11/ShaykhNazimHaqqani-MercyOceansEmeraldsOfEden.pdf)]
+* Mercy Oceans Rubies of Resplendence [[PDF](https://naqshbandi.org/wp-content/uploads/2018/11/ShaykhNazimHaqqani-MercyOceansRubiesOfResplendence.pdf)]
+* Heavenly Wisdom [[PDF](https://naqshbandi.org/wp-content/uploads/2018/11/ShaykhNazimHaqqani-HeavenlyWisdom.pdf)]
+* Defending Truth [[PDF](https://naqshbandi.org/wp-content/uploads/2018/11/ShaykhNazimHaqqani-DefendingTruth.pdf)]
+* The Divine Kingdom [[PDF](https://naqshbandi.org/wp-content/uploads/2018/11/ShaykhNazimHaqqani-TheDivineKingdom.pdf)]
+* Bridge To Eternity [[PDF](https://naqshbandi.org/wp-content/uploads/2018/11/ShaykhNazimHaqqani-BridgeToEternity.pdf)]
+* Love [[PDF](https://naqshbandi.org/wp-content/uploads/2018/11/ShaykhNazimHaqqani-Love.pdf)]
+
 ### Hisham Kabbani
 
-* Mawlid Ad-Dayba'i
-* Liberating the Soul: A Guide for Spiritual Growth (Total Seven Volumes)
-* Healing Verses of Holy Quran & Hadith
-* The Benefits of Bismillahi 'r-Rahmani 'r-Raheem & Surat Al-Fatihah
-* Angels Unveiled, A Sufi Perspective
-* Call on Me: Powerful Supplications for Healing, Protection & Fulfillment of Needs
-* Salawat of Tremendous Blessings
-* Muhammad: The Messenger of Islam
+* Mawlid Ad-Dayba'i [[Amazon](https://amzn.to/3c0gV0B), [PDF](https://sufilive.com/mawlid/)]
+* Liberating the Soul: A Guide for Spiritual Growth, Volume One [[Amazon](https://amzn.to/3uNS9sS)]
+* Liberating the Soul: A Guide for Spiritual Growth, Volume Two [[Amazon](https://amzn.to/3uRoYoM)]
+* Liberating the Soul: A Guide for Spiritual Growth, Volume Three [[Amazon](https://amzn.to/384S9Lm)]
+* Liberating the Soul: A Guide for Spiritual Growth, Volume Four [[Amazon](https://amzn.to/385xg2D)]
+* Liberating the Soul: A Guide for Spiritual Growth, Volume Five [[Amazon](https://amzn.to/3bZLjIa), [PDF](https://naqshbandi.org/wp-content/uploads/2018/11/ShaykhNazimHaqqani-LiberatingTheSoulBook5.pdf)]
+* Liberating the Soul: A Guide for Spiritual Growth, Volume Six [[Amazon](https://amzn.to/2Oi0zbq)]
+* Healing Verses of Holy Quran & Hadith [[Amazon](https://amzn.to/3uNLRts)]
+* The Benefits of Bismillahi 'r-Rahmani 'r-Raheem & Surat Al-Fatihah [[Amazon](https://amzn.to/3e4RuxA)]
+* Angels Unveiled, A Sufi Perspective [[Amazon](https://amzn.to/380TJxJ)]
+* Call on Me: Powerful Supplications for Healing, Protection & Fulfillment of Needs [[Amazon](https://amzn.to/3b8gNww)]
+* Salawat of Tremendous Blessings [[Amazon](https://amzn.to/307v8mU)]
+* Muhammad: The Messenger of Islam [[Amazon](https://amzn.to/3sWoY5t)]
+* Fifty Days: the Divine Disclosures During a Holy Sufi Seclusion [[Amazon](https://amzn.to/3sN6Zhp), [PDF](https://archive.org/download/NaqshbandiAliyyaBooks/ShaykhHishamKabbani-FiftyDays.pdf)]
 
 ### Vilayat Inayat Khan
 
-* That Which Transpires Behind That Which Appears: The Experience of Sufism
-* Life is a Pilgrimage
-* The Ecstasy Beyond Knowing: A Manual of Meditation
-* Call of the Dervish
-* In Search of the Hidden Treasure
-* Toward The One
-* Awakening: A Sufi Experience
+* That Which Transpires Behind That Which Appears: The Experience of Sufism [[Amazon](https://amzn.to/3b8W8bD), [PDF](https://archive.org/details/thatwhichtranspi00pirv)]
+* Life is a Pilgrimage [[Amazon](https://amzn.to/3sKkKxv)]
+* The Ecstasy Beyond Knowing: A Manual of Meditation [[Amazon](https://amzn.to/3091ZaW)]
+* Call of the Dervish [[Amazon](https://amzn.to/3sHfqei)]
+* In Search of the Hidden Treasure [[Amazon](https://amzn.to/307wVs8)]
+* Toward The One [[Amazon](https://amzn.to/3ebogga)]
+* Awakening: A Sufi Experience [[Amazon](https://amzn.to/3uN30n5), [PDF](https://archive.org/details/awakening00pirv)]
 
 ### Shaykh Ahmad Hendricks
 
@@ -232,16 +252,16 @@
 
 ### Henry Corbin
 
-* Spiritual Body and Celestial Earth
-* The Man of Light in Iranian Sufism
-* Swedenborg and esoteric Islam
-* The Voyage and the Messenger: Iran and Philosophy
+* Spiritual Body and Celestial Earth [[Amazon](https://amzn.to/3825tjS), [PDF](http://traditionalhikma.com/wp-content/uploads/2015/08/Spiritual-Body-and-Celestial-Earth-From-Mazdean-Iran-to-Shiite-Iran-by-Henry-Corbin.pdf)]
+* The Man of Light in Iranian Sufism [[Amazon](https://amzn.to/384vPle), [PDF](http://traditionalhikma.com/wp-content/uploads/2015/07/Man-of-Light-in-Iranian-Sufism-by-Henry-Corbin.pdf)]
+* Swedenborg and esoteric Islam [[Amazon](https://amzn.to/3ba9eFJ)]
+* The Voyage and the Messenger: Iran and Philosophy [[Amazon](https://amzn.to/2MEftrQ), [PDF](http://traditionalhikma.com/wp-content/uploads/2015/08/The-Theme-of-the-Voyage-and-the-Messenger-by-Henry-Corbin.pdf)]
 
 ### Seyyed Hossein Nasr
 
 * The Garden of Truth: The Vision and Promise of Sufism, Islam's Mystical Tradition [[Amazon](https://amzn.to/3r6mil6), [PDF](http://traditionalhikma.com/wp-content/uploads/2015/02/The-Garden-of-Truth-The-Vision-and-Promise-of-Sufism-Islams-Mystical-Tradition-by-Seyyed-Hossein-Nasr.pdf)]
-* The Conference of the Birds
-* Quantum Enigma: Finding the Hidden Key
+* The Conference of the Birds [[Amazon](https://amzn.to/3sJguyd)]
+* Quantum Enigma: Finding the Hidden Key [[Amazon](https://amzn.to/3uP44XG), [PDF](https://archive.org/details/WSmithQuantum)]
 
 ### Annemarie Schimmel
 
