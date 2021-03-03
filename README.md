@@ -311,8 +311,15 @@
 * The Light of Dawn: Daily Readings from the Holy Qur'an
 * Women of Sufism: A Hidden Treasure
 
+### Shaykh Muhammad al-Jamal
+
+* Music of the Soul
+* For Every Disease Allah Sent Down a Cure
+* Secret of the Spirit
+
 ### Others
 
+* Nobody Son of Nobody [[Amazon](https://amzn.to/3bQeEVm), [PDF](https://hohmpress.com/free-downloads/12052016-Nobody-Son-Of-Nobody.pdf)]
 * Realities of Sufism by Shaykh Abd al-Qadir Isa [[Amazon](https://amzn.to/2NU08UC)]
 * Pure Gold from the Words of Sayyidi Abd al-Aziz al-Dabbagh [[Amazon](https://amzn.to/3b5jUp1), [PDF](http://data.nur.nu/Kutub/English/Ibriz_transl-O-Kane-J-and-Bernd-Radtke-2007-Pure-Gold-From-the-Words-of-Sayyidi-Abd-Al-Aziz-Al-Dabbagh.pdf)]
 * The Book Of Remembrances [Kitab Al-Adhkar] by Imam Al-Nawawi [[Amazon](https://amzn.to/3by3C7g), [PDF](https://archive.org/download/the-book-of-remembrances-kitab-al-adhkar/The%20Book%20Of%20Remembrances%20%5BKitab%20Al-Adhkar%5D.pdf)]
@@ -350,13 +357,17 @@
 * The Mevlevi wird: The prayers recited daily by Mevlevi dervishes
 * Science of the Cosmos, Science of the Soul
 * Al-Qusharyri's Epistle on Sufism [[PDF](http://data.nur.nu/Kutub/English/Qushayri_Risala.pdf)]
+* The Soul and a Loaf of Bread: The Teachings of Sheikh Abol-Hasan of Kharaqan
 * Shari'ah and Tariqat - Inseperable and Indivisible [[PDF](https://attahawi.files.wordpress.com/2011/02/shariah-and-tariqah-inseparable-and-indivisible.pdf)]
 * The Qur'an and the Prophet in the Writings of Shaykh Ahmad al-Alawi
 * The Wisdom of the Throne: An Introduction to the Philosophy of Mulla Sadra
 * Metaphysical Penetrations: A Parallel English-Arabic Text
 * Forty Lessons on Breath by Murshid Samuel L. Lewis [[PDF](https://dancesofuniversalpeace.org/ResourceDir/SAM/Forty_Lessons_on_Breath.pdf)]
 * Forty Days by Michaela M Ozelsel
+* Walking With God by James Keeley
+* This Heavenly Wine: Renditions from the Divan-e Jami
 * Journey Through Ten Thousand Veils: The Alchemy of Transformation on the Sufi Path by Maryam Kabeer Faye
+* Tao Te Ching by Lao Tzu [[V1](https://kingauthor.net/books/Derek%20Lin/Tao%20Te%20Ching/Tao%20Te%20Ching%20-%20Derek%20Lin.pdf), [V2](https://taoism.net/tao/wp-content/uploads/2019/07/Accurate-Translation-of-the-Tao-Te-Ching.pdf), [V3](https://www.unl.edu/prodmgr/NRT/Tao%20Te%20Ching%20-%20trans.%20by%20J.H..%20McDonald.pdf), [V4](http://www.sfhunyuan.com/images/TAO_TE_CHING_-_LE_GUIN_edition.pdf), [V5](https://library.oapen.org/bitstream/handle/20.500.12657/41829/9780472901388.pdf?sequence=1&isAllowed=y), [V6](https://www.bu.edu/religion/files/pdf/Tao_Teh_Ching_Translations.pdf), [V7](https://sourceoflightmonastery.tripod.com/webonmediacontents/1935012.pdf), [V8](http://www.beatrice.com/TAO.pdf)]
 
 ### Commentary of the Holy Quran
 
@@ -375,6 +386,10 @@
 
 ### Papers
 
+* Al-Ghazali's integral epistemology: A critical analysis of the jewels of the Quran [[PDF](https://fount.aucegypt.edu/cgi/viewcontent.cgi?article=2370&context=etds)]
+* An Introduction to the Sciences of the Qur’an by Ahmad von Denffer [[PDF](http://www.islamicbulletin.org/free_downloads/quran/ul_umal_quran.pdf)]
+* The Notion and Significance of Ma'rifa in Sufism [[PDF](https://www.ghazali.org/articles/The%20Notion%20and%20Significance%20of%20Ma%27rifa%20in%20Sufism.pdf)]
+* On Sufi Psychology: A Debate between the Soul and the Spirit [[PDF](http://www.williamcchittick.com/wp-content/uploads/2019/05/On-Sufi-Psychology-A-Debate-Between-the-Soul-and-the-Spirit.pdf)]
 * Know yourself, According to Qur'an and Sunnah: Ibn Arabi's View [[PDF](https://www.sid.ir/FileServer/JE/105220073301.pdf)]
 * A Sufi Work on the Stations of the Heart [[PDF](http://faculty.washington.edu/heer/stations.pdf)]
 * Heart’s Life with God [[PDF](https://www.lancaster.ac.uk/jais/volume/docs/vol13/v13_05_qudsi_076-098.pdf)]
@@ -387,9 +402,11 @@
 
 * <https://www.hazrat-inayat-khan.org/php/views.php>
 * <https://sufism.org/sufism/writings-on-sufism/levels-of-the-self-2>
+* <https://www.techofheart.com/search/label/sufi>
 * <https://gardenofthebeloved.com/>
 * <http://fundamentalbelief.blogspot.com/>
 * <http://suffisum.blogspot.com/>
 * <https://khawajamoinuddin.wordpress.com/>
 * <http://zoya-thewayofasufi.blogspot.com/>
 * <https://www.nurmuhammad.com/free-sufi-e-books-online/>
+* <http://www.halukberkmen.net/en/articles.php>
