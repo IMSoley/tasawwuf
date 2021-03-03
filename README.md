@@ -221,12 +221,7 @@
 ### Hisham Kabbani
 
 * Mawlid Ad-Dayba'i [[Amazon](https://amzn.to/3c0gV0B), [PDF](https://sufilive.com/mawlid/)]
-* Liberating the Soul: A Guide for Spiritual Growth, Volume One [[Amazon](https://amzn.to/3uNS9sS)]
-* Liberating the Soul: A Guide for Spiritual Growth, Volume Two [[Amazon](https://amzn.to/3uRoYoM)]
-* Liberating the Soul: A Guide for Spiritual Growth, Volume Three [[Amazon](https://amzn.to/384S9Lm)]
-* Liberating the Soul: A Guide for Spiritual Growth, Volume Four [[Amazon](https://amzn.to/385xg2D)]
-* Liberating the Soul: A Guide for Spiritual Growth, Volume Five [[Amazon](https://amzn.to/3bZLjIa), [PDF](https://naqshbandi.org/wp-content/uploads/2018/11/ShaykhNazimHaqqani-LiberatingTheSoulBook5.pdf)]
-* Liberating the Soul: A Guide for Spiritual Growth, Volume Six [[Amazon](https://amzn.to/2Oi0zbq)]
+* Liberating the Soul: A Guide for Spiritual Growth [[Volume One-Amazon](https://amzn.to/3uNS9sS), [Two-Amazon](https://amzn.to/3uRoYoM), [Three-Amazon](https://amzn.to/384S9Lm), [Four-Amazon](https://amzn.to/385xg2D), [Five-Amazon](https://amzn.to/3bZLjIa), [Five-PDF](https://naqshbandi.org/wp-content/uploads/2018/11/ShaykhNazimHaqqani-LiberatingTheSoulBook5.pdf), [Six-Amazon](https://amzn.to/2Oi0zbq)]
 * Healing Verses of Holy Quran & Hadith [[Amazon](https://amzn.to/3uNLRts)]
 * The Benefits of Bismillahi 'r-Rahmani 'r-Raheem & Surat Al-Fatihah [[Amazon](https://amzn.to/3e4RuxA)]
 * Angels Unveiled, A Sufi Perspective [[Amazon](https://amzn.to/380TJxJ)]
@@ -367,7 +362,7 @@
 * Walking With God by James Keeley
 * This Heavenly Wine: Renditions from the Divan-e Jami
 * Journey Through Ten Thousand Veils: The Alchemy of Transformation on the Sufi Path by Maryam Kabeer Faye
-* Tao Te Ching by Lao Tzu [[V1](https://kingauthor.net/books/Derek%20Lin/Tao%20Te%20Ching/Tao%20Te%20Ching%20-%20Derek%20Lin.pdf), [V2](https://taoism.net/tao/wp-content/uploads/2019/07/Accurate-Translation-of-the-Tao-Te-Ching.pdf), [V3](https://www.unl.edu/prodmgr/NRT/Tao%20Te%20Ching%20-%20trans.%20by%20J.H..%20McDonald.pdf), [V4](http://www.sfhunyuan.com/images/TAO_TE_CHING_-_LE_GUIN_edition.pdf), [V5](https://library.oapen.org/bitstream/handle/20.500.12657/41829/9780472901388.pdf?sequence=1&isAllowed=y), [V6](https://www.bu.edu/religion/files/pdf/Tao_Teh_Ching_Translations.pdf), [V7](https://sourceoflightmonastery.tripod.com/webonmediacontents/1935012.pdf), [V8](http://www.beatrice.com/TAO.pdf)]
+* Tao Te Ching by Lao Tzu [[Version 1](https://kingauthor.net/books/Derek%20Lin/Tao%20Te%20Ching/Tao%20Te%20Ching%20-%20Derek%20Lin.pdf), [V2](https://taoism.net/tao/wp-content/uploads/2019/07/Accurate-Translation-of-the-Tao-Te-Ching.pdf), [V3](https://www.unl.edu/prodmgr/NRT/Tao%20Te%20Ching%20-%20trans.%20by%20J.H..%20McDonald.pdf), [V4](http://www.sfhunyuan.com/images/TAO_TE_CHING_-_LE_GUIN_edition.pdf), [V5](https://library.oapen.org/bitstream/handle/20.500.12657/41829/9780472901388.pdf?sequence=1&isAllowed=y), [V6](https://www.bu.edu/religion/files/pdf/Tao_Teh_Ching_Translations.pdf), [V7](https://sourceoflightmonastery.tripod.com/webonmediacontents/1935012.pdf), [V8](http://www.beatrice.com/TAO.pdf)]
 
 ### Commentary of the Holy Quran
 
