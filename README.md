@@ -1,5 +1,6 @@
 <span align="center">
-<h2>My Study Resources</h2>
+<h2>Bismillah al-Rahman al-Rahim <sub>Commentary <a href="https://sufipathoflove.com/commentary-on-the-bismillah/">1</a>, <a href="https://www.al-islam.org/commentary-kumayl-supplication-allama-husayn-ansariyan/commentary-bismillah-ar-rahman-ar-rahim">2</a>, <a href="https://islamreigns.wordpress.com/2016/02/07/tafsir-of-bismillah-al-rahman-al-raheem/">3</a></sub></h2>
+<h3>[My Study Resources]</h3>
   <p>Seeking Truth</p><br/>
 </span>
 
@@ -306,6 +307,20 @@
 * For Every Disease Allah Sent Down a Cure
 * Secret of the Spirit
 
+### Shaikh Ahmad Al Alawi
+
+* A Sufi Saint of the Twentieth Century: Shaikh Ahmad al-Alawi
+* The Qur'an and the Prophet in the Writings of Shaykh Ahmad al-Alawi
+* Two Invocations
+* Two Who Attained: Twentieth-Century Sufi Saints: Fatima al-Yashrutiyya & Shaykh Ahmad al-'Alawi
+* Knowledge of God
+
+### Martin Lings
+
+* What is Sufism?
+* Splendors of Qur'an Calligraphy and Illumination
+* The Book of Certainty: The Sufi Doctrine of Faith, Vision and Gnosis
+
 ### Others
 
 * Nobody Son of Nobody [[Amazon](https://amzn.to/3bQeEVm), [PDF](https://hohmpress.com/free-downloads/12052016-Nobody-Son-Of-Nobody.pdf)]
@@ -348,7 +363,6 @@
 * Al-Qusharyri's Epistle on Sufism [[PDF](http://data.nur.nu/Kutub/English/Qushayri_Risala.pdf)]
 * The Soul and a Loaf of Bread: The Teachings of Sheikh Abol-Hasan of Kharaqan
 * Shari'ah and Tariqat - Inseperable and Indivisible [[PDF](https://attahawi.files.wordpress.com/2011/02/shariah-and-tariqah-inseparable-and-indivisible.pdf)]
-* The Qur'an and the Prophet in the Writings of Shaykh Ahmad al-Alawi
 * The Wisdom of the Throne: An Introduction to the Philosophy of Mulla Sadra
 * Metaphysical Penetrations: A Parallel English-Arabic Text
 * Forty Lessons on Breath by Murshid Samuel L. Lewis [[PDF](https://dancesofuniversalpeace.org/ResourceDir/SAM/Forty_Lessons_on_Breath.pdf)]
