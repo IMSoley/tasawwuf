@@ -1,5 +1,5 @@
 <span align="center">
-<h2>Bismillah al-Rahman al-Rahim <sub>Commentary <a href="https://sufipathoflove.com/commentary-on-the-bismillah/">1</a>, <a href="https://www.al-islam.org/commentary-kumayl-supplication-allama-husayn-ansariyan/commentary-bismillah-ar-rahman-ar-rahim">2</a>, <a href="https://islamreigns.wordpress.com/2016/02/07/tafsir-of-bismillah-al-rahman-al-raheem/">3</a></sub></h2>
+<h2>Bismillah al-Rahman al-Rahim <sub><a href="https://sufipathoflove.com/commentary-on-the-bismillah/">1</a>, <a href="https://www.al-islam.org/commentary-kumayl-supplication-allama-husayn-ansariyan/commentary-bismillah-ar-rahman-ar-rahim">2</a>, <a href="https://islamreigns.wordpress.com/2016/02/07/tafsir-of-bismillah-al-rahman-al-raheem/">3</a></sub></h2>
 <h3>[My Study Resources]</h3>
   <p>Seeking Truth</p><br/>
 </span>
