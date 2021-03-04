@@ -1,5 +1,5 @@
 <span align="center">
-<h2><i>In the Name of God, the Compassionate, the Merciful</i></h2>
+<h2><i>In the Name of Allah, the Compassionate, the Merciful</i></h2>
 <h3>[My Study Resources]</h3>
   <p>Seeking Truth</p><br/>
 </span>
@@ -175,6 +175,12 @@
 * The Tawasin: (Book of the Purity of the Glory of God) [[Amazon](https://amzn.to/2Zt4Ivt), [PDF](http://traditionalhikma.com/wp-content/uploads/2015/03/The-Tawasin-of-Mansur-al-Hallaj.pdf), [Additional](https://physlab.lums.edu.pk/images/b/b8/Tawasin-summary.pdf)]
 * 'I am the Truth' (Anal-Haq) Diwan of Mansur al-Hallaj [[Amazon](https://amzn.to/3b1r25S)]
 
+### Imam al-Nawawi
+
+* Etiquette With the Quran [[Amazon](https://amzn.to/3ea83Ij), [PDF](https://www.kalamullah.com/Books/EtiquetteWithTheQuran.pdf)]
+* The Book Of Remembrances [Kitab Al-Adhkar] by Imam Al-Nawawi [[Amazon](https://amzn.to/3by3C7g), [PDF](https://archive.org/download/the-book-of-remembrances-kitab-al-adhkar/The%20Book%20Of%20Remembrances%20%5BKitab%20Al-Adhkar%5D.pdf)]
+* 40 Hadith of An-Nawawi [[Amazon](https://amzn.to/3ehiVUC), [Online](https://40hadithnawawi.com/), [Commentary](https://muqith.files.wordpress.com/2015/12/commentary-on-the-forty-hadith-of-al-nawawi.pdf)]
+
 ### Inayat Khan
 
 * The Heart of Sufism: Essential Writings of Hazrat Inayat Khan [[Amazon](https://amzn.to/3r7Xg59), [PDF](http://library.lol/main/6255DB5B049197B0CFB034B786F88832)]
@@ -285,48 +291,56 @@
 
 ### Nuh Ha MIM Keller
 
-* Sea Without Shore: A Manual of the Sufi Path
-* Reliance of the Traveller: A Classic Manual of Islamic Sacred Law
-* Etiquette With the Quran
+* Sea Without Shore: A Manual of the Sufi Path [[Amazon](https://amzn.to/2O5J8uJ)]
+* Reliance of the Traveller: A Classic Manual of Islamic Sacred Law [[Amazon](https://amzn.to/3sP6hk2), [PDF](http://www.catheyallison.com/Reliance_of_the_Traveller.pdf)]
 
 ### Shaykh Azad Rasool
 
-* Turning Toward the Heart: Awakening to the Sufi Way: Forty Questions and Answers
-* The Search for Truth: The Life &Teaching Methods of the Indian Sufi Shaykh Maulvi Muhammad Saeed Khan
+* Turning Toward the Heart: Awakening to the Sufi Way: Forty Questions and Answers [[Amazon](https://amzn.to/38995R9)]
+* The Search for Truth: The Life & Teaching Methods of the Indian Sufi Shaykh Maulvi Muhammad Saeed Khan [[Amazon](https://amzn.to/3qcttXL)]
 
 ### Camille Adams Helminski
 
-* Words from the East
-* Happiness Without Death: Desert Hymns
-* The Light of Dawn: Daily Readings from the Holy Qur'an
-* Women of Sufism: A Hidden Treasure
+* Words from the East [[Amazon](https://amzn.to/2OolXLW)]
+* Happiness Without Death: Desert Hymns [[Amazon](https://amzn.to/38aTdxi)]
+* The Light of Dawn: Daily Readings from the Holy Qur'an [[Amazon](https://amzn.to/30aH9HV)]
+* Women of Sufism: A Hidden Treasure [[Amazon](https://amzn.to/38bIJ0F), [PDF](http://library.lol/main/18A4FAB3413F445CC512700C900C5DF0)]
 
 ### Shaykh Muhammad al-Jamal
 
-* Music of the Soul
-* For Every Disease Allah Sent Down a Cure
-* Secret of the Spirit
+* Music of the Soul [[Amazon](https://amzn.to/3bZakU1)]
+* For Every Disease Allah Sent Down a Cure [[Amazon](https://amzn.to/2MSAAXK)]
+* Secret of the Spirit [[Amazon](https://amzn.to/30qHtTn)]
 
 ### Shaikh Ahmad Al Alawi
 
-* A Sufi Saint of the Twentieth Century: Shaikh Ahmad al-Alawi
-* The Qur'an and the Prophet in the Writings of Shaykh Ahmad al-Alawi
-* Two Invocations
-* Two Who Attained: Twentieth-Century Sufi Saints: Fatima al-Yashrutiyya & Shaykh Ahmad al-'Alawi
-* Knowledge of God
+* A Sufi Saint of the Twentieth Century: Shaikh Ahmad al-Alawi [[Amazon](https://amzn.to/2OiSVgS), [PDF](https://archive.org/download/MartinLingsASufiSaintOfTheTwentiethCentury/Martin%20Lings%20-%20A%20Sufi%20Saint%20of%20the%20Twentieth%20Century.pdf)]
+* The Qur'an and the Prophet in the Writings of Shaykh Ahmad al-Alawi [[Amazon](https://amzn.to/3uS9iBP)]
+* Two Invocations [[Amazon](https://amzn.to/3c2cSRh)]
+* Two Who Attained: Twentieth-Century Sufi Saints: Fatima al-Yashrutiyya & Shaykh Ahmad al-'Alawi [[Amazon](https://amzn.to/389I8g5)]
+* Knowledge of God [[Amazon](https://amzn.to/2O5SlmN)]
+* Intimate Supplication of Sheikh Ahmad ibn Mustafa al-Alawi [[PDF](https://archive.org/download/IntimateSupplicationmunajatByAlawi/Intimate%20supplication%20%28munajat%29%20by%20Alawi.pdf)]
 
 ### Martin Lings
 
-* What is Sufism?
-* Splendors of Qur'an Calligraphy and Illumination
-* The Book of Certainty: The Sufi Doctrine of Faith, Vision and Gnosis
+* What is Sufism? [[Amazon](https://amzn.to/386T9yE), [PDF](http://traditionalhikma.com/wp-content/uploads/2015/02/What-is-Sufism-by-Martin-Lings-Shaykh-Abu-Bakr-Siraj-al-Din.pdf)]
+* Splendors of Qur'an Calligraphy and Illumination [[Amazon](https://amzn.to/3kSLmtC)]
+* The Book of Certainty: The Sufi Doctrine of Faith, Vision and Gnosis [[Amazon](https://amzn.to/2O4KOEX)]
+
+### William C. Chittick
+
+* Repose of the Spirits, The: A Sufi Commentary on the Divine Names
+* Imaginal Worlds: Ibn al-'Arabi and the Problem of Religious Diversity
+* Divine Love: Islamic Literature and the Path to God
+* The Name and the Named
+* Fakhruddin Iraqi: Divine Flashes
+* Science of the Cosmos, Science of the Soul
 
 ### Others
 
 * Nobody Son of Nobody [[Amazon](https://amzn.to/3bQeEVm), [PDF](https://hohmpress.com/free-downloads/12052016-Nobody-Son-Of-Nobody.pdf)]
 * Realities of Sufism by Shaykh Abd al-Qadir Isa [[Amazon](https://amzn.to/2NU08UC)]
 * Pure Gold from the Words of Sayyidi Abd al-Aziz al-Dabbagh [[Amazon](https://amzn.to/3b5jUp1), [PDF](http://data.nur.nu/Kutub/English/Ibriz_transl-O-Kane-J-and-Bernd-Radtke-2007-Pure-Gold-From-the-Words-of-Sayyidi-Abd-Al-Aziz-Al-Dabbagh.pdf)]
-* The Book Of Remembrances [Kitab Al-Adhkar] by Imam Al-Nawawi [[Amazon](https://amzn.to/3by3C7g), [PDF](https://archive.org/download/the-book-of-remembrances-kitab-al-adhkar/The%20Book%20Of%20Remembrances%20%5BKitab%20Al-Adhkar%5D.pdf)]
 * Virtues of The Prayers for Forgiveness by Imam Hasan al-Basri [[Amazon](https://amzn.to/2ZXHlKR), [PDF](http://www.zawiyah.org/zawiyah/PDFs/Prayers%20For%20Forgiveness.pdf)]
 * A Map of the Divine Subtle Faculty: The Concept of Qalb (Heart) in Classical and Contemporary Islamic Scholarship [[Amazon](https://amzn.to/3uUGkBx), [PDF](https://acuresearchbank.acu.edu.au/download/fb9270b6adabc8cc07288367cc1fdb0e6c823a11d7c814a3c86da693eb02e200/1808508/65080_downloaded_stream_305.pdf)]
 * The Life, Personality and Writings of al-Junayd [[Amazon](https://amzn.to/3bEBJKW), [PDF](https://archive.org/download/TheLifePersonalityAndWritingsOfAlJunaydDrHAbdelKader/The-Life-Personality-and-Writings-of-Al-Junayd-Dr-H-Abdel-Kader.pdf)]
@@ -370,6 +384,7 @@
 * Walking With God by James Keeley
 * This Heavenly Wine: Renditions from the Divan-e Jami
 * Journey Through Ten Thousand Veils: The Alchemy of Transformation on the Sufi Path by Maryam Kabeer Faye
+* Getting Started Finding Your Way Along The Path [[PDF](https://sufiuniversity.org/wp/wp-content/uploads/2016/08/Getting-Started-1st-edition-2016-Final.compressed.pdf)]
 * Tao Te Ching by Lao Tzu [[Version 1](https://kingauthor.net/books/Derek%20Lin/Tao%20Te%20Ching/Tao%20Te%20Ching%20-%20Derek%20Lin.pdf), [V2](https://taoism.net/tao/wp-content/uploads/2019/07/Accurate-Translation-of-the-Tao-Te-Ching.pdf), [V3](https://www.unl.edu/prodmgr/NRT/Tao%20Te%20Ching%20-%20trans.%20by%20J.H..%20McDonald.pdf), [V4](http://www.sfhunyuan.com/images/TAO_TE_CHING_-_LE_GUIN_edition.pdf), [V5](https://library.oapen.org/bitstream/handle/20.500.12657/41829/9780472901388.pdf?sequence=1&isAllowed=y), [V6](https://www.bu.edu/religion/files/pdf/Tao_Teh_Ching_Translations.pdf), [V7](https://sourceoflightmonastery.tripod.com/webonmediacontents/1935012.pdf), [V8](http://www.beatrice.com/TAO.pdf)]
 
 ### Commentary of the Holy Quran
