@@ -48,7 +48,6 @@
 * What the Seeker Needs: Essays on Spiritual Practice, Oneness, Majesty and Beauty [[Amazon](https://amzn.to/3ut7PSb), [Additional](http://www.sufi.ir/books/download/english/ibn-arabi-en/what-the-seekers-need-en.pdf), [Additional](https://www.ibnarabisociety.org/wp-content/uploads/PDFs/Morris_Book-of-quintessence.pdf)]
 * Fusus al-hikam: The bezels of wisdom [[Amazon](https://amzn.to/3ujKbHM), [PDF](https://ia801007.us.archive.org/23/items/TheBezelsOfWisdom_201806/The%20Bezels%20Of%20Wisdom.pdf), [Commentary](https://archive.org/download/TheBezelsOfWisdom_201806/Nabalusi%20Commentary%20on%20Fusus%20al%20hikam.pdf)]
 * Tarjuman al-ashwaq (A collection of mystical odes) [[Amazon](https://amzn.to/3avVUez), [PDF](http://www.sufi.ir/books/download/english/ibn-arabi-en/tarjoman-alashvagh.pdf)]
-* The Self And The Other In Ibn Arabi And Rumi [[PDF](https://docs.google.com/file/d/0B2GU1ZyPbqVlNy0wUE90dGd0Rlk/edit)]
 * The Sufi Path of Knowledge: Ibn Al-Arabi's Metaphysics of Imagination [[Amazon](https://amzn.to/37HsE2v), [PDF](https://archive.org/download/TheSufiPathOfKnowledgeWilliamC.Chittick/The%20Sufi%20Path%20Of%20Knowledge%20-%20William%20C.%20Chittick.pdf)]
 * The Universal Tree and the Four Birds [[Amazon](https://amzn.to/2NOyfx0), [PDF](https://freeyourmindtx.net/wp-content/uploads/2018/12/IbnArabiTheUniversalTreeAndTheFourBirds-1.pdf)]
 * Ibn Arabi Unveiling the Secret of the Most Beautiful Names [[Amazon](https://amzn.to/3bvXZGK)]
@@ -406,6 +405,7 @@
 ### Papers
 
 * Al-Ghazali's integral epistemology: A critical analysis of the jewels of the Quran [[PDF](https://fount.aucegypt.edu/cgi/viewcontent.cgi?article=2370&context=etds)]
+* The Self And The Other In Ibn Arabi And Rumi [[PDF](https://docs.google.com/file/d/0B2GU1ZyPbqVlNy0wUE90dGd0Rlk/edit)]
 * An Introduction to the Sciences of the Qur’an by Ahmad von Denffer [[PDF](http://www.islamicbulletin.org/free_downloads/quran/ul_umal_quran.pdf)]
 * The Notion and Significance of Ma'rifa in Sufism [[PDF](https://www.ghazali.org/articles/The%20Notion%20and%20Significance%20of%20Ma%27rifa%20in%20Sufism.pdf)]
 * On Sufi Psychology: A Debate between the Soul and the Spirit [[PDF](http://www.williamcchittick.com/wp-content/uploads/2019/05/On-Sufi-Psychology-A-Debate-Between-the-Soul-and-the-Spirit.pdf)]
