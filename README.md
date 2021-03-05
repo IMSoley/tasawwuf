@@ -28,7 +28,8 @@
 * Deliverance from Error [[Amazon](https://amzn.to/2ZOSkWx), [PDF](http://www.crvp.org/publications/Series-IIA/IIA-2-Contents.pdf), [Online](https://www.ghazali.org/books/md/IIA-02main.htm)]
 * The Incoherence of the Philosophers [[Amazon](https://amzn.to/2NQWWcj), [PDF](https://academiaanalitica.files.wordpress.com/2019/07/abu-hamid-muhammad-al-ghazali-the-incoherence-of-the-philosophers.pdf)]
 * Book on the Etiquette of Marriage [[Amazon](https://amzn.to/3unKHEF), [PDF](http://ghazali.org/books/marriage.pdf), [Online](https://www.ghazali.org/works/marriage.htm)]
-* Purification of the Soul
+* Mishkat al-Anwar [[Amazon](https://amzn.to/3uW047G), [PDF](https://archive.org/download/MishkatAlAnwarByGHAZZALI/Mishkat%20al-Anwar%20by%20GHAZZALI.pdf), [Online](https://www.ghazali.org/books/mishkat/index.html)]
+* Purification of the Soul [[Amazon](https://amzn.to/38brxbz), [PDF](https://www.missionislam.com/knowledge/books/PurificationOfTheSoul.pdf)]
 
 ### Abdul Qadir Gilani
 
@@ -329,12 +330,12 @@
 
 ### William C. Chittick
 
-* Repose of the Spirits, The: A Sufi Commentary on the Divine Names
-* Imaginal Worlds: Ibn al-'Arabi and the Problem of Religious Diversity
-* Divine Love: Islamic Literature and the Path to God
-* The Name and the Named
-* Fakhruddin Iraqi: Divine Flashes
-* Science of the Cosmos, Science of the Soul
+* Repose of the Spirits, The: A Sufi Commentary on the Divine Names [[Amazon](https://amzn.to/3kNnQOy)]
+* Imaginal Worlds: Ibn al-'Arabi and the Problem of Religious Diversity [[Amazon](https://amzn.to/38cmLuC), [PDF](http://library.lol/main/35A4DAAEF23D72FCB5D455AAD85A5645)]
+* Divine Love: Islamic Literature and the Path to God [[Amazon](https://amzn.to/3qp0JLy)]
+* The Name and the Named [[Amazon](https://amzn.to/3ro26LC)]
+* Fakhruddin Iraqi: Divine Flashes [[Amazon](https://amzn.to/3uQ9MIN), [PDF](https://archive.org/download/35379885DivineFlashesFakhradeenIraqi/35379885-Divine-Flashes-Fakhradeen-Iraqi.pdf)]
+* Science of the Cosmos, Science of the Soul [[Amazon](https://amzn.to/3ricZyE), [PDF](https://reverthelp.com/wp-content/uploads/2019/05/Chittick_Science-of-the-Cosmos.pdf)]
 
 ### Others
 
@@ -377,6 +378,7 @@
 * Al-Qusharyri's Epistle on Sufism [[PDF](http://data.nur.nu/Kutub/English/Qushayri_Risala.pdf)]
 * The Soul and a Loaf of Bread: The Teachings of Sheikh Abol-Hasan of Kharaqan
 * Shari'ah and Tariqat - Inseperable and Indivisible [[PDF](https://attahawi.files.wordpress.com/2011/02/shariah-and-tariqah-inseparable-and-indivisible.pdf)]
+* Divine Love in Islamic Mysticism: The Teachings of al-Ghazali and al-Dabbagh [[Amazon](https://amzn.to/3ebjMWY), [PDF](https://archive.org/download/DivineLoveInIslamicMysticismTheTeachingsOfAlGhazaliAndAlDabbaghByBinyaminAbrahamov/Divine%20Love%20in%20Islamic%20Mysticism%20-%20The%20Teachings%20of%20al-Ghazali%20and%20al-Dabbagh%20by%20Binyamin%20Abrahamov.pdf)]
 * The Wisdom of the Throne: An Introduction to the Philosophy of Mulla Sadra
 * Metaphysical Penetrations: A Parallel English-Arabic Text
 * Forty Lessons on Breath by Murshid Samuel L. Lewis [[PDF](https://dancesofuniversalpeace.org/ResourceDir/SAM/Forty_Lessons_on_Breath.pdf)]
@@ -394,6 +396,7 @@
 * Abu'l Qasim Al Qushayri's Lata'if Al Isharat: Great Commentaries on the Holy Quran [[PDF](https://www.greattafsirs.com/Books/lataif.pdf)]
 * Tafsir Al-Tustari (Great Commentaries of the Holy Qur'an) [[PDF](https://www.altafsir.com/Books/Tustari.pdf)]
 * On the Hermeneutics of the Light Verse of the Quran (Tafsir Ayat al-Nur) [[PDF](http://library.lol/main/62DC666C5B8EEE6C80A018149BF55470)]
+* Kashf al-Asrar: The Unveiling of the Mysteries by Rashid al-Din Maybudi [[Amazon](https://amzn.to/388b33V), [PDF](https://www.altafsir.com/Books/kashf.pdf)]
 * The Message of the Qur'an by Muhammad Asad [[Amazon](https://amzn.to/2NT2Eus), [PDF](http://www.muhammad-asad.com/Message-of-Quran.pdf)]
 
 ### Lectures
