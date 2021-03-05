@@ -361,7 +361,7 @@
 * Letters of a Sufi Master by Shaykh ad-Darqawi [[Amazon](https://amzn.to/3e5yiQa), [PDF](https://ia800506.us.archive.org/18/items/TheDarqawiWay/The-Darqawi-Way.pdf)]
 * Key to the Garden by Habib Ahmad Mashhur al-Haddad [[Amazon](https://amzn.to/2OmDlkk), [PDF](https://archive.org/download/learnislampdfenglishbookkeytothegardenbyhabibahmadmashhuralhaddad2/learn%20islam%20pdf%20english%20book%20__%20KeyToTheGardenByHabibAhmadMashhurAlHaddad-2.pdf)]
 * The Principles of Sufism [[Amazon](https://amzn.to/3c06Tws), [PDF](http://library.lol/main/78BF5FE564F9A5A2CB5C7298C5440273)]
-* Songs of Kabir [[Amazon](https://amzn.to/38bXLUp), [PDF](https://drive.google.com/file/d/1Y5xMu3Q9igw842Ia_WTMjXLEcYu7FKtm/view)]
+* Songs of Kabir by Rabindranath Tagore [[Amazon](https://amzn.to/38bXLUp), [PDF](https://drive.google.com/file/d/1Y5xMu3Q9igw842Ia_WTMjXLEcYu7FKtm/view)]
 * The Doctrine of the Sufis: (Kitab Al-Taʻarruf Li-madhhab Ahl Al-tasawwuf) [[Amazon](https://amzn.to/3ax4ZUd), [PDF](https://archive.org/details/in.ernet.dli.2015.108515)]
 * Ibn Juzay's Sufic Exegesis: Selections from Kitab al-Tashil li-Ulum al-Tanzil [[Amazon](https://amzn.to/30hKFjQ)]
 * The Words (Risale-I Nur Collection) by Bediuzzaman Said Nursi [[Amazon](https://amzn.to/3kQNsKj), [PDF](https://archive.org/download/RisalaNur/TheWords.pdf)]
@@ -372,21 +372,19 @@
 * The Secrets of the Self: Asrar-I-Khudi [[Amazon](https://amzn.to/38tPFGT), [PDF](https://archive.org/download/secretsofselfasr00iqbauoft/secretsofselfasr00iqbauoft.pdf)]
 * Inspirations: On the Path of Blame by Ibn Qadi Simawnah [[Amazon](https://amzn.to/30edNbR)]
 * An Ocean Without Shore: Ibn Arabi, The Book, And The Law by Michel Chodkiewicz [[PDF](https://archive.org/download/AnOceanWithoutShoreIbnArabisViewsOnTheBookAndTheLawByMichelChodkiewcz/An%20Ocean%20Without%20Shore%20-%20Ibn%20Arabi%27s%20Views%20on%20The%20Book%20and%20the%20Law%20by%20Michel%20Chodkiewcz.pdf)]
-* In Search of the Lost Heart
-* Awakened Dreams: Raji's Journeys with the Mirror Dede by Ahmet Hilmi
-* The Mevlevi wird: The prayers recited daily by Mevlevi dervishes
-* Science of the Cosmos, Science of the Soul
+* In Search of the Lost Heart [[Amazon](https://amzn.to/3bY026A), [PDF](http://library.lol/main/5579977553356831A9EA330B51CC1469)]
+* Awakened Dreams: Raji's Journeys with the Mirror Dede by Ahmet Hilmi [[Amazon](https://amzn.to/2PF5JPv)]
+* The Mevlevi wird: The prayers recited daily by Mevlevi dervishes [[Amazon](https://amzn.to/3qpv0Kc), [PDF](http://www.dar-al-masnavi.org/pdf/awrad.pdf)]
 * Al-Qusharyri's Epistle on Sufism [[PDF](http://data.nur.nu/Kutub/English/Qushayri_Risala.pdf)]
-* The Soul and a Loaf of Bread: The Teachings of Sheikh Abol-Hasan of Kharaqan
+* The Soul and a Loaf of Bread: The Teachings of Sheikh Abol-Hasan of Kharaqan [[Amazon](https://amzn.to/3biSmfX)]
 * Shari'ah and Tariqat - Inseperable and Indivisible [[PDF](https://attahawi.files.wordpress.com/2011/02/shariah-and-tariqah-inseparable-and-indivisible.pdf)]
 * Divine Love in Islamic Mysticism: The Teachings of al-Ghazali and al-Dabbagh [[Amazon](https://amzn.to/3ebjMWY), [PDF](https://archive.org/download/DivineLoveInIslamicMysticismTheTeachingsOfAlGhazaliAndAlDabbaghByBinyaminAbrahamov/Divine%20Love%20in%20Islamic%20Mysticism%20-%20The%20Teachings%20of%20al-Ghazali%20and%20al-Dabbagh%20by%20Binyamin%20Abrahamov.pdf)]
-* The Wisdom of the Throne: An Introduction to the Philosophy of Mulla Sadra
-* Metaphysical Penetrations: A Parallel English-Arabic Text
+* The Wisdom of the Throne: An Introduction to the Philosophy of Mulla Sadra [[Amazon](https://amzn.to/3sWi1kN), [PDF](http://library.lol/main/898D384F97308C9C297A84E39D2231D1)]
+* Metaphysical Penetrations: A Parallel English-Arabic Text [[Amazon](https://amzn.to/3bjJRkV), [PDF](http://library.lol/main/1E35FB555BE0BD772024E2594A46DBBA)]
 * Forty Lessons on Breath by Murshid Samuel L. Lewis [[PDF](https://dancesofuniversalpeace.org/ResourceDir/SAM/Forty_Lessons_on_Breath.pdf)]
-* Forty Days by Michaela M Ozelsel
-* Walking With God by James Keeley
-* This Heavenly Wine: Renditions from the Divan-e Jami
-* Journey Through Ten Thousand Veils: The Alchemy of Transformation on the Sufi Path by Maryam Kabeer Faye
+* Forty Days by Michaela M Ozelsel [[Amazon](https://amzn.to/3kLgMC5)]
+* This Heavenly Wine: Renditions from the Divan-e Jami [[Amazon](https://amzn.to/3e9FsTx), [PDF](https://hohmpress.com/free-downloads/11272016ThisHeavenlyWine.pdf)]
+* Journey Through Ten Thousand Veils: The Alchemy of Transformation on the Sufi Path by Maryam Kabeer Faye [[Amazon](https://amzn.to/3uVLZqG)]
 * Getting Started Finding Your Way Along The Path [[PDF](https://sufiuniversity.org/wp/wp-content/uploads/2016/08/Getting-Started-1st-edition-2016-Final.compressed.pdf)]
 * Tao Te Ching by Lao Tzu [[Version 1](https://kingauthor.net/books/Derek%20Lin/Tao%20Te%20Ching/Tao%20Te%20Ching%20-%20Derek%20Lin.pdf), [V2](https://taoism.net/tao/wp-content/uploads/2019/07/Accurate-Translation-of-the-Tao-Te-Ching.pdf), [V3](https://www.unl.edu/prodmgr/NRT/Tao%20Te%20Ching%20-%20trans.%20by%20J.H..%20McDonald.pdf), [V4](http://www.sfhunyuan.com/images/TAO_TE_CHING_-_LE_GUIN_edition.pdf), [V5](https://library.oapen.org/bitstream/handle/20.500.12657/41829/9780472901388.pdf?sequence=1&isAllowed=y), [V6](https://www.bu.edu/religion/files/pdf/Tao_Teh_Ching_Translations.pdf), [V7](https://sourceoflightmonastery.tripod.com/webonmediacontents/1935012.pdf), [V8](http://www.beatrice.com/TAO.pdf)]
 
