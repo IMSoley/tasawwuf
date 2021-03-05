@@ -392,7 +392,6 @@
 ### Commentary of the Holy Quran
 
 * Spiritual Gems: The Mystical Qur'an Commentary Ascribed by the Sufis to Imam Ja'far al-Sadiq [[PDF](https://archive.org/download/farhanamayerspiritualgemsmysticalcommentaryascribedtojafaralsadiq/Farhana%20Mayer%20-%20Spiritual%20Gems%20-%20Mystical%20Commentary%20ascribed%20to%20Jafar%20al-Sadiq.pdf)]
-* Kashf al-Asrar The Unveiling of the Mysteries [[PDF](https://www.altafsir.com/Books/kashf.pdf)]
 * Abu'l Qasim Al Qushayri's Lata'if Al Isharat: Great Commentaries on the Holy Quran [[PDF](https://www.greattafsirs.com/Books/lataif.pdf)]
 * Tafsir Al-Tustari (Great Commentaries of the Holy Qur'an) [[PDF](https://www.altafsir.com/Books/Tustari.pdf)]
 * On the Hermeneutics of the Light Verse of the Quran (Tafsir Ayat al-Nur) [[PDF](http://library.lol/main/62DC666C5B8EEE6C80A018149BF55470)]
