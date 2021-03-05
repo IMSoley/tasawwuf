@@ -1,7 +1,7 @@
 <span align="center">
 <h3><i>In the Name of Allah, the Compassionate, the Merciful</i></h3>
 <h4>[My Study Resources]</h4>
-  <p>Seeking Truth</p><hr><br/>
+  <p>Seeking Truth</p><hr>
 </span>
 
 ### Imam al-Ghazali
