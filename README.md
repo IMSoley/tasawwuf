@@ -270,6 +270,7 @@
 * The Way of the Sufi [[Amazon](https://amzn.to/3sv8yka), [PDF](https://idriesshahfoundation.org/storage/product_pdf/THE-WAY-OF-THE-SUFI_15-May-2015.pdf)]
 * Learning How to Learn: Psychology and Spirituality in the Sufi Way [[Amazon](https://amzn.to/3pYVXnG), [PDF](https://idriesshahfoundation.org/storage/product_pdf/5.LHTL_.pdf)]
 * The Sufis by Idries Shah [[Amazon](https://amzn.to/37YeA52), [PDF](https://idriesshahfoundation.org/storage/product_pdf/TS_UK_06-March-2015.pdf)]
+* Wisdom of the Idiots [[Amazon](https://amzn.to/3bfV1XM), [PDF](https://archive.org/details/isbn_0525473076)]
 
 ### Llewellyn Vaughan-Lee PhD
 
@@ -354,22 +355,22 @@
 * The Gulistan Or Rose Garden Of Sa'di [[Amazon](https://amzn.to/3awMBec), [PDF](http://www.sufi.ir/books/download/english/saadi-en/rosegarden-saadi-tr1-en.pdf)]
 * The Secret Rose Garden [[Amazon](https://amzn.to/37pKGpN), [PDF](http://www.sufism.ir/books/download/english/shabestari-en/secretrosegarden-shabestari_color-en.pdf)]
 * Freedom from the Self: Sufism, Meditation, Psychotherapy by Mohammad Shafii [[Amazon](https://amzn.to/37Hqdgn)]
-* The Way of Sufi Chivalry by Ibn al-Husayn al-Sulami
-* The Remembrance of God by Jalal-Al-Din Al-Suyuti
-* Revelation of the Veiled (Kashf al-Mahjub) by Ali Hujwiri
-* Letters of a Sufi Master by Shaykh ad-Darqawi
-* Key to the Garden by Habib Ahmad Mashhur al-Haddad
-* The Principles of Sufism
+* The Way of Sufi Chivalry by Ibn al-Husayn al-Sulami [[Amazon](https://amzn.to/3rjzpiJ), [PDF](https://maypoleofwisdom.files.wordpress.com/2020/04/chivalry_text-kl.pdf)]
+* The Remembrance of God by Jalal-Al-Din Al-Suyuti [[Amazon](https://amzn.to/3e8xNVl), [PDF](https://archive.org/download/TheRemembranceOfGodByJalalAl-dinAlSuyuti/TheRemembranceOfGodByJalalAl-dinAlSuyuti.pdf)]
+* Revelation of the Veiled (Kashf al-Mahjub) by Ali Hujwiri [[Amazon](https://amzn.to/3sQNLHP), [PDF](https://aladaab.files.wordpress.com/2009/12/revelation_of_mystery-_kashf-al-mahjub_.pdf)]
+* Letters of a Sufi Master by Shaykh ad-Darqawi [[Amazon](https://amzn.to/3e5yiQa), [PDF](https://ia800506.us.archive.org/18/items/TheDarqawiWay/The-Darqawi-Way.pdf)]
+* Key to the Garden by Habib Ahmad Mashhur al-Haddad [[Amazon](https://amzn.to/2OmDlkk), [PDF](https://archive.org/download/learnislampdfenglishbookkeytothegardenbyhabibahmadmashhuralhaddad2/learn%20islam%20pdf%20english%20book%20__%20KeyToTheGardenByHabibAhmadMashhurAlHaddad-2.pdf)]
+* The Principles of Sufism [[Amazon](https://amzn.to/3c06Tws), [PDF](http://library.lol/main/78BF5FE564F9A5A2CB5C7298C5440273)]
+* Songs of Kabir [[Amazon](https://amzn.to/38bXLUp), [PDF](https://drive.google.com/file/d/1Y5xMu3Q9igw842Ia_WTMjXLEcYu7FKtm/view)]
 * The Doctrine of the Sufis: (Kitab Al-Taʻarruf Li-madhhab Ahl Al-tasawwuf) [[Amazon](https://amzn.to/3ax4ZUd), [PDF](https://archive.org/details/in.ernet.dli.2015.108515)]
-* Ibn Juzay's Sufic Exegesis: Selections from Kitab al-Tashil li-Ulum al-Tanzil
-* The Words (Risale-I Nur Collection) by Bediuzzaman Said Nursi
-* Degrees of the Soul: Spiritual Stations on the Sufi Path
-* The Teachings of a Sufi Master by Seyed Mostafa Azmayesh
-* The Obligation Of Nasiha for the Prophet(SAW) by Qadi Iyad
-* “READ!” (The Reality Behind Muhammad’s First Revelation)
-* Ash Shifa (Muhammad: Messenger of Allah) Qadi Iyad
-* The Secrets of the Self: Asrar-I-Khudi
-* Inspirations: On the Path of Blame by Ibn Qadi Simawnah
+* Ibn Juzay's Sufic Exegesis: Selections from Kitab al-Tashil li-Ulum al-Tanzil [[Amazon](https://amzn.to/30hKFjQ)]
+* The Words (Risale-I Nur Collection) by Bediuzzaman Said Nursi [[Amazon](https://amzn.to/3kQNsKj), [PDF](https://archive.org/download/RisalaNur/TheWords.pdf)]
+* Degrees of the Soul: Spiritual Stations on the Sufi Path [[Amazon](https://amzn.to/30c1H33), [PDF](https://archive.org/download/TheDegreesOfTheSoulByShaykhShabrawi/The%20degrees%20of%20the%20soul%20by%20Shaykh%20Shabrawi.pdf)]
+* The Teachings of a Sufi Master by Seyed Mostafa Azmayesh [[Amazon](https://amzn.to/3bewPFk), [PDF](http://www.sufism.ir/books/download/english/azmayesh-en/teaching-azmayesh-en.pdf)]
+* “READ!” (The Reality Behind Muhammad’s First Revelation) [[Amazon](https://amzn.to/3bitNzZ), [PDF](https://www.ahmedhulusi.org/en/download/read-the-reality-behind-muhammads-first-revelation.pdf)]
+* Ash Shifa (Muhammad: Messenger of Allah) Qadi Iyad [[Amazon](https://amzn.to/2MSqlTg), [PDF](https://www.mnblind.org/pdf/19-general-islamic-books/9612-583-muhammad-messenger-of-allah-ash-shifa-of-qadi-iyad-translated-by-aisha-bewley/file)]
+* The Secrets of the Self: Asrar-I-Khudi [[Amazon](https://amzn.to/38tPFGT), [PDF](https://archive.org/download/secretsofselfasr00iqbauoft/secretsofselfasr00iqbauoft.pdf)]
+* Inspirations: On the Path of Blame by Ibn Qadi Simawnah [[Amazon](https://amzn.to/30edNbR)]
 * An Ocean Without Shore: Ibn Arabi, The Book, And The Law by Michel Chodkiewicz [[PDF](https://archive.org/download/AnOceanWithoutShoreIbnArabisViewsOnTheBookAndTheLawByMichelChodkiewcz/An%20Ocean%20Without%20Shore%20-%20Ibn%20Arabi%27s%20Views%20on%20The%20Book%20and%20the%20Law%20by%20Michel%20Chodkiewcz.pdf)]
 * In Search of the Lost Heart
 * Awakened Dreams: Raji's Journeys with the Mirror Dede by Ahmet Hilmi
@@ -417,6 +418,7 @@
 * Early Sufi Approaches to Tawba: From the Quran to Abu Talib al-Makki [[PDF](https://www.collectionscanada.gc.ca/obj/thesescanada/vol2/002/NR60993.PDF)]
 * Shah Wali Allahs Arrangement of the Subtle Spiritual Centers [[PDF](https://ecommons.luc.edu/cgi/viewcontent.cgi?article=1053&context=theology_facpubs)]
 * The Soul (Heart) and Its Attributes: An Islamic Perspective With Reference To Self in Western Psychology [[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.901.8399&rep=rep1&type=pdf)]
+* Qawa'id al-Tasawwuf, The Principles of Sufism - PhD thesis by Zaineb S. Istrabadi [[PDF](https://www.themathesontrust.org/papers/islam/zarruq-qawaidaltasawwuf.pdf)]
 
 ### Blog & Website
 
