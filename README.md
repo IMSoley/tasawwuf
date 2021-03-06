@@ -185,6 +185,7 @@
 * The Drop That Became the Sea: Lyric Poems [[Amazon](https://amzn.to/3baqCdl), [PDF](https://archive.org/download/TheDropThatBecameTheSeaYunusEmre/The%20drop%20that%20became%20the%20sea%20_%20Yunus%20Emre.pdf)]
 * The City of the Heart: Yunus Emre's Verses of Wisdom and Love [[Amazon](https://amzn.to/2O4kCdz), [PDF](https://archive.org/details/cityofheartyunus00yunu)]
 * Journey to the Beloved: Sufi Poems by Yunus Emre [[Amazon](https://amzn.to/2MR2hAb), [PDF]()]
+* Yunus Emre: The Sufi Poet in Love [[Amazon](https://amzn.to/3rm0J07)]
 
 ### Inayat Khan
 
@@ -345,6 +346,7 @@
 
 * Nobody Son of Nobody [[Amazon](https://amzn.to/3bQeEVm), [PDF](https://hohmpress.com/free-downloads/12052016-Nobody-Son-Of-Nobody.pdf)]
 * Realities of Sufism by Shaykh Abd al-Qadir Isa [[Amazon](https://amzn.to/2NU08UC)]
+* The Secret Rose Garden by Mahmoud Shabestari [[Amazon](https://amzn.to/37pKGpN), [PDF](http://www.sufism.ir/books/download/english/shabestari-en/secretrosegarden-shabestari_color-en.pdf), [Additional](http://traditionalhikma.com/wp-content/uploads/2015/03/The-Mystic-Rose-Garden.pdf)]
 * Pure Gold from the Words of Sayyidi Abd al-Aziz al-Dabbagh [[Amazon](https://amzn.to/3b5jUp1), [PDF](http://data.nur.nu/Kutub/English/Ibriz_transl-O-Kane-J-and-Bernd-Radtke-2007-Pure-Gold-From-the-Words-of-Sayyidi-Abd-Al-Aziz-Al-Dabbagh.pdf)]
 * Virtues of The Prayers for Forgiveness by Imam Hasan al-Basri [[Amazon](https://amzn.to/2ZXHlKR), [PDF](http://www.zawiyah.org/zawiyah/PDFs/Prayers%20For%20Forgiveness.pdf)]
 * A Map of the Divine Subtle Faculty: The Concept of Qalb (Heart) in Classical and Contemporary Islamic Scholarship [[Amazon](https://amzn.to/3uUGkBx), [PDF](https://acuresearchbank.acu.edu.au/download/fb9270b6adabc8cc07288367cc1fdb0e6c823a11d7c814a3c86da693eb02e200/1808508/65080_downloaded_stream_305.pdf)]
@@ -356,7 +358,6 @@
 * Joseph and Zuleika by Jami [[Amazon](https://amzn.to/3pwH63v), [PDF](http://www.sufism.ir/books/download/english/jami-en/joseph-and-zuleika-en.pdf)]
 * The Bustan Or Orchard Of Sa'di [[Amazon](https://amzn.to/3s5Q4GG), [PDF](http://www.sufism.ir/books/download/english/saadi-en/orchard-saadi-en.pdf)]
 * The Gulistan Or Rose Garden Of Sa'di [[Amazon](https://amzn.to/3awMBec), [PDF](http://www.sufi.ir/books/download/english/saadi-en/rosegarden-saadi-tr1-en.pdf)]
-* The Secret Rose Garden [[Amazon](https://amzn.to/37pKGpN), [PDF](http://www.sufism.ir/books/download/english/shabestari-en/secretrosegarden-shabestari_color-en.pdf)]
 * Freedom from the Self: Sufism, Meditation, Psychotherapy by Mohammad Shafii [[Amazon](https://amzn.to/37Hqdgn)]
 * The Way of Sufi Chivalry by Ibn al-Husayn al-Sulami [[Amazon](https://amzn.to/3rjzpiJ), [PDF](https://maypoleofwisdom.files.wordpress.com/2020/04/chivalry_text-kl.pdf)]
 * The Remembrance of God by Jalal-Al-Din Al-Suyuti [[Amazon](https://amzn.to/3e8xNVl), [PDF](https://archive.org/download/TheRemembranceOfGodByJalalAl-dinAlSuyuti/TheRemembranceOfGodByJalalAl-dinAlSuyuti.pdf)]
