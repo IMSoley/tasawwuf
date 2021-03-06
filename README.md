@@ -1,7 +1,5 @@
 <span align="center">
-<h3><i>In the Name of Allah, the Compassionate, the Merciful</i></h3>
-<h4>[My Study Resources]</h4>
-  <p>Seeking Truth</p><hr>
+<h2><i>Seeking Truth</i></h2>
 </span>
 
 ### Imam al-Ghazali
@@ -181,6 +179,13 @@
 * The Book Of Remembrances [Kitab Al-Adhkar] by Imam Al-Nawawi [[Amazon](https://amzn.to/3by3C7g), [PDF](https://archive.org/download/the-book-of-remembrances-kitab-al-adhkar/The%20Book%20Of%20Remembrances%20%5BKitab%20Al-Adhkar%5D.pdf)]
 * 40 Hadith of An-Nawawi [[Amazon](https://amzn.to/3ehiVUC), [Online](https://40hadithnawawi.com/), [Commentary](https://muqith.files.wordpress.com/2015/12/commentary-on-the-forty-hadith-of-al-nawawi.pdf)]
 
+### Yunus Emre
+
+* Quarreling with God: Mystic Rebel Poems of the Dervishes of Turkey [[Amazon](https://amzn.to/3c97dcf)]
+* The Drop That Became the Sea: Lyric Poems [[Amazon](https://amzn.to/3baqCdl), [PDF](https://archive.org/download/TheDropThatBecameTheSeaYunusEmre/The%20drop%20that%20became%20the%20sea%20_%20Yunus%20Emre.pdf)]
+* The City of the Heart: Yunus Emre's Verses of Wisdom and Love [[Amazon](https://amzn.to/2O4kCdz), [PDF](https://archive.org/details/cityofheartyunus00yunu)]
+* Journey to the Beloved: Sufi Poems by Yunus Emre [[Amazon](https://amzn.to/2MR2hAb), [PDF]()]
+
 ### Inayat Khan
 
 * The Heart of Sufism: Essential Writings of Hazrat Inayat Khan [[Amazon](https://amzn.to/3r7Xg59), [PDF](http://library.lol/main/6255DB5B049197B0CFB034B786F88832)]
@@ -283,7 +288,6 @@
 * The Knowing Heart: A Sufi Path of Transformation [[Amazon](https://amzn.to/30bd8rv)]
 * In the House of Remembering: The Living Tradition of Sufi Teaching [[Amazon](https://amzn.to/2OhjuD5)]
 * Living Presence (Revised): The Sufi Path to Mindfulness and the Essential Self [[Amazon](https://amzn.to/3bclaGS), [PDF](http://library.lol/main/C4BED5951CB5FDA4F6901E128D51BC73)]
-* The Drop That Became the Sea: Lyric Poems [[Amazon](https://amzn.to/3baqCdl), [PDF](https://archive.org/download/TheDropThatBecameTheSeaYunusEmre/The%20drop%20that%20became%20the%20sea%20_%20Yunus%20Emre.pdf)]
 
 ### Khaja Khan
 
