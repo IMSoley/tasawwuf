@@ -346,6 +346,7 @@
 
 * Poems by Hazrat Rabia Basri [[PDF](https://www.poemhunter.com/i/ebooks/pdf/rabia_al_basri_2012_5.pdf)]
 * Love's Alchemy: Poems from the Sufi Tradition [[Amazon](https://amzn.to/3bnqWWx)]
+* Saif-ul-Malook (Journey of  Love) by Mian Muhammad Bakhsh [[Online](https://sufipoetry.wordpress.com/poets/mian-muhammad-baksh/)]
 * Youtube Channel
   * [satash8](https://www.youtube.com/channel/UC5CQ0OLeFsc9l3KfRzyspFg)
   * [Mystic's Paradise](https://www.youtube.com/channel/UCXuuRCoo_YO3za305btUoqw)
