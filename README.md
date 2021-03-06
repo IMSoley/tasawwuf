@@ -342,6 +342,15 @@
 * Fakhruddin Iraqi: Divine Flashes [[Amazon](https://amzn.to/3uQ9MIN), [PDF](https://archive.org/download/35379885DivineFlashesFakhradeenIraqi/35379885-Divine-Flashes-Fakhradeen-Iraqi.pdf)]
 * Science of the Cosmos, Science of the Soul [[Amazon](https://amzn.to/3ricZyE), [PDF](https://reverthelp.com/wp-content/uploads/2019/05/Chittick_Science-of-the-Cosmos.pdf)]
 
+### Poetry
+
+* Poems by Hazrat Rabia Basri [[PDF](https://www.poemhunter.com/i/ebooks/pdf/rabia_al_basri_2012_5.pdf)]
+* Love's Alchemy: Poems from the Sufi Tradition [[Amazon](https://amzn.to/3bnqWWx)]
+* Youtube Channel
+  * [satash8](https://www.youtube.com/channel/UC5CQ0OLeFsc9l3KfRzyspFg)
+  * [Mystic's Paradise](https://www.youtube.com/channel/UCXuuRCoo_YO3za305btUoqw)
+* <https://gardenofthebeloved.com/>
+
 ### Others
 
 * Nobody Son of Nobody [[Amazon](https://amzn.to/3bQeEVm), [PDF](https://hohmpress.com/free-downloads/12052016-Nobody-Son-Of-Nobody.pdf)]
@@ -390,6 +399,7 @@
 * This Heavenly Wine: Renditions from the Divan-e Jami [[Amazon](https://amzn.to/3e9FsTx), [PDF](https://hohmpress.com/free-downloads/11272016ThisHeavenlyWine.pdf)]
 * Journey Through Ten Thousand Veils: The Alchemy of Transformation on the Sufi Path by Maryam Kabeer Faye [[Amazon](https://amzn.to/3uVLZqG)]
 * Getting Started Finding Your Way Along The Path [[PDF](https://sufiuniversity.org/wp/wp-content/uploads/2016/08/Getting-Started-1st-edition-2016-Final.compressed.pdf)]
+* The Alchemy of the Heart by Reshad Feild [[Amazon](https://amzn.to/30j0F5a), [PDF](https://archive.org/details/sufismalchemyofh00sanf/)]
 * Tao Te Ching by Lao Tzu [[Version 1](https://kingauthor.net/books/Derek%20Lin/Tao%20Te%20Ching/Tao%20Te%20Ching%20-%20Derek%20Lin.pdf), [V2](https://taoism.net/tao/wp-content/uploads/2019/07/Accurate-Translation-of-the-Tao-Te-Ching.pdf), [V3](https://www.unl.edu/prodmgr/NRT/Tao%20Te%20Ching%20-%20trans.%20by%20J.H..%20McDonald.pdf), [V4](http://www.sfhunyuan.com/images/TAO_TE_CHING_-_LE_GUIN_edition.pdf), [V5](https://library.oapen.org/bitstream/handle/20.500.12657/41829/9780472901388.pdf?sequence=1&isAllowed=y), [V6](https://www.bu.edu/religion/files/pdf/Tao_Teh_Ching_Translations.pdf), [V7](https://sourceoflightmonastery.tripod.com/webonmediacontents/1935012.pdf), [V8](http://www.beatrice.com/TAO.pdf)]
 
 ### Commentary of the Holy Quran
@@ -428,7 +438,6 @@
 * <https://www.hazrat-inayat-khan.org/php/views.php>
 * <https://sufism.org/sufism/writings-on-sufism/levels-of-the-self-2>
 * <https://www.techofheart.com/search/label/sufi>
-* <https://gardenofthebeloved.com/>
 * <http://fundamentalbelief.blogspot.com/>
 * <http://suffisum.blogspot.com/>
 * <https://khawajamoinuddin.wordpress.com/>
