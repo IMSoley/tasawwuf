@@ -293,7 +293,7 @@
 ### Khaja Khan
 
 * Studies in Tasawwuf [[Amazon](https://amzn.to/308rjh1), [PDF](https://archive.org/download/in.ernet.dli.2015.234407/2015.234407.Studies-In.pdf)]
-* The Secret of Ana'l - Haqq/Secret of I am the Truth [[Amazon](https://amzn.to/2MJohwP)]
+* The Secret of Ana'l - Haqq/Secret of I am the Truth [[Amazon](https://amzn.to/2MJohwP), [PDF](https://drive.google.com/file/d/14SQ6uNBvngsDXL0M_jM_KfqLY9fTSGTW/view?usp=sharing)]
 
 ### Nuh Ha MIM Keller
 
