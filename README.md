@@ -6,7 +6,7 @@
 
 * The Foundations of the Articles of Faith [[Amazon](https://amzn.to/3s3zEP4), [Online](https://www.ghazali.org/works/gz-itiqad.htm)]
 * A Return to Purity in Creed [[Amazon](https://amzn.to/3s9ICtZ), [PDF](https://archive.org/details/ReturnToPurityInCreedByGhazali)]
-* O My Beloved Son [[Amazon](https://amzn.to/3ucRAsk), [PDF](https://archive.org/details/MyDearBelovedSonOrDaughterByImamGhazali/)]
+* O My Beloved Son [[Amazon](https://amzn.to/3ucRAsk), [PDF](https://archive.org/details/MyDearBelovedSonOrDaughterByImamGhazali/), [Additional](https://drive.google.com/file/d/16efn_RiqaC7pFJYwG4x9SgKYwFEXIWke/view?usp=sharing)]
 * The Marvels of the Heart [[Amazon](https://amzn.to/2OZVVyV), [PDF](https://archive.org/download/GhazaliTheMarvelsOfTheHeartSkellie_201512/TheMarvelsOfTheHeart.pdf), [Thesis](http://www.ghazali.org/books/skillie.pdf)]
 * Mysteries of the Human Soul [[Amazon](https://amzn.to/37XFBWn), [Online](https://www.ghazali.org/works/soul.htm)]
 * Disciplining the Soul and Breaking the Two Desires [[Amazon](https://amzn.to/37GeleG), [PDF](https://archive.org/download/learnislampdfenglishbookalghazaliondiscipliningthesoulandbreakingthetwodesires/learn%20islam%20pdf%20english%20book%20__%20Al-ghazaliOnDiscipliningTheSoulAndBreakingTheTwoDesires.pdf)]
@@ -23,11 +23,12 @@
 * Book of Fear and Hope [[Amazon](https://amzn.to/3kezEcp), [PDF](https://www.ghazali.org/books/ih-33.pdf)]
 * The Remembrance of Death and the Afterlife [[Amazon](https://amzn.to/3qOlVLU), [PDF](https://archive.org/download/learnislampdfenglishbookalghazaliontheremembranceofdeaththeafterlife/learn%20islam%20pdf%20english%20book%20__%20Al-ghazaliOnTheRemembranceOfDeathTheAfterlife.pdf)]
 * Inner Dimensions of Islamic Worship [[Amazon](https://amzn.to/3aJKT9C), [PDF](http://library.lol/main/990F7F9B3428EA3F1F9F4F655FB15013)]
-* Deliverance from Error [[Amazon](https://amzn.to/2ZOSkWx), [PDF](http://www.crvp.org/publications/Series-IIA/IIA-2-Contents.pdf), [Online](https://www.ghazali.org/books/md/IIA-02main.htm)]
+* Deliverance from Error [[Amazon](https://amzn.to/2ZOSkWx), [PDF](http://www.crvp.org/publications/Series-IIA/IIA-2-Contents.pdf), [Online](https://www.ghazali.org/books/md/IIA-02main.htm), [Additional](https://www.aub.edu.lb/fas/cvsp/Documents/Al-ghazaliMcCarthytr.pdf)]
 * The Incoherence of the Philosophers [[Amazon](https://amzn.to/2NQWWcj), [PDF](https://academiaanalitica.files.wordpress.com/2019/07/abu-hamid-muhammad-al-ghazali-the-incoherence-of-the-philosophers.pdf)]
 * Book on the Etiquette of Marriage [[Amazon](https://amzn.to/3unKHEF), [PDF](http://ghazali.org/books/marriage.pdf), [Online](https://www.ghazali.org/works/marriage.htm)]
 * Mishkat al-Anwar [[Amazon](https://amzn.to/3uW047G), [PDF](https://archive.org/download/MishkatAlAnwarByGHAZZALI/Mishkat%20al-Anwar%20by%20GHAZZALI.pdf), [Online](https://www.ghazali.org/books/mishkat/index.html)]
 * Purification of the Soul [[Amazon](https://amzn.to/38brxbz), [PDF](https://www.missionislam.com/knowledge/books/PurificationOfTheSoul.pdf)]
+* Al-Ghazali's Unspeakable Doctrine of the Soul [[Amazon](https://amzn.to/3ehx8Bf), [PDF](https://drive.google.com/file/d/1lhuFN0eky0NVz70v7d8LUZ19P30tVy_9/view?usp=sharing)]
 
 ### Abdul Qadir Gilani
 
@@ -35,6 +36,7 @@
 * Purification of the Mind [[Amazon](https://amzn.to/2ZIfjCP), [PDF](https://archive.org/download/PurificationOfTheMindjilaAlKhatirByQadirAlJilani/Purification%20of%20the%20mind%20%28jila%20al-khatir%29%20by%20Qadir%20al-Jilani.pdf)]
 * Sufficient Provision for Seekers of the Path of Truth [[Amazon](https://amzn.to/2Nx0dxu), [PDF](https://archive.org/download/QADIRJILANIAlGhunyaLiTalibiTariqAlHaqqSufficientProvisionForSeekersOfThePathOfTruth/QADIR%20JILANI%20-%20Al-Ghunya%20liTalibi%20Tariq%20al-Haqq%20-%20Sufficient%20Provision%20for%20Seekers%20of%20the%20Path%20of%20Truth.pdf)]
 * Revelations of the Unseen [[Amazon](https://amzn.to/3aLvQw4), [PDF](https://aaiil.org/text/books/others/aftabdin/futuhalghaib/futuhalghaib.pdf)]
+* Grand Saint Master & Sultan of Saint Masters Hazrat Abdul Qadir Jilani [[PDF](https://drive.google.com/file/d/1QFrDgJpm8-zuvpze_AvFVZ60XgnglAju/view?usp=sharing)]
 
 ### Ibn Arabi
 
@@ -54,12 +56,16 @@
 * The Seal of the Saints: Prophethood and Sainthood in the Doctrine of Ibn Arabi [[Amazon](https://amzn.to/37BuQJ1), [PDF](https://archive.org/download/ChodkiewiczSealOfTheSaints/Chodkiewicz%20-%20Seal%20of%20the%20Saints.pdf)]
 * Lectures
   * [Insights from (Muhyiddin) Ibn Arabi](https://www.youtube.com/playlist?list=PLMDZGtTNGHpENB2Ylrf3n84I-NQmAt_Xd)
+* The Sufis of Andalusia: The Ruh al-quds and al-Durrat al-Fakhirah [[Amazon](https://amzn.to/2OzUVRS), [PDF](http://library.lol/main/D316BABC30F8A9CBA3B165AAE243EBDB)]
 * Mystical Astrology According to Ibn 'Arabi [[Amazon](https://amzn.to/3aLdQSq), [PDF](http://traditionalhikma.com/wp-content/uploads/2015/02/Mystical-Astrology-According-to-Ibn-Arabi-by-Titus-Burckhardt.pdf)]
 * Contemplation of the Holy Mysteries and the Rising of the Divine Lights [[Amazon](https://amzn.to/3sk8aF0), [PDF](https://archive.org/download/ContemplationOfTheHolyMysteriesAndTheRisingOfTheDivineLights/contemplation%20of%20the%20holy%20mysteries%20and%20the%20rising%20of%20the%20divine%20lights.pdf)]
 * Divine Sayings: 101 Hadith Qudsi: The Mishkat al-Anwar of Ibn 'Arabi [[Amazon](https://amzn.to/3pUM2Q8), [PDF](https://www.ussakiorder.com/uploads/5/8/1/7/58178045/mishkat_al_anwar__101_hadith_qudsi__imam_ibn_arabi.pdf)]
 * The Four Pillars of Spiritual Transformation [[Amazon](https://amzn.to/37Gfcfx), [PDF](http://library.lol/main/DD4FA483532DABD00752286576C21D62)]
 * Testament on the Mantle of Initiation [[PDF](https://ibnarabisociety.org/wp-content/uploads/PDFs/Elomre_Ibn-Arabis-testament.pdf)]
 * Spiritual Practice and Other Translations [[PDF](https://ibnarabisociety.org/wp-content/uploads/PDFs/Morris_Spiritual-Practice.pdf)]
+* Ibn al-Arabi On the Mysteries of Fasting [[Amazon](https://amzn.to/2OD28k7), [PDF](http://library.lol/main/107DCFBB5837767843E6E87429ECB84D)]
+* The Reflective Heart: Discovering Spiritual Intelligence in Ibn 'Arabi's 'Meccan Illuminations' [[Amazon](https://amzn.to/3em4Jtx)]
+* Divine Governance of the Human Kingdom: Including What the Seeker Needs and The One Alone [[Amazon](https://amzn.to/2MWx7Hu), [PDF](https://archive.org/download/DivineGovernanceIbnArabi/divine%20governance%20-%20ibn%20arabi.pdf)]
 
 ### Jalaluddin Muhammad Rumi
 
@@ -101,6 +107,7 @@
 * Rumi Shabbat [[PDF](https://velveteenrabbi.blogs.com/files/rumi-service-2.pdf)]
 * Rumi’s path of realization [[Online](http://www.allamaiqbal.com/publications/journals/review/oct01/05.htm)]
 * Rumi Hafiz - Spiritual Quotations for Lovers of God [[PDF](http://kirpalsingh.org/Booklets/Rumi_Hafiz.pdf)]
+* Rumi and the Hermeneutics of Eroticism [[Amazon](https://amzn.to/3rv8nVI), [PDF](https://drive.google.com/file/d/1Wr0kyVq431-nlMx4cki5Lx-kstbbyE0s/view?usp=sharing)]
 
 ### Al-Suhrawardi
 
@@ -117,6 +124,8 @@
 * Gifts for the Seeker [[Amazon](https://amzn.to/3aLy3HJ), [PDF](http://library.lol/main/5027A51CA8318291DEF44D821614EE60)]
 * Three Treatises : Mutual Reminding, Good Manners & The Aphorisms [[Amazon](https://amzn.to/3qObxDH), [PDF](https://archive.org/download/MutualRemindingAndGoodMannersByImamAlHaddad/Mutual%20Reminding%20and%20good%20manners%20by%20Imam%20al%20Haddad%20.pdf)]
 * The “Exhortation” [[PDF](https://static1.squarespace.com/static/5d5c9ccd82cb3e0001da8600/t/5dde3f4e0c91bc6c3b780861/1574846287479/The-%E2%80%9CExhortation%E2%80%9D-of-Imam-al-Haddad.pdf)]
+* The Sublime Treasures: Answers to Sufi Questions by Imam Haddad [[Amazon](https://amzn.to/3cbYG8v)]
+* Counsels of Religion [[Amazon](https://amzn.to/3ekg51j), [PDF](https://drive.google.com/file/d/1o2XTSARtU2HuGCZlVjtQW5KBSpYUnPkZ/view?usp=sharing)]
 
 ### Ibn Ata Allah
 
@@ -146,6 +155,7 @@
 * Divan-e Shams [[PDF](http://www.bahaistudies.net/asma/divaneshams.pdf)]
 * Divan kabir or Kulliyat e Shams [[PDF](https://archive.org/details/DivanEShamsDivanKabir/)]
 * Me and Rumi: The Autobiography of Shams-I Tabrizi [[Amazon](https://amzn.to/3k2EQzQ), [PDF](http://libgen.rs/book/index.php?md5=AE7478F480ED3E63F7205EDAA41BFBDD)]
+* Rumi and Shams’ Silent Rebellion [[Amazon](https://amzn.to/2O69oFA), [PDF](https://drive.google.com/file/d/1_f9K4Tb8-H_SAuTXE3AsnynmBsBIYKQT/view?usp=sharing)]
 
 ### Hafiz
 
@@ -154,6 +164,7 @@
 * The Garden of Heaven: Poems of Hafiz [[Amazon](https://amzn.to/3uIK0pK), [PDF](http://mystery-school.net/pdf/hafiz.pdf)]
 * The Subject Tonight Is Love: 60 Wild and Sweet Poems of Hafiz [[Amazon](https://amzn.to/3sxiKIO)]
 * The Illuminated Hafiz: Love Poems for the Journey to Light [[Amazon](https://amzn.to/3uHWL3U)]
+* The Tangled Braid: Ninety-Nine Poems by Hafiz of Shiraz [[Amazon](https://amzn.to/38jUrGC)]
 
 ### Attar of Nishapur
 
@@ -170,8 +181,9 @@
 
 ### Mansur al-Hallaj
 
-* The Tawasin: (Book of the Purity of the Glory of God) [[Amazon](https://amzn.to/2Zt4Ivt), [PDF](http://traditionalhikma.com/wp-content/uploads/2015/03/The-Tawasin-of-Mansur-al-Hallaj.pdf), [Additional](https://physlab.lums.edu.pk/images/b/b8/Tawasin-summary.pdf)]
+* The Tawasin: (Book of the Purity of the Glory of God) [[Amazon](https://amzn.to/2Zt4Ivt), [PDF](http://traditionalhikma.com/wp-content/uploads/2015/03/The-Tawasin-of-Mansur-al-Hallaj.pdf), [Additional 1](https://physlab.lums.edu.pk/images/b/b8/Tawasin-summary.pdf), [Additional 2](https://drive.google.com/file/d/1pap6eIdhUyw3F5EaQJ18o-hoiud8gNkY/view?usp=sharing)]
 * 'I am the Truth' (Anal-Haq) Diwan of Mansur al-Hallaj [[Amazon](https://amzn.to/3b1r25S)]
+* Death of al-Hallaj, The: A Dramatic Narrative [[Amazon](https://amzn.to/2Oex4HB), [PDF](http://library.lol/main/FD12BDD9298D7F420AAE6B60B66BB05C), [Additional](https://drive.google.com/file/d/1LBkT18hMZ1FwNH4c_W72T2hBsSXXj6FJ/view?usp=sharing)]
 
 ### Imam al-Nawawi
 
@@ -247,6 +259,21 @@
 * Toward The One [[Amazon](https://amzn.to/3ebogga)]
 * Awakening: A Sufi Experience [[Amazon](https://amzn.to/3uN30n5), [PDF](https://archive.org/details/awakening00pirv)]
 
+### M. R. Bawa Muhaiyaddeen
+
+* God's Psychology: A Sufi Explanation [[Amazon](https://amzn.to/30mSQLN), [PDF](https://archive.org/download/bub_gb_hJi032EI_FYC/bub_gb_hJi032EI_FYC.pdf)]
+* The Golden Words of a Sufi Sheikh [[Amazon](https://amzn.to/3qtexVh), [PDF](https://archive.org/download/bub_gb_4gbhnNuEPbcC/bub_gb_4gbhnNuEPbcC.pdf)]
+* A Book of God's Love [[Amazon](https://amzn.to/2PL7MBu), [PDF](https://archive.org/download/BawaMuhaiyaddeenABookOfGodSLove126p/Bawa%20Muhaiyaddeen%20-%20A%20Book%20of%20God_s%20Love%20%28126p%29.pdf)]
+* Sheikh and Disciple [[Amazon](https://amzn.to/30lo3z9)]
+* The Divine Luminous Wisdom: That Dispels the Darkness [[Amazon](https://amzn.to/3sWaqCL), [PDF](https://drive.google.com/file/d/1muQZB87UhaHjCyePcZ8DbK4ArxNdQiAO/view?usp=sharing)]
+* Dhikr: The Remembrance of God [[Amazon](https://amzn.to/3t5W5nr)]
+* Song of Muhammad [[Amazon](https://amzn.to/3kVDp6M)]
+* Suratur Rahmah: The form of Compassion [[Amazon](https://amzn.to/30nQXi2), [PDF](https://drive.google.com/file/d/1qrSjdc0OCOkKfbT6ihZ4M0c5Y01yOt0P/view?usp=sharing)]
+* The Point Where God and Man Meet [[Amazon](https://amzn.to/3brwjnz), [PDF](https://drive.google.com/file/d/1nYhuyB3XKDXKbVDXdJ66Vc1E96WZNYw8/view?usp=sharing)]
+* Hajj: The Inner Pilgrimage [[Amazon](https://amzn.to/38jbMPY)]
+* Lailatul-Qadr: The Day of Light [[Amazon](https://amzn.to/3v2M1gB)]
+* The Fast of Ramadan [[Amazon](https://amzn.to/38ls7nl), [PDF](https://drive.google.com/file/d/1XFbSMPkU9JqYbN4cJJ-y4NPuQe-GfZvu/view?usp=sharing)]
+
 ### Shaykh Ahmad Hendricks
 
 * Sainthood (Wilayah) and Nearness (Qurb)
@@ -267,6 +294,9 @@
 
 ### Annemarie Schimmel
 
+* I Am Wind You Are Fire: The Life and Work of Rumi [[Amazon](https://amzn.to/3qpK8ad)]
+* As Through a Veil: Mystical Poetry in Islam [[Amazon](https://amzn.to/30pBluk), [PDF](https://archive.org/download/AsThroughAVeilMysticalPoetryInIslamAnnemarieSchimmel1982/As-Through-a-Veil-Mystical-Poetry-in-Islam-Annemarie-Schimmel-1982.pdf)]
+* All the King's Falcons: Rumi on Prophets and Revelation [[Amazon](https://amzn.to/3rnZe1j)]
 * Mystical Dimensions of Islam [[Amazon](https://amzn.to/3kAdOjI), [PDF](https://archive.org/download/137665622MysticalDimensionsOfIslamAnnemarieSchimmel/137665622-Mystical-Dimensions-of-Islam-Annemarie-Schimmel.pdf)]
 * The Mystery of Numbers [[Amazon](https://amzn.to/3bMZzUJ), [PDF](http://www.cedarcitylodge.org/books/The-Mystery-of-Numbers.pdf)]
 
@@ -307,6 +337,7 @@
 
 ### Camille Adams Helminski
 
+* Rumi and His Friends: Stories of the Lovers of God Excerpts from the Manaqib al-'Arifin of Aflaki [[Amazon](https://amzn.to/30ooHvF)]
 * Words from the East [[Amazon](https://amzn.to/2OolXLW)]
 * Happiness Without Death: Desert Hymns [[Amazon](https://amzn.to/38aTdxi)]
 * The Light of Dawn: Daily Readings from the Holy Qur'an [[Amazon](https://amzn.to/30aH9HV)]
@@ -354,7 +385,9 @@
 
 ### Others
 
+* Nizam Ad-Din Awliya: Morals for the Heart [[Amazon](https://amzn.to/3t17vst)]
 * Nobody Son of Nobody [[Amazon](https://amzn.to/3bQeEVm), [PDF](https://hohmpress.com/free-downloads/12052016-Nobody-Son-Of-Nobody.pdf)]
+* I am Rumi, Where is my Shams? [[Amazon](https://amzn.to/3v81R9F)]
 * Realities of Sufism by Shaykh Abd al-Qadir Isa [[Amazon](https://amzn.to/2NU08UC)]
 * The Secret Rose Garden by Mahmoud Shabestari [[Amazon](https://amzn.to/37pKGpN), [PDF](http://www.sufism.ir/books/download/english/shabestari-en/secretrosegarden-shabestari_color-en.pdf), [Additional](http://traditionalhikma.com/wp-content/uploads/2015/03/The-Mystic-Rose-Garden.pdf)]
 * Pure Gold from the Words of Sayyidi Abd al-Aziz al-Dabbagh [[Amazon](https://amzn.to/3b5jUp1), [PDF](http://data.nur.nu/Kutub/English/Ibriz_transl-O-Kane-J-and-Bernd-Radtke-2007-Pure-Gold-From-the-Words-of-Sayyidi-Abd-Al-Aziz-Al-Dabbagh.pdf)]
@@ -392,12 +425,25 @@
 * Al-Qusharyri's Epistle on Sufism [[PDF](http://data.nur.nu/Kutub/English/Qushayri_Risala.pdf)]
 * The Soul and a Loaf of Bread: The Teachings of Sheikh Abol-Hasan of Kharaqan [[Amazon](https://amzn.to/3biSmfX)]
 * Shari'ah and Tariqat - Inseperable and Indivisible [[PDF](https://attahawi.files.wordpress.com/2011/02/shariah-and-tariqah-inseparable-and-indivisible.pdf)]
+* Chinese Gleams of Sufi Light [[Amazon](https://amzn.to/3sYrqbs), [PDF](http://library.lol/main/75905D98531B8F3BFCE7E92EC6859A7B)]
+* Reassurance for the Seeker: A Biography and Translation of Salih al-Jafari's al-Fawaid al-Ja fariyya [[Amazon](https://amzn.to/2MYVTXF)]
+* The Unveiling of Secrets: Diary of a Sufi Master [[Amazon](https://amzn.to/3esu98S), [PDF](http://library.lol/main/E2F8F757D4209A10E73D5CE5ED685A9D)]
 * Divine Love in Islamic Mysticism: The Teachings of al-Ghazali and al-Dabbagh [[Amazon](https://amzn.to/3ebjMWY), [PDF](https://archive.org/download/DivineLoveInIslamicMysticismTheTeachingsOfAlGhazaliAndAlDabbaghByBinyaminAbrahamov/Divine%20Love%20in%20Islamic%20Mysticism%20-%20The%20Teachings%20of%20al-Ghazali%20and%20al-Dabbagh%20by%20Binyamin%20Abrahamov.pdf)]
 * The Wisdom of the Throne: An Introduction to the Philosophy of Mulla Sadra [[Amazon](https://amzn.to/3sWi1kN), [PDF](http://library.lol/main/898D384F97308C9C297A84E39D2231D1)]
 * Metaphysical Penetrations: A Parallel English-Arabic Text [[Amazon](https://amzn.to/3bjJRkV), [PDF](http://library.lol/main/1E35FB555BE0BD772024E2594A46DBBA)]
 * Forty Lessons on Breath by Murshid Samuel L. Lewis [[PDF](https://dancesofuniversalpeace.org/ResourceDir/SAM/Forty_Lessons_on_Breath.pdf)]
 * Forty Days by Michaela M Ozelsel [[Amazon](https://amzn.to/3kLgMC5)]
 * This Heavenly Wine: Renditions from the Divan-e Jami [[Amazon](https://amzn.to/3e9FsTx), [PDF](https://hohmpress.com/free-downloads/11272016ThisHeavenlyWine.pdf)]
+* The Way of Abu Madyan: The Works of Abu Madyan Shuayb [[Amazon](https://amzn.to/3elY6aD), [PDF](http://www.chishtinizami.it/wp-content/uploads/2016/06/The-Way-of-Abu-Madyan-Vincent-Cornell-1.pdf)]
+* In the Garden of Myrtles: Studies in Early Islamic Mysticism [[Amazon](https://amzn.to/38lGXtQ), [PDF](https://archive.org/details/ingardenofmyrtle0000andr)]
+* Ibn ‘Abbad of Ronda: Letters on the Sufi Path [[Amazon](https://amzn.to/2OeuXDF)]
+* The Science of Abjad by Mohamed Fouad [[PDF](https://drive.google.com/file/d/14pAdDPHk82_MCLwm82uT1ek8gpunMDWE/view?usp=sharing)]
+* Saviours of Islamic Spirit [[Amazon](https://amzn.to/3v63btO), [PDF-4 Volumes](https://archive.org/details/SavioursOfIslamicSpiritByShaykhSyedAbulHasanAliNadvir.a/)]
+* The Subtle Blessings in the Saintly Lives of Abul-Abbas al- Mursi: And His Master Abul-Hasan [[Amazon](https://amzn.to/3bshbGx)]
+* The Spiritual Teachings of the Prophet: Hadith with Commentaries by Saints and Sages of Islam [[Amazon](https://amzn.to/2PM4Bti), [PDF](http://library.lol/main/32F4CFF65220E59440E9D0325615CAEF)]
+* The Removal of Confusion Concerning the Flood of the Saintly Seal Ahmad al-Tijani [[Amazon](https://amzn.to/3cgOXh9), [PDF](https://archive.org/download/TheRemovalOfConfusion.ConcerningTheFloodOfTheSaitlySealTijaniATranslationOfKashi/The%20removal%20of%20confusion.%20Concerning%20the%20flood%20of%20the%20saitly%20seal%20Tijani%20-%20a%20translation%20of%20Kashif%20al-ilbas%20an%20fajdat%20by%20Ibrahim%20Niass.pdf)]
+* The Book of Ascension to the Essential Truths of Sufism [[Amazon](https://amzn.to/2MY1JIF)]
+* Where the Two Seas Meet: Al-Khidr and Moses The Qur anic Story of al-Khidr and Moses in Sufi Commentaries as a Model for Spiritual Guidance [[Amazon](https://amzn.to/2N4fZzO)]
 * Journey Through Ten Thousand Veils: The Alchemy of Transformation on the Sufi Path by Maryam Kabeer Faye [[Amazon](https://amzn.to/3uVLZqG)]
 * Getting Started Finding Your Way Along The Path [[PDF](https://sufiuniversity.org/wp/wp-content/uploads/2016/08/Getting-Started-1st-edition-2016-Final.compressed.pdf)]
 * The Alchemy of the Heart by Reshad Feild [[Amazon](https://amzn.to/30j0F5a), [PDF](https://archive.org/details/sufismalchemyofh00sanf/)]
