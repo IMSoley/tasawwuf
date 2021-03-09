@@ -37,6 +37,8 @@
 * Sufficient Provision for Seekers of the Path of Truth [[Amazon](https://amzn.to/2Nx0dxu), [PDF](https://archive.org/download/QADIRJILANIAlGhunyaLiTalibiTariqAlHaqqSufficientProvisionForSeekersOfThePathOfTruth/QADIR%20JILANI%20-%20Al-Ghunya%20liTalibi%20Tariq%20al-Haqq%20-%20Sufficient%20Provision%20for%20Seekers%20of%20the%20Path%20of%20Truth.pdf)]
 * Revelations of the Unseen [[Amazon](https://amzn.to/3aLvQw4), [PDF](https://aaiil.org/text/books/others/aftabdin/futuhalghaib/futuhalghaib.pdf)]
 * Grand Saint Master & Sultan of Saint Masters Hazrat Abdul Qadir Jilani [[PDF](https://drive.google.com/file/d/1QFrDgJpm8-zuvpze_AvFVZ60XgnglAju/view?usp=sharing)]
+* The Saint of Jilan [[Amazon](https://amzn.to/3elBZkF), [PDF](http://s745899874.online-home.ca/KB/The%20Saint%20of%20Jilan%20PU-3618/WQ.pdf)]
+* Utterances of Shaikh 'Abd al-Qadir al-Jilani [[Amazon](https://amzn.to/38l6WBM), [PDF](https://archive.org/download/MalfuzatutterancesByQadirAlJilani/Malfuzat%20%28utterances%29%20by%20Qadir%20al-Jilani.pdf)]
 
 ### Ibn Arabi
 
@@ -108,6 +110,12 @@
 * Rumi’s path of realization [[Online](http://www.allamaiqbal.com/publications/journals/review/oct01/05.htm)]
 * Rumi Hafiz - Spiritual Quotations for Lovers of God [[PDF](http://kirpalsingh.org/Booklets/Rumi_Hafiz.pdf)]
 * Rumi and the Hermeneutics of Eroticism [[Amazon](https://amzn.to/3rv8nVI), [PDF](https://drive.google.com/file/d/1Wr0kyVq431-nlMx4cki5Lx-kstbbyE0s/view?usp=sharing)]
+* Rumi: The Art of Loving [[Amazon](https://amzn.to/30pUrAC)]
+* Rumi: Whispers of the Beloved [[Amazon](https://amzn.to/2N5r9nW), [PDF](http://library.lol/main/B9E01845552F382C5A7E5BE42FFB6AE5)]
+* Fountain of Fire: A Celebration of Life and Love [[Amazon](https://amzn.to/3qxXUro)]
+* Past and Present, East and West: The Life, Teachings, and Poetry of Rumi [[Amazon](https://amzn.to/30reD5e), [PDF](http://library.lol/main/C977D49C87161DF341FB1947F1F36839)]
+* Rumi: Hidden Music [[Amazon](https://amzn.to/30mGjIi)]
+* The Forbidden Rumi [[Amazon](https://amzn.to/30pkwQj), [PDF](https://archive.org/details/forbiddenrumisup0000jall)]
 
 ### Al-Suhrawardi
 
@@ -378,6 +386,7 @@
 * Poems by Hazrat Rabia Basri [[PDF](https://www.poemhunter.com/i/ebooks/pdf/rabia_al_basri_2012_5.pdf)]
 * Love's Alchemy: Poems from the Sufi Tradition [[Amazon](https://amzn.to/3bnqWWx)]
 * Saif-ul-Malook (Journey of  Love) by Mian Muhammad Bakhsh [[Online](https://sufipoetry.wordpress.com/poets/mian-muhammad-baksh/)]
+* Rumi Poems [[PDF](https://static1.squarespace.com/static/5cda67187d0c911e932ec1d1/t/5d8c1774c404a76900734d06/1569462140630/Rumi+Poems+%E2%99%A5.pdf)]
 * Youtube Channel
   * [satash8](https://www.youtube.com/channel/UC5CQ0OLeFsc9l3KfRzyspFg)
   * [Mystic's Paradise](https://www.youtube.com/channel/UCXuuRCoo_YO3za305btUoqw)
@@ -410,6 +419,7 @@
 * The Principles of Sufism [[Amazon](https://amzn.to/3c06Tws), [PDF](http://library.lol/main/78BF5FE564F9A5A2CB5C7298C5440273)]
 * Songs of Kabir by Rabindranath Tagore [[Amazon](https://amzn.to/38bXLUp), [PDF](https://drive.google.com/file/d/1Y5xMu3Q9igw842Ia_WTMjXLEcYu7FKtm/view)]
 * The Doctrine of the Sufis: (Kitab Al-Taʻarruf Li-madhhab Ahl Al-tasawwuf) [[Amazon](https://amzn.to/3ax4ZUd), [PDF](https://archive.org/details/in.ernet.dli.2015.108515)]
+* Revelation of the Secrets of the Birds and Flowers [[Amazon](https://amzn.to/3va8JUi)]
 * Ibn Juzay's Sufic Exegesis: Selections from Kitab al-Tashil li-Ulum al-Tanzil [[Amazon](https://amzn.to/30hKFjQ)]
 * The Words (Risale-I Nur Collection) by Bediuzzaman Said Nursi [[Amazon](https://amzn.to/3kQNsKj), [PDF](https://archive.org/download/RisalaNur/TheWords.pdf)]
 * Degrees of the Soul: Spiritual Stations on the Sufi Path [[Amazon](https://amzn.to/30c1H33), [PDF](https://archive.org/download/TheDegreesOfTheSoulByShaykhShabrawi/The%20degrees%20of%20the%20soul%20by%20Shaykh%20Shabrawi.pdf)]
@@ -421,6 +431,7 @@
 * An Ocean Without Shore: Ibn Arabi, The Book, And The Law by Michel Chodkiewicz [[PDF](https://archive.org/download/AnOceanWithoutShoreIbnArabisViewsOnTheBookAndTheLawByMichelChodkiewcz/An%20Ocean%20Without%20Shore%20-%20Ibn%20Arabi%27s%20Views%20on%20The%20Book%20and%20the%20Law%20by%20Michel%20Chodkiewcz.pdf)]
 * In Search of the Lost Heart [[Amazon](https://amzn.to/3bY026A), [PDF](http://library.lol/main/5579977553356831A9EA330B51CC1469)]
 * Awakened Dreams: Raji's Journeys with the Mirror Dede by Ahmet Hilmi [[Amazon](https://amzn.to/2PF5JPv)]
+* The Secrets of God's Mystical Oneness by Shaikh Abu Sa Id [[Amazon](https://amzn.to/3ctuuWD)]
 * The Mevlevi wird: The prayers recited daily by Mevlevi dervishes [[Amazon](https://amzn.to/3qpv0Kc), [PDF](http://www.dar-al-masnavi.org/pdf/awrad.pdf)]
 * Al-Qusharyri's Epistle on Sufism [[PDF](http://data.nur.nu/Kutub/English/Qushayri_Risala.pdf)]
 * The Soul and a Loaf of Bread: The Teachings of Sheikh Abol-Hasan of Kharaqan [[Amazon](https://amzn.to/3biSmfX)]
@@ -479,6 +490,7 @@
 * Shah Wali Allahs Arrangement of the Subtle Spiritual Centers [[PDF](https://ecommons.luc.edu/cgi/viewcontent.cgi?article=1053&context=theology_facpubs)]
 * The Soul (Heart) and Its Attributes: An Islamic Perspective With Reference To Self in Western Psychology [[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.901.8399&rep=rep1&type=pdf)]
 * Qawa'id al-Tasawwuf, The Principles of Sufism - PhD thesis by Zaineb S. Istrabadi [[PDF](https://www.themathesontrust.org/papers/islam/zarruq-qawaidaltasawwuf.pdf)]
+* The Symbolism of the Birds in Rumi's Stories in the "Mathnawi" [[PDF](http://www.sufismoitalia.it/parole_sufi/the_symbolism.pdf)]
 
 ### Blog & Website
 
