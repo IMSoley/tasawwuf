@@ -282,6 +282,18 @@
 * Lailatul-Qadr: The Day of Light [[Amazon](https://amzn.to/3v2M1gB)]
 * The Fast of Ramadan [[Amazon](https://amzn.to/38ls7nl), [PDF](https://drive.google.com/file/d/1XFbSMPkU9JqYbN4cJJ-y4NPuQe-GfZvu/view?usp=sharing)]
 
+### Javad Nurbakhsh
+
+* Dogs: From a Sufi Point of View [[Amazon](https://amzn.to/3bsB54c)]
+* The Path: Sufi Practices [[Amazon](https://amzn.to/3rvwqUH), [PDF](https://archive.org/download/thepathsufipracticesbydr.javadnurbakhsh/The%20Path-Sufi%20Practices%20by%20Dr.%20Javad%20Nurbakhsh.pdf)]
+* The Psychology of Sufism (Del Wa Nafs) [[Amazon](https://amzn.to/3v8TcDZ)]
+* Discourses on the Sufi Path [[Amazon](https://amzn.to/3l3cl5B)]
+* In the Paradise of the Sufis [[Amazon](https://amzn.to/3qzpVii), [PDF](https://archive.org/download/NurbakhshInTheParadiseOfTheSufis/Nurbakhsh_In-the-Paradise-of-the-Sufis.pdf)]
+* Sufi Symbolism: The Nurbakhsh Encyclopedia of Sufi Terminology
+* In the Tavern of Ruin: Seven Essays on Sufism [[Amazon](https://amzn.to/3bsE9xe)]
+* Divan-e Nurbakhsh: Poems of a Sufi Master [[Amazon](https://amzn.to/3evddi2)]
+* Spiritual Poverty in Sufism (Faqr & Faqir) [[Amazon](https://amzn.to/3t47kMZ)]
+
 ### Shaykh Ahmad Hendricks
 
 * Sainthood (Wilayah) and Nearness (Qurb)
