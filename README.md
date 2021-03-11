@@ -486,6 +486,21 @@
 * Understanding Islam - Abdal Hakim Murad [[Playlist](https://www.youtube.com/playlist?list=PL85C4200AAB2EDAFB), [In one video](https://www.youtube.com/watch?v=3SPiFbSUU8Q)]
 * Commentary on the Rumi's Mathnavi by Shaykh Abdal Hakim Murad [[Part 1](https://www.youtube.com/watch?v=DnBXrwyLUCs), [Part 2](https://www.youtube.com/watch?v=igdlBxmbG98), [Part 3](https://www.youtube.com/watch?v=IyG4qYlprC0)]
 * Commentary on the Divan-i Shams-i Tabriz by Shaykh Abdal Hakim Murad [[Part 1](https://www.youtube.com/watch?v=J_ghjdUBx8E), [Part 2](https://www.youtube.com/watch?v=NoC8XANZtgk), [Part 3](https://www.youtube.com/watch?v=Wgg4zVV3n38)]
+* Studies of Imam Al-Ghazali by Shaikh Abdulhakim Murad [[Playlist](https://www.youtube.com/playlist?list=PLj-pgC28v0rfQruZxp3Oo22tZqiNsuTq1)]
+* Master Classes on Imam Al Ghazali by Shaikh Abdulhakim Murad [[Playlist](https://www.youtube.com/playlist?list=PLj-pgC28v0rfavES3kUDmAMVa57UuR5uV)]
+* The Critical Importance of Al Ghazali in Our Time - Hamza Yusuf [[Video](https://www.youtube.com/watch?v=PoRRoqVXeGw)]
+* Series: Imam Al-Ghazali on Disciplining the Soul [[Playlist](https://www.youtube.com/playlist?list=PLqjVfJzBvoIOD_KTmtTv2aliyVS92uP7D)]
+* The Alchemy of Happiness by Imam al-Ghazali - Hamza Yusuf [[Video](https://www.youtube.com/watch?v=zBwWc0DflRQ)]
+* Jewels & Pearls of the Quran by Imam al-Ghazali - Hamza Yusuf [[Class 1](https://www.youtube.com/watch?v=xbG1LABtjZA)]
+* Purification of the Heart by Shaykh Hamza Yusuf [[Part 1](https://www.youtube.com/watch?v=KooSaOZpWW4), [Part 2](https://www.youtube.com/watch?v=JmxeKwvRxQ8)]
+* The Spiritual Ascension of Man with Shaykh Hamza Yusuf [[Part 1](https://www.youtube.com/watch?v=kOmgwk1Jg_g), [Part 2 & 3](https://www.youtube.com/watch?v=jBcHY99tyQc)]
+* Gateway to God's Book by Hamza Yusuf [[Playlist](https://www.youtube.com/playlist?list=PLGwUmcHSMM45joG8FFGlBgZldhDcRVOll)]
+* Life Of The Prophet Muhammad by Shaykh Hamza Yusuf [[Part 1](https://www.youtube.com/watch?v=2M2Ppbtrh6w), [Part 2](https://www.youtube.com/watch?v=3FiaIXSCCc8)]
+* Poor Man's Book Of Assistance by Shaykh Hamza Yusuf [[Part 1](https://www.youtube.com/watch?v=FGrc55HN4tA), [Part 2](https://www.youtube.com/watch?v=WtOJcK9uNtI)]
+* A Lecture with Sufi Scholar and Teacher Zia Inayat-Khan [[Video](https://www.youtube.com/watch?v=MSpsGls13Jo)]
+* The Dot and the Line: Akbarian views on time and the instant [[Video](https://www.youtube.com/watch?v=wNQHazCJi-4)]
+* The Alif - the One , the Many and the Beautiful [[Video](https://www.youtube.com/watch?v=7ramtd1sOnw)]
+* The Circle and the Compass by Stephen Hirtenstein [[Video](https://www.youtube.com/watch?v=wLXogr_HXyw)]
 
 ### Papers
 
