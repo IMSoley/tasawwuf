@@ -409,6 +409,7 @@
 * Nizam Ad-Din Awliya: Morals for the Heart [[Amazon](https://amzn.to/3t17vst)]
 * Nobody Son of Nobody [[Amazon](https://amzn.to/3bQeEVm), [PDF](https://hohmpress.com/free-downloads/12052016-Nobody-Son-Of-Nobody.pdf)]
 * I am Rumi, Where is my Shams? [[Amazon](https://amzn.to/3v81R9F)]
+* Seven Valleys and the Four Valleys by Bahá'u'lláh [[PDF](http://www.gutenberg.org/files/16986/16986-pdf.pdf), [Online](https://bahai-library.com/bahaullah_seven_four_valleys), [Additional](https://www.bahai.org/library/authoritative-texts/bahaullah/call-divine-beloved/call-divine-beloved.pdf)]
 * Realities of Sufism by Shaykh Abd al-Qadir Isa [[Amazon](https://amzn.to/2NU08UC)]
 * The Secret Rose Garden by Mahmoud Shabestari [[Amazon](https://amzn.to/37pKGpN), [PDF](http://www.sufism.ir/books/download/english/shabestari-en/secretrosegarden-shabestari_color-en.pdf), [Additional](http://traditionalhikma.com/wp-content/uploads/2015/03/The-Mystic-Rose-Garden.pdf)]
 * Pure Gold from the Words of Sayyidi Abd al-Aziz al-Dabbagh [[Amazon](https://amzn.to/3b5jUp1), [PDF](http://data.nur.nu/Kutub/English/Ibriz_transl-O-Kane-J-and-Bernd-Radtke-2007-Pure-Gold-From-the-Words-of-Sayyidi-Abd-Al-Aziz-Al-Dabbagh.pdf)]
@@ -504,6 +505,7 @@
 
 ### Papers
 
+* Wilmette Institute notes on the Tablets of the Báb and Bahá'u'lláh [[Online](https://bahai-library.com/resources/tablets-notes/index.html)]
 * Al-Ghazali's integral epistemology: A critical analysis of the jewels of the Quran [[PDF](https://fount.aucegypt.edu/cgi/viewcontent.cgi?article=2370&context=etds)]
 * The Self And The Other In Ibn Arabi And Rumi [[PDF](https://docs.google.com/file/d/0B2GU1ZyPbqVlNy0wUE90dGd0Rlk/edit)]
 * An Introduction to the Sciences of the Qur’an by Ahmad von Denffer [[PDF](http://www.islamicbulletin.org/free_downloads/quran/ul_umal_quran.pdf)]
