@@ -401,11 +401,10 @@
 * Love's Alchemy: Poems from the Sufi Tradition [[Amazon](https://amzn.to/3bnqWWx)]
 * Saif-ul-Malook (Journey of  Love) by Mian Muhammad Bakhsh [[Online](https://sufipoetry.wordpress.com/poets/mian-muhammad-baksh/)]
 * Rumi Poems [[PDF](https://static1.squarespace.com/static/5cda67187d0c911e932ec1d1/t/5d8c1774c404a76900734d06/1569462140630/Rumi+Poems+%E2%99%A5.pdf)]
-* Bulleh Shah [[PDF](https://www.poemhunter.com/i/ebooks/pdf/bulleh_shah_2012_9.pdf)]
+* Bulleh Shah [[PDF](https://www.poemhunter.com/i/ebooks/pdf/bulleh_shah_2012_9.pdf), [Online](https://sufipoetry.wordpress.com/poets/bulleh-shah/)]
   * Sufi Lyrics [[Amazon](https://amzn.to/3cMi4ZN), [PDF](https://archive.org/download/bullhe-shah-sufi-lyrics/Bullhe%20Shah-%20Sufi%20Lyrics.pdf)]
   * Sain Bulleh Shah: The Mystic Muse [[Amazon](https://amzn.to/30WK8En)]
   * Bulleh Shah: The Love-Intoxicated Iconoclast [[Amazon](https://amzn.to/3r24x5m), [PDF](https://archive.org/details/bullehshah0000unse)]
-  * <https://sufipoetry.wordpress.com/poets/bulleh-shah/>
 * Seven 'Shahs' of Sufi Poetry - Selected Poems [[Amazon](https://amzn.to/30TMu74)]
 * Youtube Channel
   * [satash8](https://www.youtube.com/channel/UC5CQ0OLeFsc9l3KfRzyspFg)
@@ -546,9 +545,9 @@
 
 ### Blog & Website
 
-* Secrets of Isra and Miraj [[Articles](https://sufilive.com/Secrets-of-Isra-and-Miraj-3-67.html)]
-* Reflections on the Isra’ and Mi’raj [[Articles](https://sufiuniversity.org/2016/05/reflections-on-the-isra-and-miraj-part-1/)]
-* The Mystery of Destiny (sirr al-qadar) in Ibn ‘Arabi and al-Qunawi [[Articles](https://ibnarabisociety.org/destiny-qadar-qunawi-aladdin-bakri/)]
+* Secrets of Isra and Miraj [[Lectures](https://sufilive.com/Secrets-of-Isra-and-Miraj-3-67.html)]
+* Reflections on the Isra’ and Mi’raj [[Article](https://sufiuniversity.org/2016/05/reflections-on-the-isra-and-miraj-part-1/)]
+* The Mystery of Destiny (sirr al-qadar) in Ibn ‘Arabi and al-Qunawi [[Article](https://ibnarabisociety.org/destiny-qadar-qunawi-aladdin-bakri/)]
 * The Teaching of Hazrat Inayat Khan [[Online-17 Volume](https://www.hazrat-inayat-khan.org/php/views.php)]
 * Levels of the Self [[Article](https://sufism.org/sufism/writings-on-sufism/levels-of-the-self-2)]
 * Technology of the Heart: Sufi [[Articles](https://www.techofheart.com/search/label/sufi)]
