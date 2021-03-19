@@ -409,7 +409,7 @@
 * Youtube Channel
   * [satash8](https://www.youtube.com/channel/UC5CQ0OLeFsc9l3KfRzyspFg)
   * [Mystic's Paradise](https://www.youtube.com/channel/UCXuuRCoo_YO3za305btUoqw)
-* <https://gardenofthebeloved.com/>
+* In the Garden of The Beloved [[Website](https://gardenofthebeloved.com/)]
 
 ### Others
 
