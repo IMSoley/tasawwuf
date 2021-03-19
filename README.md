@@ -116,6 +116,8 @@
 * Past and Present, East and West: The Life, Teachings, and Poetry of Rumi [[Amazon](https://amzn.to/30reD5e), [PDF](http://library.lol/main/C977D49C87161DF341FB1947F1F36839)]
 * Rumi: Hidden Music [[Amazon](https://amzn.to/30mGjIi)]
 * The Forbidden Rumi [[Amazon](https://amzn.to/30pkwQj), [PDF](https://archive.org/details/forbiddenrumisup0000jall)]
+* The Universe in You: An Inner Journey Guided by Rumi [[Amazon](https://amzn.to/3vQpGn0)]
+* Rumi’s Four Essential Practices: Ecstatic Body, Awakened Soul [[Amazon](https://amzn.to/3eW81Eu), [PDF](http://library.lol/main/B8301054871C42A44E513A0682F54550)]
 
 ### Al-Suhrawardi
 
@@ -399,6 +401,12 @@
 * Love's Alchemy: Poems from the Sufi Tradition [[Amazon](https://amzn.to/3bnqWWx)]
 * Saif-ul-Malook (Journey of  Love) by Mian Muhammad Bakhsh [[Online](https://sufipoetry.wordpress.com/poets/mian-muhammad-baksh/)]
 * Rumi Poems [[PDF](https://static1.squarespace.com/static/5cda67187d0c911e932ec1d1/t/5d8c1774c404a76900734d06/1569462140630/Rumi+Poems+%E2%99%A5.pdf)]
+* Bulleh Shah [[PDF](https://www.poemhunter.com/i/ebooks/pdf/bulleh_shah_2012_9.pdf)]
+  * Sufi Lyrics [[Amazon](https://amzn.to/3cMi4ZN), [PDF](https://archive.org/download/bullhe-shah-sufi-lyrics/Bullhe%20Shah-%20Sufi%20Lyrics.pdf)]
+  * Sain Bulleh Shah: The Mystic Muse [[Amazon](https://amzn.to/30WK8En)]
+  * Bulleh Shah: The Love-Intoxicated Iconoclast [[Amazon](https://amzn.to/3r24x5m), [PDF](https://archive.org/details/bullehshah0000unse)]
+  * <https://sufipoetry.wordpress.com/poets/bulleh-shah/>
+* Seven 'Shahs' of Sufi Poetry - Selected Poems [[Amazon](https://amzn.to/30TMu74)]
 * Youtube Channel
   * [satash8](https://www.youtube.com/channel/UC5CQ0OLeFsc9l3KfRzyspFg)
   * [Mystic's Paradise](https://www.youtube.com/channel/UCXuuRCoo_YO3za305btUoqw)
@@ -468,6 +476,15 @@
 * The Removal of Confusion Concerning the Flood of the Saintly Seal Ahmad al-Tijani [[Amazon](https://amzn.to/3cgOXh9), [PDF](https://archive.org/download/TheRemovalOfConfusion.ConcerningTheFloodOfTheSaitlySealTijaniATranslationOfKashi/The%20removal%20of%20confusion.%20Concerning%20the%20flood%20of%20the%20saitly%20seal%20Tijani%20-%20a%20translation%20of%20Kashif%20al-ilbas%20an%20fajdat%20by%20Ibrahim%20Niass.pdf)]
 * The Book of Ascension to the Essential Truths of Sufism [[Amazon](https://amzn.to/2MY1JIF)]
 * Where the Two Seas Meet: Al-Khidr and Moses The Qur anic Story of al-Khidr and Moses in Sufi Commentaries as a Model for Spiritual Guidance [[Amazon](https://amzn.to/2N4fZzO)]
+* The beauty of the righteous & ranks of the elite [[Amazon](https://amzn.to/31027tw), [PDF](https://archive.org/download/TheBeautyOfTheRighteousAndRanksOfTheEliteHilyatAlAwliyaWaTabaqatAlAsfiyaByAbuNaimAlIsfahani/The%20Beauty%20of%20the%20Righteous%20and%20Ranks%20of%20the%20Elite%20%28Hilyat%20al-awliya%20wa%20tabaqat%20al-asfiya%29%20by%20Abu%20Naim%20al-Isfahani.pdf)]
+* The Prophets in Barzakh/The Hadith of Isra' and Mi`raj [[Amazon](https://amzn.to/3tztOpp)]
+* The Teleological Ethics of Fakhr al-Din al-Razi [[Amazon](https://amzn.to/3r5LSWl), [PDF](https://archive.org/download/resalatul0razi/9004149910.pdf)]
+* Sacred Laughter of the Sufis [[Amazon](https://amzn.to/3vQpSTg), [PDF](http://library.lol/main/3BF58E4BD3F887AF421E42B914B49193)]
+* The Lover: A Sufi Mystery (The Sufi Mysteries) [[Amazon](https://amzn.to/30UyIAT)]
+* The Jealous: A Sufi Mystery [[Amazon](https://amzn.to/3cLcWVS)]
+* Day and Night on the Sufi Path [[Amazon](https://amzn.to/3c0Ne0l), [PDF](http://library.lol/main/E98E594ADC92E37D34FF9A28E9CA726D)]
+* Doorkeeper of the Heart: Versions of Rabi'a [[Amazon](https://amzn.to/3s7Vxxi), [PDF](https://archive.org/details/doorkeeperofhear00rabi)]
+* Rabi'a The Mystic and Her Fellow-Saints in Islam [[Amazon](https://amzn.to/3vDvLD3)]
 * Journey Through Ten Thousand Veils: The Alchemy of Transformation on the Sufi Path by Maryam Kabeer Faye [[Amazon](https://amzn.to/3uVLZqG)]
 * Getting Started Finding Your Way Along The Path [[PDF](https://sufiuniversity.org/wp/wp-content/uploads/2016/08/Getting-Started-1st-edition-2016-Final.compressed.pdf)]
 * The Alchemy of the Heart by Reshad Feild [[Amazon](https://amzn.to/30j0F5a), [PDF](https://archive.org/details/sufismalchemyofh00sanf/)]
@@ -481,6 +498,7 @@
 * On the Hermeneutics of the Light Verse of the Quran (Tafsir Ayat al-Nur) [[PDF](http://library.lol/main/62DC666C5B8EEE6C80A018149BF55470)]
 * Kashf al-Asrar: The Unveiling of the Mysteries by Rashid al-Din Maybudi [[Amazon](https://amzn.to/388b33V), [PDF](https://www.altafsir.com/Books/kashf.pdf)]
 * The Message of the Qur'an by Muhammad Asad [[Amazon](https://amzn.to/2NT2Eus), [PDF](http://www.muhammad-asad.com/Message-of-Quran.pdf)]
+* Sufi Commentaries on the Qur'an in Classical Islam [[Amazon](https://amzn.to/38TzEtG), [PDF](http://library.lol/main/53DDB64B397D2A064C9E601E3D02BC9C)]
 
 ### Lectures
 
@@ -520,15 +538,23 @@
 * The Soul (Heart) and Its Attributes: An Islamic Perspective With Reference To Self in Western Psychology [[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.901.8399&rep=rep1&type=pdf)]
 * Qawa'id al-Tasawwuf, The Principles of Sufism - PhD thesis by Zaineb S. Istrabadi [[PDF](https://www.themathesontrust.org/papers/islam/zarruq-qawaidaltasawwuf.pdf)]
 * The Symbolism of the Birds in Rumi's Stories in the "Mathnawi" [[PDF](http://www.sufismoitalia.it/parole_sufi/the_symbolism.pdf)]
+* Study of the Term Sirr (Secret) in Sufi Lataif Theories [[PDF](https://www.jstage.jst.go.jp/article/orient1960/19/0/19_0_7/_pdf)]
+* The Spiritual Ascension: Ibn ʿArabī and the Miʿrāj [[PDF](https://ibnarabisociety.org/wp-content/uploads/PDFs/Morris_The-spiritual-ascension.pdf)]
+* The Metaphysical Dimension of the Prophet's Ascension [[PDF](https://researchoutput.csu.edu.au/ws/portalfiles/portal/19202802/19202780_Published_article.pdf)]
+* The Mi’raj and the Prophetic Tradition ‘I Have a Time with God’ (li ma’a Allah waqt) [[Online](https://simerg.com/literary-readings/an-esoteric-interpretation-of-the-miraj-and-the-prophetic-tradition-i-have-a-time-with-god-li-maa-allah-waqt/)]
+* Cosmologies of Shaykh Ahmad al-Ahsa'i [[PDF](http://libgen.rs/scimag/10.2307%2F1595855), [Online](http://www-personal.umich.edu/~jrcole/ahsai2.htm)]
 
 ### Blog & Website
 
-* <https://www.hazrat-inayat-khan.org/php/views.php>
-* <https://sufism.org/sufism/writings-on-sufism/levels-of-the-self-2>
-* <https://www.techofheart.com/search/label/sufi>
-* <http://fundamentalbelief.blogspot.com/>
-* <http://suffisum.blogspot.com/>
-* <https://khawajamoinuddin.wordpress.com/>
-* <http://zoya-thewayofasufi.blogspot.com/>
-* <https://www.nurmuhammad.com/free-sufi-e-books-online/>
-* <http://www.halukberkmen.net/en/articles.php>
+* Secrets of Isra and Miraj [[Articles](https://sufilive.com/Secrets-of-Isra-and-Miraj-3-67.html)]
+* Reflections on the Isra’ and Mi’raj [[Articles](https://sufiuniversity.org/2016/05/reflections-on-the-isra-and-miraj-part-1/)]
+* The Mystery of Destiny (sirr al-qadar) in Ibn ‘Arabi and al-Qunawi [[Articles](https://ibnarabisociety.org/destiny-qadar-qunawi-aladdin-bakri/)]
+* The Teaching of Hazrat Inayat Khan [[Online-17 Volume](https://www.hazrat-inayat-khan.org/php/views.php)]
+* Levels of the Self [[Article](https://sufism.org/sufism/writings-on-sufism/levels-of-the-self-2)]
+* Technology of the Heart: Sufi [[Articles](https://www.techofheart.com/search/label/sufi)]
+* Divine Truth [[Website](http://fundamentalbelief.blogspot.com)]
+* Mystic Suffisum [[Website](http://suffisum.blogspot.com/)]
+* Hazrat Khawaja Moinuddin Chisti [[Website](https://khawajamoinuddin.wordpress.com/)]
+* A Sufi Metamorphosis [[Website](http://zoya-thewayofasufi.blogspot.com/)]
+* Naqshbandi: The Muhammadan Reality, e-books [[Website](https://www.nurmuhammad.com/free-sufi-e-books-online/)]
+* Haluk Berkmen, Ph.D. (Physics) [[Website](http://www.halukberkmen.net/en/articles.php)]
