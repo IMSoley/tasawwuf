@@ -410,6 +410,7 @@
   * [satash8](https://www.youtube.com/channel/UC5CQ0OLeFsc9l3KfRzyspFg)
   * [Mystic's Paradise](https://www.youtube.com/channel/UCXuuRCoo_YO3za305btUoqw)
 * In the Garden of The Beloved [[Website](https://gardenofthebeloved.com/)]
+* The Prophet by Kahlil Gibran [[Amazon](https://amzn.to/3lzIeTw), [PDF](https://archive.org/download/in.ernet.dli.2015.536146/2015.536146.TheProphet1923.pdf)]
 
 ### Others
 
