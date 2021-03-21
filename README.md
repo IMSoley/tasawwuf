@@ -549,7 +549,7 @@
 * Secrets of Isra and Miraj [[Lectures](https://sufilive.com/Secrets-of-Isra-and-Miraj-3-67.html)]
 * Reflections on the Isra’ and Mi’raj [[Article](https://sufiuniversity.org/2016/05/reflections-on-the-isra-and-miraj-part-1/)]
 * The Mystery of Destiny (sirr al-qadar) in Ibn ‘Arabi and al-Qunawi [[Article](https://ibnarabisociety.org/destiny-qadar-qunawi-aladdin-bakri/)]
-* The Teaching of Hazrat Inayat Khan [[Online-17 Volumes](https://www.hazrat-inayat-khan.org/php/views.php)]
+* The Teaching of Hazrat Inayat Khan [[Online-14 Volumes](https://www.hazrat-inayat-khan.org/php/views.php)]
 * Levels of the Self [[Article](https://sufism.org/sufism/writings-on-sufism/levels-of-the-self-2)]
 * Technology of the Heart: Sufi [[Articles](https://www.techofheart.com/search/label/sufi)]
 * Divine Truth [[Website](http://fundamentalbelief.blogspot.com)]
