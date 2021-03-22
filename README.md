@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td align="left">
-<img width="448" height="0">
+<img width="480" height="0">
  <ol>
   <li><a href="https://github.com/IMSoley/tasawwuf#imam-al-ghazali">Imam al-Ghazzali</a></li>
   <li><a href="https://github.com/IMSoley/tasawwuf#abdul-qadir-gilani">Abdul Qadir Gilani</a></li>
@@ -33,7 +33,7 @@
  </ol>
 </td>
 <td align="left">
-<img width="448" height="0">
+<img width="480" height="0">
  <ol start="24">
   <li><a href="https://github.com/IMSoley/tasawwuf#javad-nurbakhsh">Javad Nurbakhsh</a></li>
   <li><a href="https://github.com/IMSoley/tasawwuf#shaykh-ahmad-hendricks">Shaykh Ahmad Hendricks</a></li>
