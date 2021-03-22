@@ -1,6 +1,57 @@
 <span align="center">
 <h2><i>Seeking Truth</i></h2>
 </span>
+<!--
+## Index
+
+<!-- 45, 22 -->
+<!--
+* [Imam al-Ghazzali](https://github.com/IMSoley/tasawwuf#imam-al-ghazali)
+* [Abdul Qadir Gilani](https://github.com/IMSoley/tasawwuf#abdul-qadir-gilani)
+* [Ibn Arabi](https://github.com/IMSoley/tasawwuf#ibn-arabi)
+* [Jalaluddin Rumi](https://github.com/IMSoley/tasawwuf#jalaluddin-muhammad-rumi)
+* [Al-Suhrawardi](https://github.com/IMSoley/tasawwuf#al-suhrawardi)
+* [Imam al-haddad](https://github.com/IMSoley/tasawwuf#abdallah-ibn-alawi-al-haddad)
+* [Ibn Ata Allah](https://github.com/IMSoley/tasawwuf#ibn-ata-allah)
+* [Khwaja Moinuddin Hassan Chishty](https://github.com/IMSoley/tasawwuf#hazrat-khwaja-moinuddin-hassan-chishty)
+* [Ibn Qayyim al-Jawziyya](https://github.com/IMSoley/tasawwuf#imam-ibn-qayyim-al-jawziyyah)
+* [Shams-i Tabrizi](https://github.com/IMSoley/tasawwuf#shams-i-tabrizi)
+* [Hafiz](https://github.com/IMSoley/tasawwuf#hafiz)
+* [Attar of Nishapur](https://github.com/IMSoley/tasawwuf#attar-of-nishapur)
+* [Omar Khayyam](https://github.com/IMSoley/tasawwuf#omar-khayyam)
+* [Mansur al-Hallaj](https://github.com/IMSoley/tasawwuf#mansur-al-hallaj)
+* [Imam al-Nawawi](https://github.com/IMSoley/tasawwuf#imam-al-nawawi)
+* [Yunus Emre](https://github.com/IMSoley/tasawwuf#yunus-emre)
+* [Inayat Khan](https://github.com/IMSoley/tasawwuf#inayat-khan)
+* [Ibn Hajar al-Asqalani](https://github.com/IMSoley/tasawwuf#ibn-hajar-al-asqalani)
+* [Nurjan Mirahmadi](https://github.com/IMSoley/tasawwuf#nurjan-mirahmadi)
+* [Nazim Al-Haqqani](https://github.com/IMSoley/tasawwuf#nazim-al-haqqani)
+* [Hisham Kabbani](https://github.com/IMSoley/tasawwuf#hisham-kabbani)
+* [Vilayat Inayat Khan](https://github.com/IMSoley/tasawwuf#vilayat-inayat-khan)
+* [M. R. Bawa Muhaiyaddeen](https://github.com/IMSoley/tasawwuf#m-r-bawa-muhaiyaddeen)
+* [Javad Nurbakhsh](https://github.com/IMSoley/tasawwuf#javad-nurbakhsh)
+* [Shaykh Ahmad Hendricks](https://github.com/IMSoley/tasawwuf#shaykh-ahmad-hendricks)
+* [Henry Corbin](https://github.com/IMSoley/tasawwuf#henry-corbin)
+* [Seyyed Hossein Nasr](https://github.com/IMSoley/tasawwuf#seyyed-hossein-nasr)
+* [Annemarie Schimmel](https://github.com/IMSoley/tasawwuf#annemarie-schimmel)
+* [Idries Shah](https://github.com/IMSoley/tasawwuf#idries-shah)
+* [Llewellyn Vaughan-Lee PhD](https://github.com/IMSoley/tasawwuf#llewellyn-vaughan-lee-phd)
+* [Kabir Helminski](https://github.com/IMSoley/tasawwuf#kabir-helminski)
+* [Khaja Khan](https://github.com/IMSoley/tasawwuf#khaja-khan)
+* [Nuh Ha MIM Keller](https://github.com/IMSoley/tasawwuf#nuh-ha-mim-keller)
+* [Shaykh Azad Rasool](https://github.com/IMSoley/tasawwuf#shaykh-azad-rasool)
+* [Camille Adams Helminski](https://github.com/IMSoley/tasawwuf#camille-adams-helminski)
+* [Shaykh Muhammad al-Jamal](https://github.com/IMSoley/tasawwuf#shaykh-muhammad-al-jamal)
+* [Shaikh Ahmad Al Alawi](https://github.com/IMSoley/tasawwuf#shaikh-ahmad-al-alawi)
+* [Martin Lings](https://github.com/IMSoley/tasawwuf#martin-lings)
+* [William C. Chittick](https://github.com/IMSoley/tasawwuf#william-c-chittick)
+* [Poetry](https://github.com/IMSoley/tasawwuf#poetry)
+* [Others](https://github.com/IMSoley/tasawwuf#others)
+* [Commentary of the Holy Quran](https://github.com/IMSoley/tasawwuf#commentary-of-the-holy-quran)
+* [Lectures](https://github.com/IMSoley/tasawwuf#lectures)
+* [Research Papers](https://github.com/IMSoley/tasawwuf#papers)
+* [Blog & Website](https://github.com/IMSoley/tasawwuf#blog--website)
+-->
 
 ### Imam al-Ghazali
 
