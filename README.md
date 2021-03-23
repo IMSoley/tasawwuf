@@ -2,6 +2,10 @@
 <h2><i>Seeking Truth</i></h2>
 </span>
 
+
+<details>
+ <summary align="center">Table of contents</summary>
+ 
 <table>
 <tr>
 <td align="left">
@@ -68,6 +72,9 @@
 </td>
 </tr>
 </table>
+
+</details>
+
 
 ### Imam al-Ghazali
 
