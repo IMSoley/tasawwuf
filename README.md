@@ -2,7 +2,11 @@
 <h2><i>Seeking Truth</i></h2>
 </span>
 
+<span align="center">
 
+<i>Seeking the One, the Real <br /> I am a caged bird, seeking my way back to Home <br/><br/> Bless me on this blessed journey <br/><br/> I wanted to know soleyman, who talked within<br/> I didn't find him anywhere, LO! I found Thee </i>
+
+</span>
 <details>
  <summary align="center">Table of contents</summary>
  <br/>
@@ -688,10 +692,3 @@
 
 * Lalon
 * Sodor Uddin Ahmed Chisti
-
-<br/>
-<span align="right">
-
-<i>Seeking the One, the Real <br /> I am a caged bird, seeking my way back to Home <br/><br/> Bless me on this blessed journey <br/><br/> I wanted to know soleyman, who talked within<br/> I didn't find him anywhere, LO! I found Thee </i>
-
-</span>
