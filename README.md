@@ -8,7 +8,7 @@
 
 </span>
 <details>
- <summary align="center"><b>Table of contents</b></summary>
+ <summary align="center"><b>Table of Contents</b></summary>
  <br/>
 <table>
 <tr>
