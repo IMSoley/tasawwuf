@@ -30,33 +30,39 @@
   <li><a href="#hisham-kabbani">Hisham Kabbani</a></li>
   <li><a href="#vilayat-inayat-khan">Vilayat Inayat Khan</a></li>
   <li><a href="#m-r-bawa-muhaiyaddeen">M. R. Bawa Muhaiyaddeen</a></li>
+  <li><a href="#javad-nurbakhsh">Javad Nurbakhsh</a></li>
+  <li><a href="#shaykh-ahmad-hendricks">Shaykh Ahmad Hendricks</a></li>
+  <li><a href="#henry-corbin">Henry Corbin</a></li>
  </ol>
 </td>
 <td align="left">
 <img width="480" height="0">
- <ol start="24">
-  <li><a href="#javad-nurbakhsh">Javad Nurbakhsh</a></li>
-  <li><a href="#shaykh-ahmad-hendricks">Shaykh Ahmad Hendricks</a></li>
-  <li><a href="#henry-corbin">Henry Corbin</a></li>
+ <ol start="27">
   <li><a href="#seyyed-hossein-nasr">Seyyed Hossein Nasr</a></li>
   <li><a href="#annemarie-schimmel">Annemarie Schimmel</a></li>
   <li><a href="#idries-shah">Idries Shah</a></li>
-  <li><a href="#llewellyn-vaughan-lee-phd">Llewellyn Vaughan-Lee PhD</a></li>
+  <li><a href="#llewellyn-vaughan-lee-phd">Llewellyn Vaughan-Lee</a></li>
   <li><a href="#kabir-helminski">Kabir Helminski</a></li>
   <li><a href="#khaja-khan">Khaja Khan</a></li>
   <li><a href="#nuh-ha-mim-keller">Nuh Ha MIM Keller</a></li>
   <li><a href="#shaykh-azad-rasool">Shaykh Azad Rasool</a></li>
   <li><a href="#camille-adams-helminski">Camille Adams Helminski</a></li>
-  <li><a href="#shaykh-muhammad-al-jamal">Shaykh Muhammad al-Jamal</a></li>
-  <li><a href="#shaikh-ahmad-al-alawi">Shaikh Ahmad Al Alawi</a></li>
+  <li><a href="#shaykh-muhammad-al-jamal">Muhammad al-Jamal</a></li>
+  <li><a href="#shaikh-ahmad-al-alawi">Ahmad Al Alawi</a></li>
   <li><a href="#martin-lings">Martin Lings</a></li>
   <li><a href="#william-c-chittick">William C. Chittick</a></li>
+  <li><a href=""></a>Abdullah Ansari</li>
+  <li><a href=""></a>Sultan Bahoo</li>
+  <li><a href=""></a>Faiz Ahmad Faiz</li>
+  <li><a href=""></a>Mirza Ghalib</li>
+  <li><a href=""></a>Kabir</li>
   <li><a href="#poetry">Poetry</a></li>
   <li><a href="#others">Others</a></li>
   <li><a href="#commentary-of-the-holy-quran">Commentary of the Holy Quran</a></li>
   <li><a href="#lectures">Lectures</a></li>
   <li><a href="#papers">Research Papers</a></li>
   <li><a href="#blog--website">Blog & Website</a></li>
+  <li><a href="#bangla-books">Bangla Books</a></li>
  </ol>
 </td>
 </td>
@@ -456,6 +462,47 @@
 * Fakhruddin Iraqi: Divine Flashes [[Amazon](https://amzn.to/3uQ9MIN), [PDF](https://archive.org/download/35379885DivineFlashesFakhradeenIraqi/35379885-Divine-Flashes-Fakhradeen-Iraqi.pdf)]
 * Science of the Cosmos, Science of the Soul [[Amazon](https://amzn.to/3ricZyE), [PDF](https://reverthelp.com/wp-content/uploads/2019/05/Chittick_Science-of-the-Cosmos.pdf)]
 
+### Khwaja Abdullah Ansari
+
+* Stations of the Sufi Path
+* Divan of Abdullah Ansari
+* Munajat: The intimate prayers of Khwajih Abd Allah Ansari
+
+### Hazrat Sakhi Sultan Bahoo
+
+* Divan of Bahu
+* The Spirit of al-Faqr - Translation of Ain al-Faqr
+* Kashf-ul-Asrar (Revelation of The Divine Secrets)
+* Risala Roohi Sharif ( The Divine Soul)
+* Death before Dying: The Sufi Poems of Sultan Bahu
+* Qurb e Deedar (Closeness to the Vision of Allah)
+* The Perfect Spiritual Guide
+* Ameer-ul-Kaunain (The Master of Worlds)
+* Ganj-ul-Asrar (The Treasure of Divine Secrets)
+* Ganj-e-Deen (Treasure of The Religion)
+* Kaleed-ul-Tauheed Kalan (The Key of Divine Oneness)
+
+### Faiz Ahmad Faiz
+
+* Poems By Faiz (Oip)
+* The Colours of My Heart: Selected Poems
+* 100 Poems by Faiz Ahmed Fiza
+* The True Subject:: Selected Poems of Faiz Ahmed Faiz
+
+### Mirza Ghalib
+
+* Ghalib: Selected Poems and Letters
+* Love Sonnets of Ghalib
+* Ghalib: English Translation of Mirza Ghalib’s popular Urdu couplets
+* Ghalib: 1797-1869: Life and Letters
+
+### Kabir
+
+* Songs of Kabir by Rabindranath Tagore [[Amazon](https://amzn.to/38bXLUp), [PDF](https://drive.google.com/file/d/1Y5xMu3Q9igw842Ia_WTMjXLEcYu7FKtm/view)]
+* Ocean of Love: The Anurag Sagar of Kabir
+* Kabir: The Weaver's Songs
+* The Poetry Of Kabir: “All know that the drop merges into the ocean, but few know that the ocean merges into the drop.”
+
 ### Poetry
 
 * Poems by Hazrat Rabia Basri [[PDF](https://www.poemhunter.com/i/ebooks/pdf/rabia_al_basri_2012_5.pdf)]
@@ -472,6 +519,12 @@
   * [Mystic's Paradise](https://www.youtube.com/channel/UCXuuRCoo_YO3za305btUoqw)
 * In the Garden of The Beloved [[Website](https://gardenofthebeloved.com/)]
 * The Prophet by Kahlil Gibran [[Amazon](https://amzn.to/3lzIeTw), [PDF](https://archive.org/download/in.ernet.dli.2015.536146/2015.536146.TheProphet1923.pdf)]
+* The Drunken Universe: An Anthology of Persian Sufi Poetry
+* Hallaj: Poems of a Sufi Martyr
+* Psalms of Gods by Moulana Shah Maghsoud
+* The Book of Abdul-Qader Bedil
+* Umar Ibn Al-Farid: Sufi Verse, Saintly Life
+* The Walled Garden of Truth: The Hadiqa
 
 ### Others
 
@@ -499,7 +552,6 @@
 * Letters of a Sufi Master by Shaykh ad-Darqawi [[Amazon](https://amzn.to/3e5yiQa), [PDF](https://ia800506.us.archive.org/18/items/TheDarqawiWay/The-Darqawi-Way.pdf)]
 * Key to the Garden by Habib Ahmad Mashhur al-Haddad [[Amazon](https://amzn.to/2OmDlkk), [PDF](https://archive.org/download/learnislampdfenglishbookkeytothegardenbyhabibahmadmashhuralhaddad2/learn%20islam%20pdf%20english%20book%20__%20KeyToTheGardenByHabibAhmadMashhurAlHaddad-2.pdf)]
 * The Principles of Sufism [[Amazon](https://amzn.to/3c06Tws), [PDF](http://library.lol/main/78BF5FE564F9A5A2CB5C7298C5440273)]
-* Songs of Kabir by Rabindranath Tagore [[Amazon](https://amzn.to/38bXLUp), [PDF](https://drive.google.com/file/d/1Y5xMu3Q9igw842Ia_WTMjXLEcYu7FKtm/view)]
 * The Doctrine of the Sufis: (Kitab Al-Taʻarruf Li-madhhab Ahl Al-tasawwuf) [[Amazon](https://amzn.to/3ax4ZUd), [PDF](https://archive.org/details/in.ernet.dli.2015.108515)]
 * Revelation of the Secrets of the Birds and Flowers [[Amazon](https://amzn.to/3va8JUi)]
 * Ibn Juzay's Sufic Exegesis: Selections from Kitab al-Tashil li-Ulum al-Tanzil [[Amazon](https://amzn.to/30hKFjQ)]
@@ -549,6 +601,11 @@
 * Journey Through Ten Thousand Veils: The Alchemy of Transformation on the Sufi Path by Maryam Kabeer Faye [[Amazon](https://amzn.to/3uVLZqG)]
 * Getting Started Finding Your Way Along The Path [[PDF](https://sufiuniversity.org/wp/wp-content/uploads/2016/08/Getting-Started-1st-edition-2016-Final.compressed.pdf)]
 * The Alchemy of the Heart by Reshad Feild [[Amazon](https://amzn.to/30j0F5a), [PDF](https://archive.org/details/sufismalchemyofh00sanf/)]
+* Stay With God: A Statement in Illusion on Reality by Francis Brabazon
+* In Dust I Sing by Francis Brabazon
+* A Sufi Martyr: The Apologia of 'Ain al-Qudat al-Hamadhani
+* Sharafuddin Maneri: The Hundred Letters
+* Sufism: Veil and Quintessence A New Translation with Selected Letters
 * Tao Te Ching by Lao Tzu [[Version 1](https://kingauthor.net/books/Derek%20Lin/Tao%20Te%20Ching/Tao%20Te%20Ching%20-%20Derek%20Lin.pdf), [V2](https://taoism.net/tao/wp-content/uploads/2019/07/Accurate-Translation-of-the-Tao-Te-Ching.pdf), [V3](https://www.unl.edu/prodmgr/NRT/Tao%20Te%20Ching%20-%20trans.%20by%20J.H..%20McDonald.pdf), [V4](http://www.sfhunyuan.com/images/TAO_TE_CHING_-_LE_GUIN_edition.pdf), [V5](https://library.oapen.org/bitstream/handle/20.500.12657/41829/9780472901388.pdf?sequence=1&isAllowed=y), [V6](https://www.bu.edu/religion/files/pdf/Tao_Teh_Ching_Translations.pdf), [V7](https://sourceoflightmonastery.tripod.com/webonmediacontents/1935012.pdf), [V8](http://www.beatrice.com/TAO.pdf)]
 
 ### Commentary of the Holy Quran
@@ -619,3 +676,8 @@
 * A Sufi Metamorphosis [[Website](http://zoya-thewayofasufi.blogspot.com/)]
 * Naqshbandi: The Muhammadan Reality, e-books [[Website](https://www.nurmuhammad.com/free-sufi-e-books-online/)]
 * Haluk Berkmen, Ph.D. (Physics) [[Website](http://www.halukberkmen.net/en/articles.php)]
+
+### Bangla Books
+
+* Lalon
+* Sodor Uddin Ahmed Chisti
