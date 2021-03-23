@@ -692,6 +692,6 @@
 <br/>
 <span align="right">
 
-<i>Seeking the One, the Real <br /> I am a caged bird, seeking my way back to Home <br/><br/> Bless me on this blessed journey <br/><br/> I wanted to know soleyman, who talked within this cage <br/> I didn't find him anywhere except I found Thee </i>
+<i>Seeking the One, the Real <br /> I am a caged bird, seeking my way back to Home <br/><br/> Bless me on this blessed journey <br/><br/> I wanted to know soleyman, who talked within<br/> I didn't find him anywhere, LO! I found Thee </i>
 
 </span>
