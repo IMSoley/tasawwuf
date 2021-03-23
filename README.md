@@ -51,11 +51,11 @@
   <li><a href="#shaikh-ahmad-al-alawi">Ahmad Al Alawi</a></li>
   <li><a href="#martin-lings">Martin Lings</a></li>
   <li><a href="#william-c-chittick">William C. Chittick</a></li>
-  <li><a href=""></a>Abdullah Ansari</li>
-  <li><a href=""></a>Sultan Bahoo</li>
-  <li><a href=""></a>Faiz Ahmad Faiz</li>
-  <li><a href=""></a>Mirza Ghalib</li>
-  <li><a href=""></a>Kabir</li>
+  <li><a href="#khwaja-abdullah-ansari"></a>Abdullah Ansari</li>
+  <li><a href="#hazrat-sakhi-sultan-bahoo"></a>Sultan Bahoo</li>
+  <li><a href="#faiz-ahmad-faiz"></a>Faiz Ahmad Faiz</li>
+  <li><a href="#mirza-ghalib"></a>Mirza Ghalib</li>
+  <li><a href="#kabir"></a>Kabir</li>
   <li><a href="#poetry">Poetry</a></li>
   <li><a href="#others">Others</a></li>
   <li><a href="#commentary-of-the-holy-quran">Commentary of the Holy Quran</a></li>
