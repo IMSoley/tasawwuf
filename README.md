@@ -4,7 +4,7 @@
 
 <span align="center">
 
-<i>Seeking the One, the Real <br /> I am a caged bird, seeking my way back to Home <br/><br/> Bless me on this blessed journey</i>
+<i>I am a caged bird, seeking my way back to Home<br/>Bless me on this blessed journey<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Muhammad Soleyman</i>
 
 </span>
 <details>
