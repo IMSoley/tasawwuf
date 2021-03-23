@@ -3,7 +3,7 @@
 </span>
 
 <span align="center">
- 
+
 <i>I am a caged bird, seeking my way back to Home<br/>Bless me on this blessed journey<br/> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; — Muhammad Soleyman</i>
 
 </span>
@@ -79,7 +79,6 @@
 </table>
 
 </details>
-
 
 ### Imam al-Ghazali
 
@@ -692,4 +691,24 @@
 ### Bangla Books
 
 * Lalon
+  * Lalon Sha Fokir [[PDF](https://drive.google.com/file/d/1PjT7Zg_4NQYeooil81zJo8euDELmPjbn/view?usp=sharing)]
+  * Lalon Samagra [[PDF](https://drive.google.com/file/d/1R4-n96MVGGk4A66VcP8AeGC_VeYwaoUE/view?usp=sharing)]
+  * Lalon Dorson [[PDF](https://drive.google.com/file/d/18_w4WkDiu5j5CSXTbkVUXQKgnSTfb5Ik/view?usp=sharing)]
+  * Loko Kobi Lalon [[PDF](https://drive.google.com/file/d/1gqTebISo4uuzS2Urjumwr3yqEtqUBc32/view?usp=sharing)]
+  * Fokir Lalon Shai [[PDF](https://drive.google.com/file/d/1Hi2bAhiX1lO9MRVc1uFtqYhb2MZ8tRJP/view?usp=sharing)]
+  * Moner Manush [[PDF](https://drive.google.com/file/d/17Yhi2Ts-qCVVr63V5VjKqLviHVlT8hSn/view?usp=sharing)]
+  * Songs of Lalon Shah [[PDF](https://drive.google.com/file/d/1phLR4GoyD72SrXs3NR3gjmlr-HfWy72H/view?usp=sharing)]
+  * Mahatma Lalon Fakir [[PDF](https://drive.google.com/file/d/1zpiJFy5GfAteobSvCJRInrUexXe7AvCJ/view?usp=sharing)]
+  * Lalon Shah O Lalon Geetika [[PDF](https://drive.google.com/file/d/10wuEAJhFlhtg78WweQn_twaatWjOKDeC/view?usp=sharing)]
+  * Okhondo Lalon Songit [[PDF](https://drive.google.com/file/d/10xd9dm0HNq3S0-U6so8zSM44LZcehSzj/view?usp=sharing)]
+  * Lalon Vasha Onusondhan [[PDF-Book-1](https://drive.google.com/file/d/1e2ycRHvKhBUDwbJfrzVuE_kEzyz-ECF8/view?usp=sharing), [PDF-B2](https://drive.google.com/file/d/13qTkINOHLP4mKdMyyyW671XGGY5Xk9PZ/view?usp=sharing)]
+  * City of Mirrors: Songs of Lalan Sai [[PDF](https://drive.google.com/file/d/1jJd8Ps4Rfyr4mRZa_rDC9iiRwHMoslir/view?usp=sharing)]
+  * Manuscript of Songs of Lalon Collected by Rabindra [[PDF](https://drive.google.com/file/d/1uz8VAoKUHhee-szcB9N_6zyAiRZdT9eE/view?usp=sharing)]
 * Sodor Uddin Ahmed Chisti
+  * Philosophy of the Holy Quran
+  * Moshjid Dorshon [[PDF](https://drive.google.com/file/d/1-vNRBo72D0EhHi75YWoi1AhMiOPIhIT0/view?usp=sharing)]
+  * Sheam Dorshon [[PDF](https://drive.google.com/file/d/1sctOECi6cyG5p3ewF0TFNEVgxt-M4edk/view?usp=sharing)]
+  * Quran Dorson - Three books
+* Others
+  * Mohagurur Mohakal [[PDF](https://drive.google.com/file/d/1-yPoUM3NM7jgHUwIxciQGcszzGtFQUe4/view?usp=sharing)]
+  * Rachana Samagra by Aroj Ali Matubbor [[PDF-Book-1](https://drive.google.com/file/d/10Z02uKcMTIY5iaE-Z6FjOEt98hp47KRl/view?usp=sharing), [PDF-B2](https://drive.google.com/file/d/10WHrCbc_SKtq2vfFPPioUx5h0a1XfFtL/view?usp=sharing), [PDF-B3](https://drive.google.com/file/d/10_VJJvlZ2eSpP4njlRRk82j6VWNC-dq1/view?usp=sharing)]
