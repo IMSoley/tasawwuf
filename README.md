@@ -715,3 +715,9 @@
   * Patanjal Darshan by Khagendranath Shastri [[PDF](https://www.ebanglaebook.com/download/2082/)]
   * Rachana Samagra by Aroj Ali Matubbor [[PDF-Book-1](https://drive.google.com/file/d/10Z02uKcMTIY5iaE-Z6FjOEt98hp47KRl/view?usp=sharing), [PDF-B2](https://drive.google.com/file/d/10WHrCbc_SKtq2vfFPPioUx5h0a1XfFtL/view?usp=sharing), [PDF-B3](https://drive.google.com/file/d/10_VJJvlZ2eSpP4njlRRk82j6VWNC-dq1/view?usp=sharing)]
   * Banglar Baul O Baul Gan, Bhattacharya, Upendranath [[PDF](https://upload.wikimedia.org/wikisource/bn/3/3c/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%AC%E0%A6%BE%E0%A6%89%E0%A6%B2_%E0%A6%93_%E0%A6%AC%E0%A6%BE%E0%A6%89%E0%A6%B2_%E0%A6%97%E0%A6%BE%E0%A6%A8.pdf)]
+
+<span align="right">
+  
+  <a href="#seeking-truth">&#9650;</a>
+
+</span>
