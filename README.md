@@ -711,4 +711,7 @@
   * Quran Dorson - Three books
 * Others
   * Mohagurur Mohakal [[PDF](https://drive.google.com/file/d/1-yPoUM3NM7jgHUwIxciQGcszzGtFQUe4/view?usp=sharing)]
+  * Haramani by Mansuruddin Muhammad [[PDF](https://upload.wikimedia.org/wikisource/bn/7/72/%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%A3%E0%A6%BF_-_%E0%A6%AE%E0%A7%81%E0%A6%B9%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%A6_%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A7%81%E0%A6%B0_%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%A8.pdf)]
+  * Patanjal Darshan by Khagendranath Shastri [[PDF](https://www.ebanglaebook.com/download/2082/)]
   * Rachana Samagra by Aroj Ali Matubbor [[PDF-Book-1](https://drive.google.com/file/d/10Z02uKcMTIY5iaE-Z6FjOEt98hp47KRl/view?usp=sharing), [PDF-B2](https://drive.google.com/file/d/10WHrCbc_SKtq2vfFPPioUx5h0a1XfFtL/view?usp=sharing), [PDF-B3](https://drive.google.com/file/d/10_VJJvlZ2eSpP4njlRRk82j6VWNC-dq1/view?usp=sharing)]
+  * Banglar Baul O Baul Gan, Bhattacharya, Upendranath [[PDF](https://upload.wikimedia.org/wikisource/bn/3/3c/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%AC%E0%A6%BE%E0%A6%89%E0%A6%B2_%E0%A6%93_%E0%A6%AC%E0%A6%BE%E0%A6%89%E0%A6%B2_%E0%A6%97%E0%A6%BE%E0%A6%A8.pdf)]
