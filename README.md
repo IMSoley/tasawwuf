@@ -65,7 +65,7 @@
   <li><a href="#faiz-ahmad-faiz">Faiz Ahmad Faiz</a></li>
   <li><a href="#mirza-ghalib">Mirza Ghalib</a></li>
   <li><a href="#kabir">Kabir</a></li>
-  <li><a href="##ibrahim-niass">Ibrahim Niass</a></li>
+  <li><a href="#ibrahim-niass">Ibrahim Niass</a></li>
   <li><a href="#poetry">Poetry</a></li>
   <li><a href="#others">Others</a></li>
   <li><a href="#commentary-of-the-holy-quran">Commentary of the Holy Quran</a></li>
