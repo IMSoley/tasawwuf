@@ -758,3 +758,18 @@
   <a href="#seeking-truth">&#9650;</a>
 
 </span>
+<!--
+<span align="center">
+
+<i>
+Books-en: 20;
+Lectures: 6;
+Tafsir: 7;
+Papers: 6;
+Articles: 23;
+Websites: 34;
+Books-bn: 12
+</i>
+
+</span>
+-->
