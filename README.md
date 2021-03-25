@@ -475,44 +475,44 @@
 
 ### Khwaja Abdullah Ansari
 
-* Stations of the Sufi Path
-* Divan of Abdullah Ansari
-* Munajat: The intimate prayers of Khwajih Abd Allah Ansari
+* Stations of the Sufi Path [[Amazon](https://amzn.to/3sp34b8)]
+* Divan of Abdullah Ansari [[Amazon](https://amzn.to/39bk78O)]
+* Munajat: The intimate prayers of Khwajih Abd Allah Ansari [[Amazon](https://amzn.to/3lPXr39)]
 
 ### Hazrat Sakhi Sultan Bahoo
 
-* Divan of Bahu
-* The Spirit of al-Faqr - Translation of Ain al-Faqr
-* Kashf-ul-Asrar (Revelation of The Divine Secrets)
-* Risala Roohi Sharif ( The Divine Soul)
-* Death before Dying: The Sufi Poems of Sultan Bahu
-* Qurb e Deedar (Closeness to the Vision of Allah)
-* The Perfect Spiritual Guide
-* Ameer-ul-Kaunain (The Master of Worlds)
-* Ganj-ul-Asrar (The Treasure of Divine Secrets)
-* Ganj-e-Deen (Treasure of The Religion)
-* Kaleed-ul-Tauheed Kalan (The Key of Divine Oneness)
+* Divan of Bahu [[Amazon](https://amzn.to/3slACqw)]
+* The Spirit of al-Faqr - Translation of Ain al-Faqr [[Amazon](https://amzn.to/2QGizxr), [PDF](https://drive.google.com/uc?export=download&id=0B71d4H4pfX70ZlZTWXFDbzZPMWM)]
+* Kashf-ul-Asrar (Revelation of The Divine Secrets) [[Amazon](https://amzn.to/39dEKBl), [PDF](https://drive.google.com/uc?export=download&id=0B71d4H4pfX70QWd2NmIzVXpGcDg)]
+* Risala Roohi Sharif ( The Divine Soul) [[Amazon](https://amzn.to/3m01Uk1), [PDF](https://drive.google.com/uc?export=download&id=0B71d4H4pfX70U0VPVHVVWmpXM1E)]
+* Death before Dying: The Sufi Poems of Sultan Bahu [[Amazon](https://amzn.to/31dpccm), [PDF](https://drive.google.com/file/d/1hFO6saJ6zIbYJlOfZuNA0uL7L7pAzi52/view?usp=sharing)]
+* Qurb e Deedar (Closeness to the Vision of Allah) [[PDF](https://drive.google.com/uc?export=download&id=1RNd0iWyC9RQrpGHoWzhLZ-eYbWzu0xat)]
+* The Perfect Spiritual Guide [[Amazon](https://amzn.to/3sjSpOU), [PDF](https://drive.google.com/uc?export=download&id=0B71d4H4pfX70SUFoZ1dZTGtJWVU)]
+* Ameer-ul-Kaunain (The Master of Worlds) [[Amazon](https://amzn.to/2P2R6Fq), [PDF](https://drive.google.com/uc?export=download&id=0B71d4H4pfX70dmVzVjBOX3dlRVU)]
+* Ganj-ul-Asrar (The Treasure of Divine Secrets) [[Amazon](https://amzn.to/3chVjhu), [PDF](https://drive.google.com/uc?export=download&id=0B71d4H4pfX70eGVpd3IyOUQ4Wlk)]
+* Ganj-e-Deen (Treasure of The Religion) [[PDF](https://drive.google.com/uc?export=download&id=1DG6QcPOjBgJ365RteFdkTA7Dkg3aWwYG)]
+* Kaleed-ul-Tauheed Kalan (The Key of Divine Oneness) [[PDF](https://drive.google.com/uc?export=download&id=1OkE1gFqXqUiZfhEj3XYoyJ0N_Sxo1Fju)]
 
 ### Faiz Ahmad Faiz
 
-* Poems By Faiz (Oip)
-* The Colours of My Heart: Selected Poems
-* 100 Poems by Faiz Ahmed Fiza
-* The True Subject:: Selected Poems of Faiz Ahmed Faiz
+* Poems By Faiz (Oip) [[Amazon](https://amzn.to/3rkcYt2), [PDF](http://library.lol/main/130F9F66455EC30905154E05587EA982)]
+* The Colours of My Heart: Selected Poems [[Amazon](https://amzn.to/3smRw7Y), [PDF](http://library.lol/main/8FB1BA1E32E9DBB9715F4F1DA08FBCB0)]
+* 100 Poems by Faiz Ahmed Fiza [[Amazon](https://amzn.to/3lMNnI0)]
+* The True Subject:: Selected Poems of Faiz Ahmed Faiz [[Amazon](https://amzn.to/2P3R7ZT), [PDF](http://library.lol/main/12D528C50AA7B67FAB69D33070437FBE)]
 
 ### Mirza Ghalib
 
-* Ghalib: Selected Poems and Letters
-* Love Sonnets of Ghalib
-* Ghalib: English Translation of Mirza Ghalib’s popular Urdu couplets
-* Ghalib: 1797-1869: Life and Letters
+* Ghalib: Selected Poems and Letters [[Amazon](https://amzn.to/3rjwE0h), [PDF](http://library.lol/main/492400C84066671CACC487E757448BE3)]
+* Love Sonnets of Ghalib [[Amazon](https://amzn.to/31hpFdG), [PDF](https://archive.org/download/love-sonnets-of-ghalib-dr.-sarfaraz-k.-niazi/Love%20sonnets%20of%20Ghalib%20-%20Dr.%20Sarfaraz%20K.%20Niazi.pdf)]
+* Ghalib: English Translation of Mirza Ghalib’s popular Urdu couplets [[Amazon](https://amzn.to/399SJYH)]
+* Ghalib: 1797-1869: Life and Letters [[Amazon](https://amzn.to/3tMKWba)]
 
 ### Kabir
 
 * Songs of Kabir by Rabindranath Tagore [[Amazon](https://amzn.to/38bXLUp), [PDF](https://drive.google.com/file/d/1Y5xMu3Q9igw842Ia_WTMjXLEcYu7FKtm/view)]
-* Ocean of Love: The Anurag Sagar of Kabir
-* Kabir: The Weaver's Songs
-* The Poetry Of Kabir: “All know that the drop merges into the ocean, but few know that the ocean merges into the drop.”
+* Ocean of Love: The Anurag Sagar of Kabir [[Amazon](https://amzn.to/3rieCLW), [PDF](http://library.lol/main/98CA7495960AFD9FF8A2B1D439512C17)]
+* Kabir: The Weaver's Songs [[Amazon](https://amzn.to/31dsOes), [PDF](http://library.lol/main/97133552E95BA7C95D79FC36CA9F8179)]
+* The Poetry Of Kabir: “All know that the drop merges into the ocean, but few know that the ocean merges into the drop.” [[Amazon](https://amzn.to/31dsXi0)]
 
 ### Poetry
 
@@ -530,12 +530,11 @@
   * [Mystic's Paradise](https://www.youtube.com/channel/UCXuuRCoo_YO3za305btUoqw)
 * In the Garden of The Beloved [[Website](https://gardenofthebeloved.com/)]
 * The Prophet by Kahlil Gibran [[Amazon](https://amzn.to/3lzIeTw), [PDF](https://archive.org/download/in.ernet.dli.2015.536146/2015.536146.TheProphet1923.pdf)]
-* The Drunken Universe: An Anthology of Persian Sufi Poetry
-* Hallaj: Poems of a Sufi Martyr
-* Psalms of Gods by Moulana Shah Maghsoud
-* The Book of Abdul-Qader Bedil
-* Umar Ibn Al-Farid: Sufi Verse, Saintly Life
-* The Walled Garden of Truth: The Hadiqa
+* The Drunken Universe: An Anthology of Persian Sufi Poetry [[Amazon](https://amzn.to/3fdL0wW), [PDF](https://archive.org/details/drunkenuniverse00pete)]
+* Hallaj: Poems of a Sufi Martyr [[Amazon](https://amzn.to/31h8KrO)]
+* Psalms of Gods by Moulana Shah Maghsoud [[Amazon](https://amzn.to/3claRkx)]
+* The Book of Abdul-Qader Bedil [[Amazon](https://amzn.to/3dkeOFB)]
+* Umar Ibn Al-Farid: Sufi Verse, Saintly Life [[Amazon](https://amzn.to/3smUb1s)]
 
 ### Others
 
