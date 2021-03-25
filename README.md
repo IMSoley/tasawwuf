@@ -514,6 +514,14 @@
 * Kabir: The Weaver's Songs [[Amazon](https://amzn.to/31dsOes), [PDF](http://library.lol/main/97133552E95BA7C95D79FC36CA9F8179)]
 * The Poetry Of Kabir: “All know that the drop merges into the ocean, but few know that the ocean merges into the drop.” [[Amazon](https://amzn.to/31dsXi0)]
 
+### Ibrahim Niass
+
+* The Spirit of Good Morals
+* Pearls from the Flood: Select Insight of Shaykh al-Islam Ibrahim Niasse
+* The Removal of Confusion Concerning the Flood of the Saintly Seal Ahmad al-Tijani
+* The Stations Of The Religion: A description of the steps of SPiritual Wayfaring
+* In the Meadows of Tafsir for the Noble Quran
+
 ### Poetry
 
 * Poems by Hazrat Rabia Basri [[PDF](https://www.poemhunter.com/i/ebooks/pdf/rabia_al_basri_2012_5.pdf)]
