@@ -1,5 +1,5 @@
 <span align="center">
-<h2><i>Seeking Truth</i></h2>
+<h2>Seeking Truth</h2>
 </span>
 
 <span align="center">
