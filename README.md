@@ -761,14 +761,6 @@
 
 <span align="center">
 
-<i>
-Books-en: 409;
-Lectures: 22;
-Tafsir: 8;
-Papers: 20;
-Articles: 4;
-Websites: 8;
-Books-bn: 22
-</i>
+ <i>Books-en: 409; Lectures: 22; Tafsir: 8; Papers: 20; Articles: 4; Websites: 8; Books-bn: 22</i>
 
 </span>
