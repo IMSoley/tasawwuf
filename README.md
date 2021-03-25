@@ -65,6 +65,7 @@
   <li><a href="#faiz-ahmad-faiz">Faiz Ahmad Faiz</a></li>
   <li><a href="#mirza-ghalib">Mirza Ghalib</a></li>
   <li><a href="#kabir">Kabir</a></li>
+  <li><a href="##ibrahim-niass">Ibrahim Niass</a></li>
   <li><a href="#poetry">Poetry</a></li>
   <li><a href="#others">Others</a></li>
   <li><a href="#commentary-of-the-holy-quran">Commentary of the Holy Quran</a></li>
@@ -336,6 +337,8 @@
 * Salawat of Tremendous Blessings [[Amazon](https://amzn.to/307v8mU)]
 * Muhammad: The Messenger of Islam [[Amazon](https://amzn.to/3sWoY5t)]
 * Fifty Days: the Divine Disclosures During a Holy Sufi Seclusion [[Amazon](https://amzn.to/3sN6Zhp), [PDF](https://archive.org/download/NaqshbandiAliyyaBooks/ShaykhHishamKabbani-FiftyDays.pdf)]
+* In the Shadow of Saints
+* In the Mystic Footsteps of Saints
 
 ### Vilayat Inayat Khan
 
@@ -624,6 +627,32 @@
 * A Sufi Martyr: The Apologia of 'Ain al-Qudat al-Hamadhani
 * Sharafuddin Maneri: The Hundred Letters
 * Sufism: Veil and Quintessence A New Translation with Selected Letters
+* The Course of the Seeker by Omar Ali-Shah
+* Nizami: The Treasury of Mysteries
+* The Enclosed Garden of the Truth
+* The Teachings and Poems of Khwaja Ghulam Farid
+* Verses of a Lowly Fakir by Madho Lal Hussein
+* Sachal Sarmast by Sachal Chair
+* Seeking the Beloved by Shah Abdul Latif
+* Divine Wisdom: Diwani Hikmet by Hoja Ahmed Yassawi
+* A Mine of Meaning: Ma'din ul-Ma'ani
+* A Collection of Sufi Rules of Conduct
+* Adornment of Hearts by Muzaffer Ozak
+* Khidr in Sufi Poetry: A Selection
+* Muraqaba: Art and Science of Sufi Meditation
+* The Subatomic World in the Qur'an
+* The meaning of man: The foundations of the science of knowledge
+* What the Knowers of Allah have said about the Knowledge of Allah
+* Ibn Ajiba, Two Treatises on the Oneness of Existence
+* The Adab of the True Seeker
+* The Secrets of Ascetism: Being the Third Part of Al-Qasr Al-Hirs
+* The Refinement Of Souls [Taj Al-Arus Al-Hawi Li Tahdhib Al-Nufus]
+* Emir Abd el-Kader: Hero and Saint of Islam
+* Irshad: Wisdom of a Sufi Master
+* Language of the Heart: A Sufi Interpretation of Form (Sura) and Meaning (Mana) in Contemporary Society
+* The Path of Muhammad: A Book on Islamic Morals & Ethics by Imam Birgivi
+* Ibn Khaldun on Sufism: Remedy for the Questioner in Search of Answers
+* The Sufi Path of Annihilation: In the Tradition of Mevlana Jalaluddin Rumi and Hasan Lutfi Shushud
 * Tao Te Ching by Lao Tzu [[Version 1](https://kingauthor.net/books/Derek%20Lin/Tao%20Te%20Ching/Tao%20Te%20Ching%20-%20Derek%20Lin.pdf), [V2](https://taoism.net/tao/wp-content/uploads/2019/07/Accurate-Translation-of-the-Tao-Te-Ching.pdf), [V3](https://www.unl.edu/prodmgr/NRT/Tao%20Te%20Ching%20-%20trans.%20by%20J.H..%20McDonald.pdf), [V4](http://www.sfhunyuan.com/images/TAO_TE_CHING_-_LE_GUIN_edition.pdf), [V5](https://library.oapen.org/bitstream/handle/20.500.12657/41829/9780472901388.pdf?sequence=1&isAllowed=y), [V6](https://www.bu.edu/religion/files/pdf/Tao_Teh_Ching_Translations.pdf), [V7](https://sourceoflightmonastery.tripod.com/webonmediacontents/1935012.pdf), [V8](http://www.beatrice.com/TAO.pdf)]
 
 ### Commentary of the Holy Quran
@@ -635,6 +664,7 @@
 * Kashf al-Asrar: The Unveiling of the Mysteries by Rashid al-Din Maybudi [[Amazon](https://amzn.to/388b33V), [PDF](https://www.altafsir.com/Books/kashf.pdf)]
 * The Message of the Qur'an by Muhammad Asad [[Amazon](https://amzn.to/2NT2Eus), [PDF](http://www.muhammad-asad.com/Message-of-Quran.pdf)]
 * Sufi Commentaries on the Qur'an in Classical Islam [[Amazon](https://amzn.to/38TzEtG), [PDF](http://library.lol/main/53DDB64B397D2A064C9E601E3D02BC9C)]
+* The Lamp of Mysteries: A Commentary on the Light Verse of the Quran
 
 ### Lectures
 
