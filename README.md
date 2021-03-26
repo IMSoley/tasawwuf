@@ -136,7 +136,7 @@
 * The Tree of Being: An Ode to the Perfect Man [[Amazon](https://amzn.to/2ZP1OB7), [PDF](https://archive.org/download/ibnarabithetreeofbeingshajaratalkawnanodetotheperfectmaninterpretedbyshaykhtosun/IBN%20%27ARABI%20The%20Tree%20of%20Being%2C%20Shajarat%20al-kawn%2C%20An%20Ode%20to%20the%20Perfect%20Man%2C%20Interpreted%20by%20Shaykh%20Tosun%20Bayrak%20al-Jerrahi%20al-Halveti.pdf)]
 * The Seal of the Saints: Prophethood and Sainthood in the Doctrine of Ibn Arabi [[Amazon](https://amzn.to/37BuQJ1), [PDF](https://archive.org/download/ChodkiewiczSealOfTheSaints/Chodkiewicz%20-%20Seal%20of%20the%20Saints.pdf)]
 * Lectures
-  * [Insights from (Muhyiddin) Ibn Arabi](https://www.youtube.com/playlist?list=PLMDZGtTNGHpENB2Ylrf3n84I-NQmAt_Xd)
+  * Insights from (Muhyiddin) Ibn Arabi [[Playlist](https://www.youtube.com/playlist?list=PLMDZGtTNGHpENB2Ylrf3n84I-NQmAt_Xd)]
 * The Sufis of Andalusia: The Ruh al-quds and al-Durrat al-Fakhirah [[Amazon](https://amzn.to/2OzUVRS), [PDF](http://library.lol/main/D316BABC30F8A9CBA3B165AAE243EBDB)]
 * Mystical Astrology According to Ibn 'Arabi [[Amazon](https://amzn.to/3aLdQSq), [PDF](http://traditionalhikma.com/wp-content/uploads/2015/02/Mystical-Astrology-According-to-Ibn-Arabi-by-Titus-Burckhardt.pdf)]
 * Contemplation of the Holy Mysteries and the Rising of the Divine Lights [[Amazon](https://amzn.to/3sk8aF0), [PDF](https://archive.org/download/ContemplationOfTheHolyMysteriesAndTheRisingOfTheDivineLights/contemplation%20of%20the%20holy%20mysteries%20and%20the%20rising%20of%20the%20divine%20lights.pdf)]
@@ -178,8 +178,8 @@
 * Open Secret: Versions of Rumi [[Amazon](https://amzn.to/3qfJQms), [PDF](https://archive.org/details/opensecret00john)]
 * This Longing: Poetry, Teaching Stories, and Letters of Rumi [[Amazon](https://amzn.to/3e52k6u)]
 * Lectures
-  * [The Spiritual Practice of Rumi by Mahmoud Mostafa](https://www.youtube.com/watch?v=I1_r034y2lM)
-  * [Sufism: Whats Love Got To Do With It? by Mahmoud Mostafa](https://www.youtube.com/watch?v=pB24AcGzC_s)
+  * The Spiritual Practice of Rumi by Mahmoud Mostafa [[Video](https://www.youtube.com/watch?v=I1_r034y2lM)]
+  * Sufism: Whats Love Got To Do With It? by Mahmoud Mostafa [[Video](https://www.youtube.com/watch?v=pB24AcGzC_s)]
 * Rumi's Use of the Qur’an and Hadith [[PDF](https://drive.google.com/file/d/0B2GU1ZyPbqVlOVVvUEFpcDczUXM/view)]
 * The Secret Meaning: Rumi's Spiritual Lessons on Sufism [[PDF](https://drive.google.com/file/d/1Ue6L51932LNqBArG3p0lS3is8-E6LlPe/view)]
 * The Life and Work of Jalaluddin Rumi by Afzal Iqbal [[Amazon](https://amzn.to/3kgrOyN), [PDF](https://archive.org/details/TheLifeAndWorkOfJalalUdDinRumibyAfzalIqbal_201902)]
@@ -337,8 +337,8 @@
 * Salawat of Tremendous Blessings [[Amazon](https://amzn.to/307v8mU)]
 * Muhammad: The Messenger of Islam [[Amazon](https://amzn.to/3sWoY5t)]
 * Fifty Days: the Divine Disclosures During a Holy Sufi Seclusion [[Amazon](https://amzn.to/3sN6Zhp), [PDF](https://archive.org/download/NaqshbandiAliyyaBooks/ShaykhHishamKabbani-FiftyDays.pdf)]
-* In the Shadow of Saints
-* In the Mystic Footsteps of Saints
+* In the Shadow of Saints [[Amazon](https://amzn.to/31l76oV)]
+* In the Mystic Footsteps of Saints [[Amazon-Vol-1](https://amzn.to/31mDY0s), [PDF-Vol-1](https://pdfcoffee.com/pdfviewer/web/viewer.html?file=https%3A%2F%2Fpdfcoffee.com%2Fdownload%2Fin-the-mystic-footsteps-of-saints-vol-1-shaykh-nazim-al-haqqani-2-pdf-free.html%3Freader%3D1), [Amazon-V2](https://amzn.to/3lUjrKe), [PDF-V2](https://naqshbandi.org/wp-content/uploads/2018/11/ShaykhNazimHaqqani-InTheMysticFootstepsOfSaintsVol2.pdf)]
 
 ### Vilayat Inayat Khan
 
@@ -519,11 +519,11 @@
 
 ### Ibrahim Niass
 
-* The Spirit of Good Morals
-* Pearls from the Flood: Select Insight of Shaykh al-Islam Ibrahim Niasse
-* The Removal of Confusion Concerning the Flood of the Saintly Seal Ahmad al-Tijani
-* The Stations Of The Religion: A description of the steps of SPiritual Wayfaring
-* In the Meadows of Tafsir for the Noble Quran
+* The Spirit of Good Morals [[Amazon](https://amzn.to/3cr0trD), [PDF](https://www.faidha.net/books/ruhul_adab.pdf)]
+* Pearls from the Flood: Select Insight of Shaykh al-Islam Ibrahim Niasse [[Amazon](https://amzn.to/2Px5HJm)]
+* The Removal of Confusion Concerning the Flood of the Saintly Seal Ahmad al-Tijani [[Amazon](https://amzn.to/2Pr6P10), [PDF](https://archive.org/download/TheRemovalOfConfusion.ConcerningTheFloodOfTheSaitlySealTijaniATranslationOfKashi/The%20removal%20of%20confusion.%20Concerning%20the%20flood%20of%20the%20saitly%20seal%20Tijani%20-%20a%20translation%20of%20Kashif%20al-ilbas%20an%20fajdat%20by%20Ibrahim%20Niass.pdf)]
+* The Stations Of The Religion: A description of the steps of SPiritual Wayfaring [[Amazon](https://amzn.to/3ffH7aA)]
+* In the Meadows of Tafsir for the Noble Quran [[Amazon](https://amzn.to/3rqWFeb)]
 
 ### Poetry
 
@@ -622,37 +622,37 @@
 * Journey Through Ten Thousand Veils: The Alchemy of Transformation on the Sufi Path by Maryam Kabeer Faye [[Amazon](https://amzn.to/3uVLZqG)]
 * Getting Started Finding Your Way Along The Path [[PDF](https://sufiuniversity.org/wp/wp-content/uploads/2016/08/Getting-Started-1st-edition-2016-Final.compressed.pdf)]
 * The Alchemy of the Heart by Reshad Feild [[Amazon](https://amzn.to/30j0F5a), [PDF](https://archive.org/details/sufismalchemyofh00sanf/)]
-* Stay With God: A Statement in Illusion on Reality by Francis Brabazon
-* In Dust I Sing by Francis Brabazon
-* A Sufi Martyr: The Apologia of 'Ain al-Qudat al-Hamadhani
-* Sharafuddin Maneri: The Hundred Letters
-* Sufism: Veil and Quintessence A New Translation with Selected Letters
-* The Course of the Seeker by Omar Ali-Shah
-* Nizami: The Treasury of Mysteries
-* The Enclosed Garden of the Truth
-* The Teachings and Poems of Khwaja Ghulam Farid
-* Verses of a Lowly Fakir by Madho Lal Hussein
-* Sachal Sarmast by Sachal Chair
-* Seeking the Beloved by Shah Abdul Latif
-* Divine Wisdom: Diwani Hikmet by Hoja Ahmed Yassawi
-* A Mine of Meaning: Ma'din ul-Ma'ani
-* A Collection of Sufi Rules of Conduct
-* Adornment of Hearts by Muzaffer Ozak
-* Khidr in Sufi Poetry: A Selection
-* Muraqaba: Art and Science of Sufi Meditation
-* The Subatomic World in the Qur'an
-* The meaning of man: The foundations of the science of knowledge
-* What the Knowers of Allah have said about the Knowledge of Allah
-* Ibn Ajiba, Two Treatises on the Oneness of Existence
-* The Adab of the True Seeker
-* The Secrets of Ascetism: Being the Third Part of Al-Qasr Al-Hirs
-* The Refinement Of Souls [Taj Al-Arus Al-Hawi Li Tahdhib Al-Nufus]
-* Emir Abd el-Kader: Hero and Saint of Islam
-* Irshad: Wisdom of a Sufi Master
-* Language of the Heart: A Sufi Interpretation of Form (Sura) and Meaning (Mana) in Contemporary Society
-* The Path of Muhammad: A Book on Islamic Morals & Ethics by Imam Birgivi
-* Ibn Khaldun on Sufism: Remedy for the Questioner in Search of Answers
-* The Sufi Path of Annihilation: In the Tradition of Mevlana Jalaluddin Rumi and Hasan Lutfi Shushud
+* Stay With God: A Statement in Illusion on Reality by Francis Brabazon [[Amazon](https://amzn.to/3tTLV9K)]
+* In Dust I Sing by Francis Brabazon [[Amazon](https://amzn.to/3fgag5v), [PDF](https://ambppct.org/Book_Files/InDustISing.pdf)]
+* A Sufi Martyr: The Apologia of 'Ain al-Qudat al-Hamadhani [[Amazon](https://amzn.to/3tWbg2J), [PDF](https://archive.org/download/ArberryAJASufiMartyrTheApologiaOfAinAlQudatAlHamadhani/Arberry-A-J-a-Sufi-Martyr-the-Apologia-of-Ain-Al-Qudat-Al-Hamadhani.pdf)]
+* Sharafuddin Maneri: The Hundred Letters [[Amazon](https://amzn.to/31kObdN), [PDF](https://archive.org/details/the-hundred-letters-sharafuddin-maneri)]
+* Sufism: Veil and Quintessence A New Translation with Selected Letters [[Amazon](https://amzn.to/3fgjJcV), [PDF](http://traditionalhikma.com/wp-content/uploads/2015/07/Sufism-Veil-and-Quintessence-by-Frithjof-Schuon.pdf)]
+* The Course of the Seeker by Omar Ali-Shah [[Amazon](https://amzn.to/3vZ9i3r)]
+* Nizami: The Treasury of Mysteries [[Amazon](https://amzn.to/3rqEBAE), [PDF](https://archive.org/download/NizamiMakhzanolAsrarTreasuryOfMysteries/Nizami%2C%20Makhzanol%20Asrar%20%28Treasury%20of%20Mysteries%29.pdf)]
+* The Enclosed Garden of the Truth [[Amazon](https://amzn.to/39hPDCb), [PDF](https://archive.org/download/firstbookofhadiq00sanauoft/firstbookofhadiq00sanauoft.pdf)]
+* The Teachings and Poems of Khwaja Ghulam Farid [[Amazon](https://amzn.to/3vZQ4uH)]
+* Verses of a Lowly Fakir by Madho Lal Hussein [[Amazon](https://amzn.to/3d80b7V)]
+* Sachal Sarmast by Sachal Chair [[Amazon](https://amzn.to/3w4mFzg)]
+* Seeking the Beloved by Shah Abdul Latif [[Amazon](https://amzn.to/3lUs6fR)]
+* Divine Wisdom: Diwani Hikmet by Hoja Ahmed Yassawi [[Amazon](https://amzn.to/31i9kp8)]
+* A Mine of Meaning: Ma'din ul-Ma'ani [[Amazon](https://amzn.to/3wah8Yn)]
+* A Collection of Sufi Rules of Conduct [[Amazon](https://amzn.to/3sCCaMI)]
+* Adornment of Hearts by Muzaffer Ozak [[Amazon](https://amzn.to/31z350p), [PDF](https://archive.org/details/adornmentofheart00muza)]
+* Khidr in Sufi Poetry: A Selection [[Amazon](https://amzn.to/3u0a8Lp)]
+* Muraqaba: Art and Science of Sufi Meditation [[Amazon](https://amzn.to/3u14KrJ), [PDF](https://drive.google.com/file/d/1E92qvBN0vKfmKE21-fIieNdDZQDJCmSJ/view?usp=sharing)]
+* The Subatomic World in the Qur'an [[Amazon](https://amzn.to/3ftPXSr)]
+* The meaning of man: The foundations of the science of knowledge [[Amazon](https://amzn.to/3lVnxSw)]
+* What the Knowers of Allah have said about the Knowledge of Allah [[Amazon](https://amzn.to/39dReZG)]
+* Ibn Ajiba, Two Treatises on the Oneness of Existence [[Amazon](https://amzn.to/2P85v3j)]
+* The Adab of the True Seeker [[Amazon](https://amzn.to/3tVJ7J9)]
+* The Secrets of Ascetism: Being the Third Part of Al-Qasr Al-Hirs [[Amazon](https://amzn.to/3w10qKC)]
+* The Refinement Of Souls [Taj Al-Arus Al-Hawi Li Tahdhib Al-Nufus] [[Amazon](https://amzn.to/3cqwvns)]
+* Emir Abd el-Kader: Hero and Saint of Islam [[Amazon](https://amzn.to/3spxGsX)]
+* Irshad: Wisdom of a Sufi Master [[Amazon](https://amzn.to/3dcXfa6)]
+* Language of the Heart: A Sufi Interpretation of Form (Sura) and Meaning (Mana) in Contemporary Society [[Amazon](https://amzn.to/3cn0dtC)]
+* The Path of Muhammad: A Book on Islamic Morals & Ethics by Imam Birgivi [[Amazon](https://amzn.to/3rrIB41), [PDF](https://archive.org/download/ThePathOfMuhammad.ABookOnIslamicMoralsEthicsByImamBirgiviByTosunBayrak/The%20Path%20of%20Muhammad.%20A%20Book%20on%20Islamic%20Morals%20%26%20Ethics%20by%20Imam%20Birgivi%20by%20Tosun%20Bayrak.pdf)]
+* Ibn Khaldun on Sufism: Remedy for the Questioner in Search of Answers [[Amazon](https://amzn.to/31pfJi4), [PDF](https://drive.google.com/file/d/11740QsWDOVyD9s53bQGq5LbTlLIb1AZ2/view?usp=sharing)]
+* The Sufi Path of Annihilation: In the Tradition of Mevlana Jalaluddin Rumi and Hasan Lutfi Shushud [[Amazon](https://amzn.to/3cmPGOT)]
 * Tao Te Ching by Lao Tzu [[Version 1](https://kingauthor.net/books/Derek%20Lin/Tao%20Te%20Ching/Tao%20Te%20Ching%20-%20Derek%20Lin.pdf), [V2](https://taoism.net/tao/wp-content/uploads/2019/07/Accurate-Translation-of-the-Tao-Te-Ching.pdf), [V3](https://www.unl.edu/prodmgr/NRT/Tao%20Te%20Ching%20-%20trans.%20by%20J.H..%20McDonald.pdf), [V4](http://www.sfhunyuan.com/images/TAO_TE_CHING_-_LE_GUIN_edition.pdf), [V5](https://library.oapen.org/bitstream/handle/20.500.12657/41829/9780472901388.pdf?sequence=1&isAllowed=y), [V6](https://www.bu.edu/religion/files/pdf/Tao_Teh_Ching_Translations.pdf), [V7](https://sourceoflightmonastery.tripod.com/webonmediacontents/1935012.pdf), [V8](http://www.beatrice.com/TAO.pdf)]
 
 ### Commentary of the Holy Quran
@@ -761,6 +761,6 @@
 
 <span align="center">
 
- <i>Books-en: 409; Lectures: 22; Tafsir: 8; Papers: 20; Articles: 4; Websites: 8; Books-bn: 22</i>
+ <i>Books-en: 409; Lectures: 22; Tafsir: 9; Papers: 20; Articles: 4; Websites: 8; Books-bn: 22</i>
 
 </span>
