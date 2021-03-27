@@ -745,7 +745,11 @@
   * Philosophy of the Holy Quran
   * Moshjid Dorshon [[PDF](https://drive.google.com/file/d/1-vNRBo72D0EhHi75YWoi1AhMiOPIhIT0/view?usp=sharing)]
   * Sheam Dorshon [[PDF](https://drive.google.com/file/d/1sctOECi6cyG5p3ewF0TFNEVgxt-M4edk/view?usp=sharing)]
-  * Quran Dorson - Three books
+  * Quran Dorson - [[PDF-B2](https://drive.google.com/file/d/1pB-y4GA-Aa4MzQ69nzsvu4n8XaWkM33x/view?usp=sharing)]
+  * Ahl al Bayt er Porichoy [[PDF](https://drive.google.com/file/d/1zwDckezWdy9Gthazv9CPxWy2YreIQMv4/view?usp=sharing)]
+  * Sura Hashr [[PDF](https://drive.google.com/file/d/1XzDIuwSyB2cqjgZahtoWjZ5IWbbeyrpT/view?usp=sharing)]
+  * Sura Fatiha [[PDF](https://drive.google.com/file/d/1beBWBeANY5Y3OkdBpKftcbbLzKpMQLvw/view?usp=sharing)]
+  * Mawlar Abhishek [[PDF](https://drive.google.com/file/d/1McIoi4cV2ZmCkkonjOen2LIG3eD60CuA/view?usp=sharing)]
 * Others
   * Mohagurur Mohakal [[PDF](https://drive.google.com/file/d/1-yPoUM3NM7jgHUwIxciQGcszzGtFQUe4/view?usp=sharing)]
   * Haramani by Mansuruddin Muhammad [[PDF](https://upload.wikimedia.org/wikisource/bn/7/72/%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%A3%E0%A6%BF_-_%E0%A6%AE%E0%A7%81%E0%A6%B9%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%A6_%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A7%81%E0%A6%B0_%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%A8.pdf)]
@@ -761,6 +765,6 @@
 
 <span align="center">
 
- <i>Books-en: 409; Lectures: 22; Tafsir: 9; Papers: 20; Articles: 4; Websites: 8; Books-bn: 22</i>
+ <i>Books-en: 409; Lectures: 22; Tafsir: 9; Papers: 20; Articles: 4; Websites: 8; Books-bn: 26</i>
 
 </span>
