@@ -55,7 +55,7 @@
   <li><a href="#khaja-khan">Khaja Khan</a></li>
   <li><a href="#nuh-ha-mim-keller">Nuh Ha MIM Keller</a></li>
   <li><a href="#shaykh-azad-rasool">Shaykh Azad Rasool</a></li>
-  <li><a href="#camille-adams-helminski">Camille Adams Helminski</a></li>
+  <li><a href="#camille-adams-helminski">Camille Helminski</a></li>
   <li><a href="#shaykh-muhammad-al-jamal">Muhammad al-Jamal</a></li>
   <li><a href="#shaikh-ahmad-al-alawi">Ahmad Al Alawi</a></li>
   <li><a href="#martin-lings">Martin Lings</a></li>
@@ -72,6 +72,7 @@
   <li><a href="#lectures">Lectures</a></li>
   <li><a href="#papers">Research Papers</a></li>
   <li><a href="#blog--website">Blog & Website</a></li>
+  <li><a href="#meditation">Meditation</a></li>
   <li><a href="#bangla-books">Bangla Books</a></li>
  </ol>
 </td>
@@ -123,7 +124,6 @@
 
 * Alone With the Alone [[Amazon](https://amzn.to/2P55xsp), [PDF](https://archive.org/download/byhenrycorbin/Henry%20Corbin%20-%20Alone%20with%20the%20Alone.pdf)]
 * A Prayer for Spiritual Elevation and Protection [[Amazon](https://amzn.to/3bBx1gG), [PDF](https://ia600304.us.archive.org/24/items/APrayerForSpiritualElevationAndProtectionIBNARABI/A%20Prayer%20for%20Spiritual%20Elevation%20and%20Protection%20IBN%20ARABI.pdf)]
-* Journey to the Lord of Power: A Sufi Manual on Retreat [[Amazon](https://amzn.to/37IZ7FU), [PDF](https://archive.org/download/JourneyToTheLordOfPowerRisalatAlAnwarFimaYunahSahibAlKhalwaMinAlAsrarByIbnArabi/Journey%20to%20the%20Lord%20of%20Power%20%28Risalat%20al-anwar%20fima%20yunah%20sahib%20al-khalwa%20min%20al-asrar%29%20by%20Ibn%20Arabi.pdf)]
 * Know yourself an explanation of the oneness of being [[Amazon](https://amzn.to/3spCSg7), [PDF](https://b-ok.asia/book/4996314/ddc76d?regionChanged=&redirect=184930719)]
 * The Seven Days of the Heart [[Amazon](https://amzn.to/3aM3wtz), [PDF](https://archive.org/download/AboutIslamInEnglish_20151119/SevenDaysOfTheHeart_Ibn_Al_Arabi_Prayers.pdf)]
 * What the Seeker Needs: Essays on Spiritual Practice, Oneness, Majesty and Beauty [[Amazon](https://amzn.to/3ut7PSb), [Additional](http://www.sufi.ir/books/download/english/ibn-arabi-en/what-the-seekers-need-en.pdf), [Additional](https://www.ibnarabisociety.org/wp-content/uploads/PDFs/Morris_Book-of-quintessence.pdf)]
@@ -227,7 +227,6 @@
 
 * Biography Of Hazrat Khwaja Moinuddin Hassan Chishty [[PDF](https://archive.org/download/in.ernet.dli.2015.101331/2015.101331.Oly-Biography-Of-Hazrath-Khwaja-Muinuddin-Hasan-Chishti.pdf)]
 * Companions of the Souls (Anees-ul-Arwah) [[PDF](https://drive.google.com/file/d/0B-xoJhPw_5PNYURlaXpRZWplYWc/view)]
-* The Meditations of Khawaja Muinuddin Hasan Chishti [[Amazon](https://amzn.to/3q3l7kQ)]
 * 'Be Present in Every Moment': Life Lessons from Moinuddin Chishti [[Amazon](https://amzn.to/2PjR9wy)]
 
 ### Imam Ibn Qayyim Al-Jawziyyah
@@ -292,7 +291,6 @@
 
 * The Heart of Sufism: Essential Writings of Hazrat Inayat Khan [[Amazon](https://amzn.to/3r7Xg59), [PDF](http://library.lol/main/6255DB5B049197B0CFB034B786F88832)]
 * The Mysticism of Sound and Music [[Amazon](https://amzn.to/2Of7j9H)]
-* The Art of Being and Becoming [[Amazon](https://amzn.to/3uDb75D), [PDF](http://library.lol/main/E2051D098B49A8EE4ED5A3A7B3AEDE91)]
 * The Inner Life [[Amazon](https://amzn.to/3bIKS4Q), [Online](https://ruhaniat.org/index.php/major-papers/inner-life/2180-the-inner-life-of-pir-o-murshid-hazrat-inayat-khan-with-commentary)]
 * Mastery Through Accomplishment [[Amazon](https://amzn.to/3sBFK9E), [PDF](http://library.lol/main/254929EC1C6C038E1A355027F3177839)]
 * Spiritual Dimensions of Psychology [[Amazon](https://amzn.to/3raEyKe), [PDF](http://library.lol/main/847A6AF9344C9D35545276BC4246D0F6)]
@@ -309,11 +307,8 @@
 
 ### Nurjan Mirahmadi
 
-* Levels of the Heart - Lataif al Qalb [[Amazon](https://amzn.to/3bSG9xH)]
 * Rising Sun of the West: Kitab al Irshad - The Book of Spiritual Guidance [[Amazon](https://amzn.to/3sGS5t9)]
-* The Healing Power of Sufi Meditation [[Amazon](https://amzn.to/384AvYd), [PDF](https://archive.org/download/NaqshbandiAliyyaBooks/NurjanMirahmadi-SufiMeditation.pdf)]
 * YASEEN: Prophet (PBUH) is the Walking Quran [[Amazon](https://amzn.to/3rbC3XM)]
-* In Pursuit of Angelic Power: A Path Towards Divine Healing Energy [[Amazon](https://amzn.to/2NWWmtR)]
 * Insan al Kamil - The Universal Perfect Being [[Amazon](https://amzn.to/3bT7906)]
 * Secret Realities of Hajj [[Amazon](https://amzn.to/383GJrd)]
 
@@ -421,7 +416,6 @@
 
 * The Knowing Heart: A Sufi Path of Transformation [[Amazon](https://amzn.to/30bd8rv)]
 * In the House of Remembering: The Living Tradition of Sufi Teaching [[Amazon](https://amzn.to/2OhjuD5)]
-* Living Presence (Revised): The Sufi Path to Mindfulness and the Essential Self [[Amazon](https://amzn.to/3bclaGS), [PDF](http://library.lol/main/C4BED5951CB5FDA4F6901E128D51BC73)]
 
 ### Khaja Khan
 
@@ -639,7 +633,6 @@
 * A Collection of Sufi Rules of Conduct [[Amazon](https://amzn.to/3sCCaMI)]
 * Adornment of Hearts by Muzaffer Ozak [[Amazon](https://amzn.to/31z350p), [PDF](https://archive.org/details/adornmentofheart00muza)]
 * Khidr in Sufi Poetry: A Selection [[Amazon](https://amzn.to/3u0a8Lp)]
-* Muraqaba: Art and Science of Sufi Meditation [[Amazon](https://amzn.to/3u14KrJ), [PDF](https://drive.google.com/file/d/1E92qvBN0vKfmKE21-fIieNdDZQDJCmSJ/view?usp=sharing)]
 * The Subatomic World in the Qur'an [[Amazon](https://amzn.to/3ftPXSr)]
 * The meaning of man: The foundations of the science of knowledge [[Amazon](https://amzn.to/3lVnxSw)]
 * What the Knowers of Allah have said about the Knowledge of Allah [[Amazon](https://amzn.to/39dReZG)]
@@ -725,6 +718,30 @@
 * Naqshbandi: The Muhammadan Reality, e-books [[Website](https://www.nurmuhammad.com/free-sufi-e-books-online/)]
 * Haluk Berkmen, Ph.D. (Physics) [[Website](http://www.halukberkmen.net/en/articles.php)]
 
+### Meditation
+
+* The Healing Power of Sufi Meditation by Nurjan Mirahmadi [[Amazon](https://amzn.to/384AvYd), [PDF](https://archive.org/download/NaqshbandiAliyyaBooks/NurjanMirahmadi-SufiMeditation.pdf)]
+* Muraqaba: Art and Science of Sufi Meditation [[Amazon](https://amzn.to/3u14KrJ), [PDF](https://drive.google.com/file/d/1E92qvBN0vKfmKE21-fIieNdDZQDJCmSJ/view?usp=sharing)]
+* Sufi Meditation and Contemplation: Timeless Wisdom from Mughal India
+* The Sufi Book of Life: 99 Pathways of the Heart for the Modern Dervish
+* Living Presence (Revised): The Sufi Path to Mindfulness and the Essential Self [[Amazon](https://amzn.to/3bclaGS), [PDF](http://library.lol/main/C4BED5951CB5FDA4F6901E128D51BC73)]
+* Sufi Meditation (Lights of Wisdom Series, No. 1)
+* Sufi Light: The Secret of Meditation
+* Levels of the Heart - Lataif al Qalb [[Amazon](https://amzn.to/3bSG9xH)]
+* The Naqshbandi Sufi Way: History and Guidebook of the Saints of the Golden Chain
+* 786 Divine Mind Science - Sufi Meditation
+* In Pursuit of Angelic Power: A Path Towards Divine Healing Energy [[Amazon](https://amzn.to/2NWWmtR)]
+* How to do Sufi Meditation
+* Sufi Martyrs of Love: The Chishti Order in South Asia and Beyond
+* The Ecstasy Beyond Knowing: A Manual of Meditation
+* The Art of Being and Becoming [[Amazon](https://amzn.to/3uDb75D), [PDF](http://library.lol/main/E2051D098B49A8EE4ED5A3A7B3AEDE91)]
+* A Sufi Message of Spiritual Liberty
+* Heart, Self, and Soul: The Sufi Psychology of Growth, Balance, and Harmony
+* The Meditations of Khawaja Muinuddin Hasan Chishti [[Amazon](https://amzn.to/3q3l7kQ)]
+* The Sufi Path of Annihilation: In the Tradition of Mevlana Jalaluddin Rumi and Hasan Lutfi Shushud
+* Journey to the Lord of Power: A Sufi Manual on Retreat [[Amazon](https://amzn.to/37IZ7FU), [PDF](https://archive.org/download/JourneyToTheLordOfPowerRisalatAlAnwarFimaYunahSahibAlKhalwaMinAlAsrarByIbnArabi/Journey%20to%20the%20Lord%20of%20Power%20%28Risalat%20al-anwar%20fima%20yunah%20sahib%20al-khalwa%20min%20al-asrar%29%20by%20Ibn%20Arabi.pdf)]
+* Physicians of the Heart: A Sufi View of the 99 Names of Allah
+
 ### Bangla Books
 
 * Lalon
@@ -765,6 +782,6 @@
 
 <span align="center">
 
- <i>Books-en: 409; Lectures: 22; Tafsir: 9; Papers: 20; Articles: 4; Websites: 8; Books-bn: 26</i>
+ <i>Books-en: 423; Lectures: 22; Tafsir: 9; Papers: 20; Articles: 4; Websites: 8; Books-bn: 26</i>
 
 </span>
