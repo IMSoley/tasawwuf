@@ -645,7 +645,6 @@
 * Language of the Heart: A Sufi Interpretation of Form (Sura) and Meaning (Mana) in Contemporary Society [[Amazon](https://amzn.to/3cn0dtC)]
 * The Path of Muhammad: A Book on Islamic Morals & Ethics by Imam Birgivi [[Amazon](https://amzn.to/3rrIB41), [PDF](https://archive.org/download/ThePathOfMuhammad.ABookOnIslamicMoralsEthicsByImamBirgiviByTosunBayrak/The%20Path%20of%20Muhammad.%20A%20Book%20on%20Islamic%20Morals%20%26%20Ethics%20by%20Imam%20Birgivi%20by%20Tosun%20Bayrak.pdf)]
 * Ibn Khaldun on Sufism: Remedy for the Questioner in Search of Answers [[Amazon](https://amzn.to/31pfJi4), [PDF](https://drive.google.com/file/d/11740QsWDOVyD9s53bQGq5LbTlLIb1AZ2/view?usp=sharing)]
-* The Sufi Path of Annihilation: In the Tradition of Mevlana Jalaluddin Rumi and Hasan Lutfi Shushud [[Amazon](https://amzn.to/3cmPGOT)]
 * Tao Te Ching by Lao Tzu [[Version 1](https://kingauthor.net/books/Derek%20Lin/Tao%20Te%20Ching/Tao%20Te%20Ching%20-%20Derek%20Lin.pdf), [V2](https://taoism.net/tao/wp-content/uploads/2019/07/Accurate-Translation-of-the-Tao-Te-Ching.pdf), [V3](https://www.unl.edu/prodmgr/NRT/Tao%20Te%20Ching%20-%20trans.%20by%20J.H..%20McDonald.pdf), [V4](http://www.sfhunyuan.com/images/TAO_TE_CHING_-_LE_GUIN_edition.pdf), [V5](https://library.oapen.org/bitstream/handle/20.500.12657/41829/9780472901388.pdf?sequence=1&isAllowed=y), [V6](https://www.bu.edu/religion/files/pdf/Tao_Teh_Ching_Translations.pdf), [V7](https://sourceoflightmonastery.tripod.com/webonmediacontents/1935012.pdf), [V8](http://www.beatrice.com/TAO.pdf)]
 
 ### Commentary of the Holy Quran
