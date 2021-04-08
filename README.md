@@ -721,25 +721,25 @@
 
 * The Healing Power of Sufi Meditation by Nurjan Mirahmadi [[Amazon](https://amzn.to/384AvYd), [PDF](https://archive.org/download/NaqshbandiAliyyaBooks/NurjanMirahmadi-SufiMeditation.pdf)]
 * Muraqaba: Art and Science of Sufi Meditation [[Amazon](https://amzn.to/3u14KrJ), [PDF](https://drive.google.com/file/d/1E92qvBN0vKfmKE21-fIieNdDZQDJCmSJ/view?usp=sharing)]
-* Sufi Meditation and Contemplation: Timeless Wisdom from Mughal India
-* The Sufi Book of Life: 99 Pathways of the Heart for the Modern Dervish
+* Sufi Meditation and Contemplation: Timeless Wisdom from Mughal India [[Amazon](https://amzn.to/3up0zWO)]
+* The Sufi Book of Life: 99 Pathways of the Heart for the Modern Dervish [[Amazon](https://amzn.to/3wAu1en)]
 * Living Presence (Revised): The Sufi Path to Mindfulness and the Essential Self [[Amazon](https://amzn.to/3bclaGS), [PDF](http://library.lol/main/C4BED5951CB5FDA4F6901E128D51BC73)]
-* Sufi Meditation (Lights of Wisdom Series, No. 1)
-* Sufi Light: The Secret of Meditation
+* Sufi Meditation (Lights of Wisdom Series, No. 1) [[Amazon](https://amzn.to/3msTEZO)]
+* Sufi Light: The Secret of Meditation [[Amazon](https://amzn.to/39QlASi)]
 * Levels of the Heart - Lataif al Qalb [[Amazon](https://amzn.to/3bSG9xH)]
-* The Naqshbandi Sufi Way: History and Guidebook of the Saints of the Golden Chain
-* 786 Divine Mind Science - Sufi Meditation
+* The Naqshbandi Sufi Way: History and Guidebook of the Saints of the Golden Chain [[Amazon](https://amzn.to/3mvdwve)]
+* 786 Divine Mind Science - Sufi Meditation [[Amazon](https://amzn.to/3fQkpGe)]
 * In Pursuit of Angelic Power: A Path Towards Divine Healing Energy [[Amazon](https://amzn.to/2NWWmtR)]
-* How to do Sufi Meditation
-* Sufi Martyrs of Love: The Chishti Order in South Asia and Beyond
-* The Ecstasy Beyond Knowing: A Manual of Meditation
+* How to do Sufi Meditation [[Amazon](https://amzn.to/39PshUU)]
+* Sufi Martyrs of Love: The Chishti Order in South Asia and Beyond [[Amazon](https://amzn.to/3dLybY6), [PDF](http://library.lol/main/978D68C7161B82D37EF15B8FBD9C8BDB)]
+* The Ecstasy Beyond Knowing: A Manual of Meditation [[Amazon](https://amzn.to/3wEO2k3)]
 * The Art of Being and Becoming [[Amazon](https://amzn.to/3uDb75D), [PDF](http://library.lol/main/E2051D098B49A8EE4ED5A3A7B3AEDE91)]
-* A Sufi Message of Spiritual Liberty
-* Heart, Self, and Soul: The Sufi Psychology of Growth, Balance, and Harmony
+* A Sufi Message of Spiritual Liberty [[Amazon](https://amzn.to/3298trn), [PDF](https://wahiduddin.net/hik/pdf/1914InayatKhanSufiMessageOfSpiritualLiberty.pdf)]
+* Heart, Self, and Soul: The Sufi Psychology of Growth, Balance, and Harmony [[Amazon](https://amzn.to/3dK3lz5)]
 * The Meditations of Khawaja Muinuddin Hasan Chishti [[Amazon](https://amzn.to/3q3l7kQ)]
-* The Sufi Path of Annihilation: In the Tradition of Mevlana Jalaluddin Rumi and Hasan Lutfi Shushud
+* The Sufi Path of Annihilation: In the Tradition of Mevlana Jalaluddin Rumi and Hasan Lutfi Shushud [[Amazon](https://amzn.to/2OvsUvj)]
 * Journey to the Lord of Power: A Sufi Manual on Retreat [[Amazon](https://amzn.to/37IZ7FU), [PDF](https://archive.org/download/JourneyToTheLordOfPowerRisalatAlAnwarFimaYunahSahibAlKhalwaMinAlAsrarByIbnArabi/Journey%20to%20the%20Lord%20of%20Power%20%28Risalat%20al-anwar%20fima%20yunah%20sahib%20al-khalwa%20min%20al-asrar%29%20by%20Ibn%20Arabi.pdf)]
-* Physicians of the Heart: A Sufi View of the 99 Names of Allah
+* Physicians of the Heart: A Sufi View of the 99 Names of Allah [[Amazon](https://amzn.to/3d0MYik), [PDF](https://archive.org/download/PhysiciansOfTheHeart.ViewOfTheNinetyNineNamesOfAllah/Physicians%20of%20the%20Heart.%20View%20of%20the%20Ninety-Nine%20Names%20of%20Allah.pdf)]
 
 ### Bangla Books
 
