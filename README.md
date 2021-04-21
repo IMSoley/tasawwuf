@@ -168,7 +168,8 @@
 * Rumi: Swallowing the Sun [[Amazon](https://amzn.to/3skD9kq), [PDF](http://library.lol/main/C8F7C1B10C7181843D04B3A2092DE43E)]
 * Love: The Joy That Wounds: The Love Poems of Rumi [[Amazon](https://amzn.to/3bwuTaa), [PDF](http://library.lol/main/18156F0CB4A67A84524EC3AA6D64B49B)]
 * In the Arms of the Beloved [[Amazon](https://amzn.to/3sk8vYf), [PDF](http://library.lol/main/832184BC4762E880A79AEBA8421FF2BF)]
-* Spiritual Verses [[Amazon](https://amzn.to/3kHl6SU)]
+* Spiritual Verses [[Amazon](https://amzn.to/3kHl6SU), [PDF](http://library.lol/main/9E210DCB9F2A2490B69EB3EDFA274BB2)]
+* The Rubais of Rumi: Insane with Love
 * The Purity of Desire: 100 Poems of Rumi [[Amazon](https://amzn.to/3bNnVh7)]
 * Signs of the Unseen: The Discourses of Jalaluddin Rumi [[Amazon](https://amzn.to/3qa2I5W), [PDF](http://library.lol/main/496D5706330200BE72C4ACD46728B970)]
 * Love's Ripening: Rumi on the Heart's Journey [[Amazon](https://amzn.to/2NNmK9A)]
@@ -203,7 +204,7 @@
 * The Shape of Light [[Amazon](https://amzn.to/37GSoMK), [PDF](https://sufipathoflove.files.wordpress.com/2020/01/shihabuddin-yahaya-al-suhrawardi-the-shape-of-light_interpreted-by-tosun-bayrak11-1.pdf)]
 * The Awarif Ul Ma’arif [[Amazon](https://amzn.to/3aPPGGF), [PDF](https://archive.org/download/UmarSuhrawardiAwarifAlMaarif/Umar%20Suhrawardi_Awarif%20al-Maarif.pdf)]
 * The School of Illumination [[Amazon](https://amzn.to/3pQpBLL), [PDF](https://freeyourmindtx.net/wp-content/uploads/2019/01/Suhrawardi-and-the-School-of-Illumination-by-Mehdi-Amin-Razavi.pdf)]
-* The Philosophy of Illumination [[Amazon](https://amzn.to/3pUNAtq)]
+* The Philosophy of Illumination [[Amazon](https://amzn.to/3pUNAtq), [PDF](http://library.lol/main/9185C381886A32FF7891F496BBC80C54)]
 
 ### Abdallah ibn Alawi al-Haddad
 
