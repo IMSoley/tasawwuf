@@ -722,6 +722,7 @@
 
 * The Healing Power of Sufi Meditation by Nurjan Mirahmadi [[Amazon](https://amzn.to/384AvYd), [PDF](https://archive.org/download/NaqshbandiAliyyaBooks/NurjanMirahmadi-SufiMeditation.pdf)]
 * Muraqaba: Art and Science of Sufi Meditation [[Amazon](https://amzn.to/3u14KrJ), [PDF](https://drive.google.com/file/d/1E92qvBN0vKfmKE21-fIieNdDZQDJCmSJ/view?usp=sharing)]
+* Book Of Sufi Healing By Hakim Chishti [[PDF](https://archive.org/download/BookOfSufiHealingByShaykhChishti/Book-of-Sufi-Healing-by-Shaykh-Chishti.pdf)]
 * Sufi Meditation and Contemplation: Timeless Wisdom from Mughal India [[Amazon](https://amzn.to/3up0zWO)]
 * The Sufi Book of Life: 99 Pathways of the Heart for the Modern Dervish [[Amazon](https://amzn.to/3wAu1en)]
 * Living Presence (Revised): The Sufi Path to Mindfulness and the Essential Self [[Amazon](https://amzn.to/3bclaGS), [PDF](http://library.lol/main/C4BED5951CB5FDA4F6901E128D51BC73)]
@@ -741,6 +742,7 @@
 * The Sufi Path of Annihilation: In the Tradition of Mevlana Jalaluddin Rumi and Hasan Lutfi Shushud [[Amazon](https://amzn.to/2OvsUvj)]
 * Journey to the Lord of Power: A Sufi Manual on Retreat [[Amazon](https://amzn.to/37IZ7FU), [PDF](https://archive.org/download/JourneyToTheLordOfPowerRisalatAlAnwarFimaYunahSahibAlKhalwaMinAlAsrarByIbnArabi/Journey%20to%20the%20Lord%20of%20Power%20%28Risalat%20al-anwar%20fima%20yunah%20sahib%20al-khalwa%20min%20al-asrar%29%20by%20Ibn%20Arabi.pdf)]
 * Physicians of the Heart: A Sufi View of the 99 Names of Allah [[Amazon](https://amzn.to/3d0MYik), [PDF](https://archive.org/download/PhysiciansOfTheHeart.ViewOfTheNinetyNineNamesOfAllah/Physicians%20of%20the%20Heart.%20View%20of%20the%20Ninety-Nine%20Names%20of%20Allah.pdf)]
+* The Illuminated Prayer: The Five-Times Prayer of the Sufis by Coleman Barks [[PDF](https://archive.org/details/illuminatedpraye00bark)]
 
 ### Bangla Books
 
@@ -782,6 +784,6 @@
 
 <span align="center">
 
- <i>Books-en: 424; Lectures: 22; Tafsir: 9; Papers: 20; Articles: 4; Websites: 8; Books-bn: 26</i>
+ <i>Books-en: 426; Lectures: 22; Tafsir: 9; Papers: 20; Articles: 4; Websites: 8; Books-bn: 26</i>
 
 </span>
