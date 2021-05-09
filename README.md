@@ -786,6 +786,6 @@
 
 <span align="center">
 
- <i>Books-en: 426; Lectures: 22; Tafsir: 9; Papers: 20; Articles: 4; Websites: 8; Books-bn: 26</i>
+ <i>Books-en: 428; Lectures: 22; Tafsir: 9; Papers: 20; Articles: 4; Websites: 8; Books-bn: 26</i>
 
 </span>
