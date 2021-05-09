@@ -119,6 +119,8 @@
 * Grand Saint Master & Sultan of Saint Masters Hazrat Abdul Qadir Jilani [[PDF](https://drive.google.com/file/d/1QFrDgJpm8-zuvpze_AvFVZ60XgnglAju/view?usp=sharing)]
 * The Saint of Jilan [[Amazon](https://amzn.to/3elBZkF), [PDF](http://s745899874.online-home.ca/KB/The%20Saint%20of%20Jilan%20PU-3618/WQ.pdf)]
 * Utterances of Shaikh 'Abd al-Qadir al-Jilani [[Amazon](https://amzn.to/38l6WBM), [PDF](https://archive.org/download/MalfuzatutterancesByQadirAlJilani/Malfuzat%20%28utterances%29%20by%20Qadir%20al-Jilani.pdf)]
+* The Sublime Revelation [[Amazon](https://amzn.to/3xWBUeN), [Additional](http://www.al-baz.com/shaikhabdalqadir/Books_and_Text_of_Wisdom/Al-Fath_ar-Rabbani/al-fath_ar-rabbani.htm)]
+* Fifteen Letters (Khamsata 'Ashara Maktuban) [[Amazon](https://amzn.to/3hchLLK), [Additional](http://www.al-baz.com/shaikhabdalqadir/Books_and_Text_of_Wisdom/Khamsatta__Ashara_Maktuban/khamsatta__ashara_maktuban.htm)]
 
 ### Ibn Arabi
 
