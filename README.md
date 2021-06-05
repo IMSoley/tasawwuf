@@ -4,7 +4,7 @@
 
 <span align="center">
 
-<i>I am a caged bird, seeking my way back to Home<br/>Bless me on this blessed journey<br/> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; — Muhammad Soleyman</i>
+<i>A quite simple man in search of Truth<br/>Bless me on this blessed journey<br/> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; — Muhammad Soleyman</i>
 
 </span>
 
@@ -149,6 +149,7 @@
 * Ibn al-Arabi On the Mysteries of Fasting [[Amazon](https://amzn.to/2OD28k7), [PDF](http://library.lol/main/107DCFBB5837767843E6E87429ECB84D)]
 * The Reflective Heart: Discovering Spiritual Intelligence in Ibn 'Arabi's 'Meccan Illuminations' [[Amazon](https://amzn.to/3em4Jtx)]
 * Divine Governance of the Human Kingdom: Including What the Seeker Needs and The One Alone [[Amazon](https://amzn.to/2MWx7Hu), [PDF](https://archive.org/download/DivineGovernanceIbnArabi/divine%20governance%20-%20ibn%20arabi.pdf)]
+* The Philosophy of Ibn Arabi [[Amazon](https://amzn.to/3pq8YYL), [PDF](http://library.lol/main/5E28312BAACD0C0A45CB20A864A507E4)]
 
 ### Jalaluddin Muhammad Rumi
 
@@ -659,7 +660,7 @@
 * Kashf al-Asrar: The Unveiling of the Mysteries by Rashid al-Din Maybudi [[Amazon](https://amzn.to/388b33V), [PDF](https://www.altafsir.com/Books/kashf.pdf)]
 * The Message of the Qur'an by Muhammad Asad [[Amazon](https://amzn.to/2NT2Eus), [PDF](http://www.muhammad-asad.com/Message-of-Quran.pdf)]
 * Sufi Commentaries on the Qur'an in Classical Islam [[Amazon](https://amzn.to/38TzEtG), [PDF](http://library.lol/main/53DDB64B397D2A064C9E601E3D02BC9C)]
-* The Lamp of Mysteries: A Commentary on the Light Verse of the Quran
+* The Lamp of Mysteries: A Commentary on the Light Verse of the Quran [[Amazon](https://amzn.to/3wXh6T4)]
 
 ### Lectures
 
@@ -786,6 +787,6 @@
 
 <span align="center">
 
- <i>Books-en: 428; Lectures: 22; Tafsir: 9; Papers: 20; Articles: 4; Websites: 8; Books-bn: 26</i>
+ <i>Books-en: 429; Lectures: 22; Tafsir: 9; Papers: 20; Articles: 4; Websites: 8; Books-bn: 26</i>
 
 </span>
