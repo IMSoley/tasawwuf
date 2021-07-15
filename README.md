@@ -4,7 +4,7 @@
 
 <span align="center">
 
-<i>A quite simple man in search of Truth<br/>Bless me on this blessed journey<br/> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; — Muhammad Soleyman</i>
+<i>A quite simple man in search of Truth<br/>Bless me on this blessed journey<br/> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; — Md Soleyman</i>
 
 </span>
 
