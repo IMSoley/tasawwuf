@@ -42,12 +42,13 @@
   <li><a href="#javad-nurbakhsh">Javad Nurbakhsh</a></li>
   <li><a href="#shaykh-ahmad-hendricks">Shaykh Ahmad Hendricks</a></li>
   <li><a href="#henry-corbin">Henry Corbin</a></li>
+  <li><a href="#seyyed-hossein-nasr">Seyyed Hossein Nasr</a></li>
  </ol>
 </td>
 <td align="left">
 <img width="480" height="0">
- <ol start="27">
-  <li><a href="#seyyed-hossein-nasr">Seyyed Hossein Nasr</a></li>
+ <ol start="28">
+  <li><a href="#khwaja-shamsuddin-azeemi">Khwaja Shamsuddin Azeemi</a></li>
   <li><a href="#annemarie-schimmel">Annemarie Schimmel</a></li>
   <li><a href="#idries-shah">Idries Shah</a></li>
   <li><a href="#llewellyn-vaughan-lee-phd">Llewellyn Vaughan-Lee</a></li>
@@ -523,6 +524,22 @@
 * The Stations Of The Religion: A description of the steps of SPiritual Wayfaring [[Amazon](https://amzn.to/3ffH7aA)]
 * In the Meadows of Tafsir for the Noble Quran [[Amazon](https://amzn.to/3rqWFeb)]
 
+### Khwaja Shamsuddin Azeemi
+
+* Journey Towards Insight By Sufi Teacher [[PDF](https://ksars.org/filemanager/files/shares/Journey_Towards_Insigh.pdf)]
+* KASHKOAL (Past.Present.Future) [[PDF](https://ksars.org/filemanager/files/shares/KASHKOL.pdf)]
+* Learn Telepathy [[PDF](https://ksars.org/filemanager/files/shares/English_Books/LEARN_TELEPATHY.pdf)]
+* Lectures on Loh-O-Qalum (The Pen and the Scripturum) [[PDF](https://ksars.org/filemanager/files/shares/English_Books/lecture_on_loh_o_qalum.pdf)]
+* Loh O Qalam [[PDF](https://ksars.org/filemanager/files/shares/English_Books/Loh_o_Qalum.pdf)]
+* MUHAMMAD (PBUH) The Prophet Of God [[Part I-PDF](https://ksars.org/files/shares/English_Books/MRA1.pdf), [Part II-PDF](https://ksars.org/files/shares/English_Books/MRA2.pdf)]
+* Parapsychology [[PDF](https://ksars.org/files/shares/English_Books/PARAPSYCHOLOGY.pdf)]
+* Qalander Baba Auliya [[PDF](https://ksars.org/files/shares/Qalandar_Baba_Auliya__QBA_.pdf)]
+* Qalandar Conscious [[PDF](https://ksars.org/files/shares/English_Books/QALANDER_CONSCIOUS.pdf)]
+* Spiritual Healing (A Practical Guide to Cure) [[PDF](https://ksars.org/filemanager/files/shares/SPIRITUAL_HEALING_ENG.pdf)]
+* Spiritual Prayer [[PDF](https://ksars.org/filemanager/files/shares/English_Books/SPIRITUAL_PRAYER_ENG.pdf)]
+* Ahsan o Tasawwuf [[PDF](https://ksars.org/filemanager/files/shares/English_Books/SUFISM__Ahsan_o_tasawuf_.pdf)]
+* Theory of Chromolucis [[PDF](https://ksars.org/files/shares/English_Books/THEORY-OF-CHROMOLUCIS.pdf)]
+
 ### Poetry
 
 * Poems by Hazrat Rabia Basri [[PDF](https://www.poemhunter.com/i/ebooks/pdf/rabia_al_basri_2012_5.pdf)]
@@ -787,6 +804,6 @@
 
 <span align="center">
 
- <i>Books-en: 429; Lectures: 22; Tafsir: 9; Papers: 20; Articles: 4; Websites: 8; Books-bn: 26</i>
+ <i>Books-en: 442; Lectures: 22; Tafsir: 9; Papers: 20; Articles: 4; Websites: 8; Books-bn: 26</i>
 
 </span>
