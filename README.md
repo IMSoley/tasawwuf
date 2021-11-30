@@ -663,6 +663,7 @@
 * The Refinement Of Souls [Taj Al-Arus Al-Hawi Li Tahdhib Al-Nufus] [[Amazon](https://amzn.to/3cqwvns)]
 * Emir Abd el-Kader: Hero and Saint of Islam [[Amazon](https://amzn.to/3spxGsX)]
 * Irshad: Wisdom of a Sufi Master [[Amazon](https://amzn.to/3dcXfa6)]
+* Pure Gold from the Words of Sayyidi Abd al-Aziz al-Dabbagh [[PDF](https://archive.org/details/Ibriz-english)]
 * Language of the Heart: A Sufi Interpretation of Form (Sura) and Meaning (Mana) in Contemporary Society [[Amazon](https://amzn.to/3cn0dtC)]
 * The Path of Muhammad: A Book on Islamic Morals & Ethics by Imam Birgivi [[Amazon](https://amzn.to/3rrIB41), [PDF](https://archive.org/download/ThePathOfMuhammad.ABookOnIslamicMoralsEthicsByImamBirgiviByTosunBayrak/The%20Path%20of%20Muhammad.%20A%20Book%20on%20Islamic%20Morals%20%26%20Ethics%20by%20Imam%20Birgivi%20by%20Tosun%20Bayrak.pdf)]
 * Ibn Khaldun on Sufism: Remedy for the Questioner in Search of Answers [[Amazon](https://amzn.to/31pfJi4), [PDF](https://drive.google.com/file/d/11740QsWDOVyD9s53bQGq5LbTlLIb1AZ2/view?usp=sharing)]
@@ -804,6 +805,6 @@
 
 <span align="center">
 
- <i>Books-en: 442; Lectures: 22; Tafsir: 9; Papers: 20; Articles: 4; Websites: 8; Books-bn: 26</i>
+ <i>Books-en: 443; Lectures: 22; Tafsir: 9; Papers: 20; Articles: 4; Websites: 8; Books-bn: 26</i>
 
 </span>
